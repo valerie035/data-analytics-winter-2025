@@ -37,6 +37,8 @@ We will be using a variety of different technologies throughout our course. Plea
 
 ## **Course Schedule**  
 
+_Subject to change!_ 
+
 _Modules will be released each Saturday for the following week._
 
 | **Week** | **Date**   | **Class Description**                         | **Format**                  | **Homework**                                                                 |
