@@ -31,11 +31,13 @@ We will be using a variety of different technologies throughout our course. Plea
 ---
 
 ## **Resources**  
-- **Tech Moms Data Analytics Resources Repo:** [Link](#)  
+- **Tech Moms Data Analytics Resources Repo:** [Link](https://github.com/tech-moms/data-analytics-resources)  
 
 ---
 
 ## **Course Schedule**  
+
+_Modules will be released each Saturday for the following week._
 
 | **Week** | **Date**   | **Class Description**                         | **Format**                  | **Homework**                                                                 |
 |----------|------------|-----------------------------------------------|----------------------------|-----------------------------------------------------------------------------|
@@ -43,19 +45,19 @@ We will be using a variety of different technologies throughout our course. Plea
 | Week 2   | 1/12        | **AI Foundations**                       | Online (Wed/Sat)            | Complete Module 1.5 course materials on GitHub                               |
 | Week 3   | 1/19        |  **Excel/Google Sheets**                               | Online (Wed/Sat)            | Coutinue Module 2 course materials on GitHub                               |
 | Week 4   | 1/26       |   **Advanced Excel/Google Sheets**                      | Online (Wed/Sat)            | Complete Module 2.5 course materials on GitHub                               |
-| Week 5   | 2/2       |  **Intro to SQL**                     | Online (Wed) / In Person    | Complete Module 3 course materials on GitHub                               |
-| Week 6   | 2/9       |  **Advanced to SQL**            | Online (Wed/Sat)            | Complete Module 3.5 course materials on GitHub                               |
-| Week 7   | 2/16       |     **BI Tooling: Tableau**          | Online (Wed/Sat)            | Create your own Module 4 course materials on GitHub                        |
-| Week 8   | 2/23      |  **Data Storytelling**                           | Online (Wed) / In Person    | Complete Module 5 course materials on GitHub                               |
+| Week 5   | 2/2       |  **Intro to SQL**                     | Online (Wed) / In Person @ TBD   | Complete Module 3 course materials on GitHub                               |
+| Week 6   | 2/9       |  **Advanced SQL**            | Online (Wed/Sat)            | Complete Module 3.5 course materials on GitHub                               |
+| Week 7   | 2/16       |     **BI Tooling: Tableau**          | Online (Wed/Sat)            | Complete Module 4 course materials on GitHub                        |
+| Week 8   | 2/23      |  **Data Storytelling**                           | Online (Wed) / In Person  @ Adobe in Lehi  | Complete Module 5 course materials on GitHub                               |
 | Week 9   | 3/2      | **BI Tooling: Looker**        | Online (Wed/Sat)            | Complete Module 5 course materials on GitHub   |
 | Week 10  | 3/9       |  **BI Tooling: Domo**              | Online (Wed/Sat)            | Complete Module 6 course materials on GitHub                                           |
 | Week 11  | 3/16      | **Intro to Python/Data Engineering**        | Online (Wed/Sat)            | Complete Module 7 course materials on GitHub                                             |
-| Week 12  | 3/23      | **Choose Your Own Adventure** | Online (Wed/Sat)    | Complete Module 8 course materials on GitHub              |
+| Week 12  | 3/23      | **Choose Your Own Adventure** | Online (Wed) / In Person @ TBD    | Complete Module 8 course materials on GitHub              |
 | Bi-Week  | 3/30      | **Spring Break** | 🌴🌴🌴 | Enjoy a week off!            |
 | Week 13  | 4/6      | **Real World Analysis Kick Off** | Online (Wed/Sat)    | Choose a business or non-profit to create a dashboard or analytic report                 |
 | Week 14  | 4/13      | **Real World Analysis Project** | Online (Wed/Sat)  | Work on your final project and prepare for your presentation                |
 | Week 15  | 4/20      | **Real World Analysis Project** | Online (Wed/Sat)    | Work on your final project and prepare for your presentation                |
-| Week 16 | 4/27 | **Final Project Presentation & Graduation 🎉** | Online (Wed) / In Person    | Finish your final project and present for your presentation! |                 |
+| Week 16 | 4/27 | **Final Project Presentation & Graduation 🎉** | Online (Wed) / In Person    | Finish your final project and present at graduation! |                 
 
 
 
