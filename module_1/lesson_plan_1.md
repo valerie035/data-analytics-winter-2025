@@ -35,12 +35,12 @@ _click on the image above to access slides_
 
 _click on the image above to access slides_
 
-- [ ] **How We Will Use GitHub in our Course**
+- [x] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) this Repository 
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
      
-- [ ] **GitHub Assessment**
+- [x] **GitHub Assessment**
   - Complete [this](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform) GitHub Assessment to verify retention of new vocabulary & concepts
  
 ----
@@ -51,14 +51,14 @@ _click on the image above to access slides_
 
 ## 4. What is Data Analytics? (15 minutes)
 
-- [ ] **Definition of Data Analytics:**
+- [x] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
   - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
-- [ ] **Importance of Data Literacy:**
+- [x] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
-- [ ] **Real-Life Examples:**
+- [x] **Real-Life Examples:**
   - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life. Example: Using survey data to inform curriculm for this class. 
 
 ---
