@@ -51,28 +51,28 @@ _click on the image above to access slides_
 
 ## 4. What is Data Analytics? (15 minutes)
 
-- [ ] **Definition of Data Analytics:**
+- [X] **Definition of Data Analytics:**
   - Explanation of data analytics as the process of examining data sets to draw conclusions about the information they contain.
   - Discuss the role of data analytics in decision-making, problem-solving, and driving business success. Example: using Geo data to find a centeral location for class.
 
-- [ ] **Importance of Data Literacy:**
+- [X] **Importance of Data Literacy:**
   - Data literacy is a vital life skill, useful in various aspects of life, such as creating a personal budget, making informed decisions, and understanding trends.
 
-- [ ] **Real-Life Examples:**
+- [X] **Real-Life Examples:**
   - Use examples such as budgeting, tracking expenses, and analyzing household data to show how data analytics can be applied in everyday life. Example: Using survey data to inform curriculm for this class. 
 
 ---
 
 ## 5. Roles in the Data Field (15 minutes)
 
-- [ ] **Overview of Key Roles:**
+- [X] **Overview of Key Roles:**
   - **Data Analyst:** Focuses on interpreting data, analyzing results, and generating reports to help businesses make informed decisions.
   - **Data Scientist:** Uses advanced techniques, such as machine learning and statistical modeling, to predict future trends and solve complex problems.
   - **Data Engineer:** Develops, constructs, tests, and maintains data architectures (e.g., databases and large-scale processing systems).
   - **Analytics Engineer:** Bridges the gap between data engineering and data analysis by building scalable data pipelines and transforming data into a usable format.
   - **People Analyst:** Focuses on understanding and improving human resources practices by analyzing employee data, such as productivity, engagement, and retention.
 
-- [ ] **Activity:**
+- [X] **Activity:**
   - Group discussion on which roles resonate most with participants and why.
 
 ---
@@ -97,7 +97,7 @@ _click on the image above to access slides_
 
 ## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
-- [ ] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
+- [X] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
 
 - [X] **Definitions and Examples:**
   - **Mean:** The average of a set of numbers.  
