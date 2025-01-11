@@ -35,7 +35,7 @@ _click on the image above to access slides_
 
 _click on the image above to access slides_
 
-- [ ] **How We Will Use GitHub in our Course**
+- [X] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) this Repository 
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
