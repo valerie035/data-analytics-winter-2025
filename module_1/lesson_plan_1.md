@@ -30,7 +30,7 @@ _click on the image above to access slides_
 ## 2. GitHub Orientation (30 mins)
 
 <a href="https://docs.google.com/presentation/d/1ttR8RHF_bvDvXxFFcWyrDF-R8yrwz2Nv7C52DkT7wmA/edit?usp=sharing">
-<img alt="Screenshot 2025-01-11 at 8 32 42 AM" src="https://github.com/user-attachments/assets/1466f1a6-a2c8-4af5-8725-18db6f5d30c2" width="600" />
+<img alt="Screenshot 2025-01-11 at 8 32 42 AM" src="Screenshot 2025-01-11 at 8 53 15 AM" src="https://github.com/user-attachments/assets/8a494926-d4c2-492c-b340-1f09ab8ad4b7" width="600" />
 </a>
 
 _click on the image above to access slides_
@@ -118,3 +118,5 @@ _click on the image above to access slides_
 ---
 
 ## 7. Q&A and Closing (15 minutes)
+
+- [ ] Next Steps - look out for an email & post in slack for the AI foundations module & the assignment completion dates (Wednesday & Saturday). 
