@@ -1,4 +1,4 @@
-# **Tech-Moms Data Analytics Course (Spring 2025)**
+# **Tech-Moms Data Analytics Course (Winter 2025)**
 
 Welcome to the **Tech-Moms Data Analytics Course**! This course is designed to empower women with the skills to break into the data analytics field. Over the next 15 weeks, you will gain hands-on experience with industry-standard tools such as **Excel/Google Sheets, SQL, Tableau, Looker, Domo, and Python**. In addition we will cover how to leverage AI, data visualization best practices, and critical thinking when it comes to analyzing data and surfacing insights. 
 
