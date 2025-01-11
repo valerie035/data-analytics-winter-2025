@@ -60,7 +60,7 @@ This approach will help you build familiarity with GitHub, an essential tool in 
   - What is Data Analytics?
   - Overview of the Data Analytics Lifecycle
   - Roles in Data Analytics
-- 🔗 [Lesson Plan](./module-1-intro-to-data-analytics/lesson-plan.md)
+- 🔗 [Lesson Plan](./module_1/lesson_plan_1.md)
 
 ---
 
