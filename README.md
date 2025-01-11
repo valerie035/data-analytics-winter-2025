@@ -11,11 +11,11 @@ Welcome to the **Tech-Moms Data Analytics Course**! This course is designed to e
 | **Format:**            | Remote + In-Person Meetups |
 | **Online Class Schedule:**    | Wednesdays 7:00 PM - 9:00 PM (Zoom) 
 | |  Saturdays 10:00 AM - 12:00 PM (Zoom) |  
-| |  March 31 – April 6 (No classes) |  
+| |  March 31 – April 6 (No classes - Spring Break) |  
 | **In-person Classes:** | Saturday, January 11 - 🕙 10 AM - 2 PM - 📍 *PROG Dev Center - West Valley, UT* |
-| | Saturday, February 1 - 🕙 10 AM - 2 PM -📍 *TBD* |
+| | Saturday, February 1 - 🕙 10 AM - 2 PM -📍 *Health Catalyst - South Jordan, UT* |
 | | Saturday, March 1 - 🕙 10 AM - 2 PM - 📍 *Adobe - Lehi, UT* |
-| | Saturday, April 12 -  🕙 10 AM - 2 PM - 📍 *TBD* |
+| | Saturday, March 29 -  🕙 10 AM - 2 PM - 📍 *TBD* |
 | | Saturday, May 3 - 🕙 10 AM - 2 PM - 🎓 *GRADUATION DAY* - 📍 *TBD* |
 | **Instructors:**       | Alyson La + Kelsey Taylor |
 | **Class Mentors:** | Tanya Seegmiller, Keenan Engstrom, Aproova Bura, + Worthy Lee | 
