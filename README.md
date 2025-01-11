@@ -6,7 +6,7 @@ Welcome to the **Tech-Moms Data Analytics Course**! This course is designed to e
 
 ## **Course Overview**
 
-| **Course Duration:**  | 15 weeks - January 8 – May 3, 2025   |
+| **Course Duration:**  | 16 weeks - January 8 – May 3, 2025   |
 |-----------------------|--------------------------|
 | **Format:**            | Remote + In-Person Meetups |
 | **Online Class Schedule:**    | Wednesdays 7:00 PM - 9:00 PM (Zoom) 
