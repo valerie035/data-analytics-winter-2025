@@ -6,7 +6,7 @@ This 16-week course is designed to help you transform from a beginner to a skill
 ---
 
 ## **Student Learning Outcomes**  
-By the end of this course, students will have developed a comprehensive skill set in data analytics. They will be proficient in using Excel and Google Sheets for data manipulation and visualization, capable of writing and executing SQL queries to extract and manage data from databases, and adept at utilizing Business Intelligence (BI) tools for creating insightful dashboards and reports. Additionally, students will gain hands-on experience through projects that simulate real-world data analytics tasks. The course will also review concepts on how to leverage AI for data analysis and provide a preview of Python programming and data engineering concepts, preparing students for roles in data analysis, business intelligence, and data-driven decision-making in various industries.
+By the end of this course, students will have developed a comprehensive skill set in data analytics. They will be proficient in using Excel and Google Sheets for data manipulation and visualization, capable of writing and executing SQL queries to extract and manage data from databases, and adept at utilizing Business Intelligence (BI) tools for creating insightful dashboards and reports. Additionally, students will gain hands-on experience through projects that simulate real-world data analytics tasks. The course will also review concepts on how to leverage AI for data analysis preparing students for roles in data analysis, business intelligence, and data-driven decision-making in various industries.
 
 ---
 
@@ -41,20 +41,20 @@ _Subject to change!_
 
 _Modules will be released each Saturday for the following week._
 
-| **Week** | **Date**   | **Class Description**                         | **Format**                  | **Homework**                                                                 |
+| **Week #** | **Week Of Date**   | **Class Description**                         | **Format**                  | **Homework**                                                                 |
 |----------|------------|-----------------------------------------------|----------------------------|-----------------------------------------------------------------------------|
-| Week 1   | 1/5       | **Data Analytics Foundations**                 | In Person (Prog Dev Center) | Complete Module 1 course materials on GitHub                               |
+| Week 1   | 1/5       | **Data Analytics Foundations**                 | In Person @ Prog Dev Center in West Valley | Complete Module 1 course materials on GitHub                               |
 | Week 2   | 1/12        | **AI Foundations**                       | Online (Wed/Sat)            | Complete Module 1.5 course materials on GitHub                               |
 | Week 3   | 1/19        |  **Excel/Google Sheets**                               | Online (Wed/Sat)            | Coutinue Module 2 course materials on GitHub                               |
-| Week 4   | 1/26       |   **Advanced Excel/Google Sheets**                      | Online (Wed/Sat)            | Complete Module 2.5 course materials on GitHub                               |
-| Week 5   | 2/2       |  **Intro to SQL**                     | Online (Wed) / In Person @ TBD   | Complete Module 3 course materials on GitHub                               |
+| Week 4   | 1/26       |   **Advanced Excel/Google Sheets**                      | Online (Wed) / In Person @ Health Catalyst in South Jordan           | Complete Module 2.5 course materials on GitHub                               |
+| Week 5   | 2/2       |  **Intro to SQL**                     |  Online (Wed/Sat)  | Complete Module 3 course materials on GitHub                               |
 | Week 6   | 2/9       |  **Advanced SQL**            | Online (Wed/Sat)            | Complete Module 3.5 course materials on GitHub                               |
-| Week 7   | 2/16       |     **BI Tooling: Tableau**          | Online (Wed/Sat)            | Complete Module 4 course materials on GitHub                        |
-| Week 8   | 2/23      |  **Data Storytelling**                           | Online (Wed) / In Person  @ Adobe in Lehi  | Complete Module 5 course materials on GitHub                               |
-| Week 9   | 3/2      | **BI Tooling: Looker**        | Online (Wed/Sat)            | Complete Module 5 course materials on GitHub   |
-| Week 10  | 3/9       |  **BI Tooling: Domo**              | Online (Wed/Sat)            | Complete Module 6 course materials on GitHub                                           |
-| Week 11  | 3/16      | **Intro to Python/Data Engineering**        | Online (Wed/Sat)            | Complete Module 7 course materials on GitHub                                             |
-| Week 12  | 3/23      | **Choose Your Own Adventure** | Online (Wed) / In Person @ TBD    | Complete Module 8 course materials on GitHub              |
+| Week 7   | 2/16       |     **BI Tooling: Power BI & Data Storytelling**          | Online (Wed/Sat)            | Complete Module 4 course materials on GitHub                        |
+| Week 8   | 2/23      |  **BI Tooling: Tableau 1**                           | Online (Wed) / In Person  @ Adobe in Lehi  | Complete Module 5 course materials on GitHub                               |
+| Week 9   | 3/2      | **BI Tooling: Tableau 2**        | Online (Wed/Sat)            | Complete Module 5 course materials on GitHub   |
+| Week 10  | 3/9       |  **BI Tooling: Looker 1**              | Online (Wed/Sat)            | Complete Module 6 course materials on GitHub                                           |
+| Week 11  | 3/16      | **BI Tooling: Looker 2**        | Online (Wed/Sat)            | Complete Module 7 course materials on GitHub                                             |
+| Week 12  | 3/23      | **BI Tooling: DOMO** | Online (Wed) / In Person @ TBD    | Complete Module 8 course materials on GitHub              |
 | Bi-Week  | 3/30      | **Spring Break** | 🌴🌴🌴 | Enjoy a week off!            |
 | Week 13  | 4/6      | **Real World Analysis Kick Off** | Online (Wed/Sat)    | Choose a business or non-profit to create a dashboard or analytic report                 |
 | Week 14  | 4/13      | **Real World Analysis Project** | Online (Wed/Sat)  | Work on your final project and prepare for your presentation                |
