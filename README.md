@@ -83,7 +83,7 @@ The syllabus outlines key course goals, expectations, and weekly learning object
 If you’re a TA or contributing to the course:
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/Tech-Moms/data-analytics-spring-2025.git
+   git clone https://github.com/Tech-Moms/data-analytics-winter-2025.git
 
 2. **Create a New Branch:**
 
