@@ -101,7 +101,7 @@ The potential for AI to help society is enormous. But at the same time we need t
 
 ----
 
-- [ ] Listen to this [audiobook preview](https://www.youtube.com/watch?v=fd7fr0iYBdg) of Co-Intelligence by Ethan Mollick
 
----
+
+
 
