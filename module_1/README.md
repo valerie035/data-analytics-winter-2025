@@ -111,11 +111,11 @@ In this video you'll see how to create your very own personalized AI assistant. 
 
 ## Wednesday, Janurary 15th - In Class Agenda: 
 
-1) Networking 
-2) Review Video Lessons
-2) Lecture: Using AI in Education: Chatbots as Tutors and Learning Coaches
-3) Assignment Overview 
-4) Q&A 
+1) 👯‍♀️ Networking 
+2) ⏮️ Review Video Lessons
+2) 👩🏻‍🏫 Lecture: Using AI in Education: Chatbots as Tutors and Learning Coaches
+3) 📆 Assignment Overview 
+4) ❓ Q&A & Look Ahead
 
 ---
 
@@ -125,7 +125,7 @@ In this video you'll see how to create your very own personalized AI assistant. 
 
 ## Saturday, Janurary 18th - In Class Agenda: 
 
-1) Share & Tell 
-2) Guest Speaker 
+1) 🙌🏻 Share & Tell 
+2) 💃 Guest Speaker 
 
 
