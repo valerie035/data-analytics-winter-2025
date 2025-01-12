@@ -4,16 +4,22 @@
 
 _Edit the markdown file with an x in the checkbox when complete, then commit changes._
 
+- [ ] Complete the [Weber St registration](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
+- [ ] Complete the [Weber St Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
+
 ## Module Overview
 In this module, students will explore the foundations of Artificial Intelligence & Machine Learning (ML). Students will learn how ML uses data to make predictions and uncover patterns, the history and evolution of AI, and practical applications of AI tools in modern workflows. They will also gain hands-on experience using AI as a tutor and critiquing it's output compared with using Google or asking a human.
 
 ## Learning Objectives
-By the end of this module, students will be able to:
-- Understand the basic concepts of Machine Learning and its reliance on data.
-- Summarize a brief history of Artificial Intelligence.
-- Identify and differentiate between various roles AI can play, such as a tutor and a coach.
-- Recognize key AI tools like Claude, MidJourney, Bing, ChatGPT, and NotebookLM.
-- Critique AI-generated output to assess it's validity, strengths, and weaknesses.
+By the end of this module, students will:
+
+1. Understand the basic concepts of artificial intelligence and machine learning
+2. Dive into how generative AI works, including large language models (LLMs) and image generation
+3. Explore bias, ethics, privacy and the responsible use of AI
+4. Touch on real world applications of AI, including computer vision
+5. Identify and differentiate between various roles AI can play, such as a tutor and a coach.
+6. Recognize key AI tools like Claude, MidJourney, Bing, ChatGPT, and NotebookLM.
+7. Critique AI-generated output to assess it's validity, strengths, and weaknesses.
 
 ---
 
@@ -21,7 +27,7 @@ By the end of this module, students will be able to:
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-_Estimated **total** time to complete: 4 hours_
+_Estimated **total** time to complete: 40 minutes_
 
 ----
 
@@ -94,3 +100,8 @@ The potential for AI to help society is enormous. But at the same time we need t
 - [ ] Watch [video](https://www.youtube.com/watch?v=tJQSyzBUAew) and mark when complete 
 
 ----
+
+- [ ] Listen to this [audiobook preview](https://www.youtube.com/watch?v=fd7fr0iYBdg) of Co-Intelligence by Ethan Mollick
+
+---
+
