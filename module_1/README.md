@@ -101,10 +101,24 @@ The potential for AI to help society is enormous. But at the same time we need t
 
 ----
 
+### Building a Custom Chat GPT 
+
+In this video you'll see how to create your very own personalized AI assistant. This could be used to build a chatbot to help with sales, automate research, clone your ability to answer questions about complex topics, or even do data analysis or tutor you in data analysis.
+
+- [ ] Watch [video](https://www.youtube.com/watch?v=HYwa43Elxwo) and mark when complete 
+
+----
+
+## Wednesday, Saturday, Janurary 15th - In Class Agenda: 
+
+1) Review Video Lessons
+2) Lecture: Using AI in Education: Chatbots as Tutors and Learning Coaches
+3) Assignment Overview 
+4) Q&A 
+
+---
+
 ## Assignment - complete by Saturday, January 18th
 
 - [ ] Complete Assignment 1 and mark with complete. 
-
-
-
 
