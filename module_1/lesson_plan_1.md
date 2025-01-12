@@ -88,7 +88,7 @@ _click on the image above to access slides_
 - [X] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
-- [ ] **Hands-On Activity:**
+- [X] **Hands-On Activity:**
   - Review the pre-work excel/google dashboard assignment in small groups
   - Discuss challenges from the project & wins
   - Take time to make some improvements based on data visualization best practices
