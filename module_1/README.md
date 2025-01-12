@@ -67,7 +67,7 @@ Computer Vision is a form of machine learning used in self-driving cars, facial 
 
 In this section, you'll learn about neural networks. Neural networks are computational models inspired by the human brain, consisting of layers of interconnected nodes (neurons) that process input data by assigning weights, applying activation functions, and adjusting through training to minimize errors. They learn patterns and make predictions by iteratively updating these weights using algorithms like backpropagation, improving their accuracy over time.
 
-- [ ] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
+- [x] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
 
 ----
 
