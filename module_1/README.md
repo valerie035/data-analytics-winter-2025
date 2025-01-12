@@ -109,9 +109,10 @@ In this video you'll see how to create your very own personalized AI assistant. 
 
 ----
 
-## Wednesday, Saturday, Janurary 15th - In Class Agenda: 
+## Wednesday, Janurary 15th - In Class Agenda: 
 
-1) Review Video Lessons
+1) Networking 
+2) Review Video Lessons
 2) Lecture: Using AI in Education: Chatbots as Tutors and Learning Coaches
 3) Assignment Overview 
 4) Q&A 
@@ -121,4 +122,10 @@ In this video you'll see how to create your very own personalized AI assistant. 
 ## Assignment - complete by Saturday, January 18th
 
 - [ ] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_1/assignment_1.md) and mark when complete. 
+
+## Saturday, Janurary 18th - In Class Agenda: 
+
+1) Share & Tell 
+2) Guest Speaker 
+
 
