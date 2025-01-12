@@ -29,11 +29,65 @@ _Estimated **total** time to complete: 4 hours_
     <img src="https://github.com/user-attachments/assets/c24f1ca4-42fc-463d-a0af-f6c5f6c3901e" alt="Machine Learning" width="500">
 </a>
 
-_Est. Time to Complete: (3 mins)_
-
 In this section, you will learn about Machine Learning. Machine Learning is a subset of AI that uses data to train algorithms to make predictions or identify patterns. Examples of ML applications: fraud detection, recommendation systems, predictive analytics.   
 
 - [ ] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
+
+----
+
+<a href="https://www.youtube.com/watch?v=x2mRoFNm22g" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/73c50356-0276-4962-8447-2a25068b13f3" alt="AI Bias" width="500">
+</a>
+
+The most important aspect of Machine Learning is what data is used to train it. Find out how training data affects a machine's predictions and why biased data can lead to biased decisions.
+
+- [ ] Watch [video](https://www.youtube.com/watch?v=x2mRoFNm22g) and mark when complete 
+
+____
+
+<a href="https://youtu.be/2hXG8v8p0KM?si=xRzLfuWd2h-MIT4Z" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/0d5ec53d-07b2-466b-8a88-6fd4d087ba4b" alt="Computer Vision" width="500">
+</a>
+
+Computer Vision is a form of machine learning used in self-driving cars, facial recognition systems, and sustainable farming. Find out how a computer learns to classify images, how it can build from simple shapes to more complex figures, and why it’s so difficult for a computer to tell the difference between a chihuahua and a muffin.
+
+- [ ] Watch [video](https://youtu.be/2hXG8v8p0KM?si=xRzLfuWd2h-MIT4Z) and mark when complete 
+
+---
+
+<a href="https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/f9566911-2152-408f-aa67-6ab76718629d" alt="NN" width="500">
+</a>
+
+In this section, you'll learn about neural networks. Neural networks are computational models inspired by the human brain, consisting of layers of interconnected nodes (neurons) that process input data by assigning weights, applying activation functions, and adjusting through training to minimize errors. They learn patterns and make predictions by iteratively updating these weights using algorithms like backpropagation, improving their accuracy over time.
+
+- [ ] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
+
+----
+
+<a href="https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/d1346218-715e-4369-b120-30d399dc68ac" alt="Chatbots" width="500">
+</a>
+
+Large Language Models like ChatGPT have remarkable abilities to generate content based on training data but do they have actual intelligence? Find out more about how LLM's and Chatbots work as we explore this question. 
+
+- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN) and mark when complete 
+
+----
+
+<a href="https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/d1346218-715e-4369-b120-30d399dc68ac" alt="Chatbots" width="500">
+</a>
+
+Large Language Models like ChatGPT have remarkable abilities to generate content based on training data but do they have actual intelligence? Find out more about how LLM's and Chatbots work as we explore this question. 
+
+- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN) and mark when complete 
+
+
+
+
+
+
 
 - **Brief History of AI**  
   - Early concepts: Alan Turing and the Turing Test.  
