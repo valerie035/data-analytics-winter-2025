@@ -101,6 +101,9 @@ The potential for AI to help society is enormous. But at the same time we need t
 
 ----
 
+## Assignment - complete by Saturday, January 18th
+
+- [ ] Complete Assignment 1 and mark with complete. 
 
 
 
