@@ -27,7 +27,7 @@ By the end of this module, students will:
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-_Estimated **total** time to complete: 40 minutes_
+_Estimated **total** time to complete: 1 hour_
 
 ----
 
