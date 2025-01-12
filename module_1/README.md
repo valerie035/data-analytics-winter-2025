@@ -97,7 +97,7 @@ AI has the amazing capability to generate art, images and even complete video se
 
 The potential for AI to help society is enormous. But at the same time we need to develop technology with a focus on ethics, access and fairness. This video explores the influence of AI on every aspect of life and underscores the importance of ethical oversight to prevent the creation of biased AI algorithms. 
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=tJQSyzBUAew) and mark when complete 
+- [x] Watch [video](https://www.youtube.com/watch?v=tJQSyzBUAew) and mark when complete 
 
 ----
 
