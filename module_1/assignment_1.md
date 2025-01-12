@@ -58,7 +58,7 @@ Reflect on your experience using ChatGPT vs Google and describe:
 ---
 
 ## **Submission Requirements:**  
-Submit a link to your completed markdown file in this GitHub discussions thread.  
+Submit a link to your completed markdown file in this [GitHub discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/4) thread.  
 - **Due Date:** [Saturday, January, 18th]  
 
 ---
