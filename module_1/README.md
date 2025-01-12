@@ -71,87 +71,26 @@ In this section, you'll learn about neural networks. Neural networks are computa
 
 Large Language Models like ChatGPT have remarkable abilities to generate content based on training data but do they have actual intelligence? Find out more about how LLM's and Chatbots work as we explore this question. 
 
-- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN) and mark when complete 
+- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
 
 ----
 
-<a href="https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/d1346218-715e-4369-b120-30d399dc68ac" alt="Chatbots" width="500">
+<a href="https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/ddc30c35-2ad4-43b9-80b7-eee17ad7f7e4" alt="AIart" width="500">
 </a>
 
-Large Language Models like ChatGPT have remarkable abilities to generate content based on training data but do they have actual intelligence? Find out more about how LLM's and Chatbots work as we explore this question. 
+AI has the amazing capability to generate art, images and even complete video sequences but does it have actual creativity and imagination? And how does this type of AI work? Learn more about how AI is able to generate art including images we've never seen.
 
-- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN) and mark when complete 
+- [ ] Watch [video](https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1) and mark when complete 
 
+----
 
+<a href="https://www.youtube.com/watch?v=tJQSyzBUAew" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/88f8e1ba-8b18-4fc1-b495-aaf369f07b6b" alt="Ethics" width="500">
+</a>
 
+The potential for AI to help society is enormous. But at the same time we need to develop technology with a focus on ethics, access and fairness. This video explores the influence of AI on every aspect of life and underscores the importance of ethical oversight to prevent the creation of biased AI algorithms. 
 
+- [ ] Watch [video](https://www.youtube.com/watch?v=tJQSyzBUAew) and mark when complete 
 
-
-
-- **Brief History of AI**  
-  - Early concepts: Alan Turing and the Turing Test.  
-  - AI winters and breakthroughs in neural networks.  
-  - Current developments in generative AI.
-
-### 2. Different Roles AI Can Play
-From the book by Ethan Mollick: *Co-intelligence* on human-AI collaboration
-- **AI as a Tutor**  
-  - Example: AI assisting with personalized learning or providing real-time feedback.
-- **AI as a Coach**  
-  - Example: AI tools helping with motivation, strategy, or creativity (e.g., brainstorming).  
-
-### 3. Exploring AI Tools
-- Overview of popular AI tools:
-  - **Claude**: Conversational AI for brainstorming and text processing.  
-  - **MidJourney**: AI for creating artistic visuals.  
-  - **Bing AI**: Search and information retrieval with AI assistance.  
-  - **ChatGPT**: Versatile generative AI for tasks like text generation and data analysis.  
-  - **NotebookLM**: AI for organizing and summarizing research.  
-
----
-
-### 4. Video Learning Resources
-*(Placeholder for YouTube videos on ML/AI fundamentals)*  
-- [Video 1: Introduction to Machine Learning]  
-- [Video 2: History and Evolution of Artificial Intelligence]  
-- [Video 3: How AI Tools Work in Different Contexts]  
-- [Video 4: Applications of AI in Data Analytics]  
-- [Video 5: Human-AI Collaboration]  
-- [Video 6: Critiquing AI Outputs]  
-
----
-
-# Assignment
-**Task #1:** Upload a dataset to an AI service for analysis.  
-Recommended tool: **ChatGPT** (with the Code Interpreter/Advanced Data Analysis feature).  
-
-#### Steps:
-1. Find a medium-sized dataset (e.g., CSV file with 1,000-10,000 rows).
-2. Upload the dataset to ChatGPT or another AI tool with data analysis capabilities.  
-3. Use the following prompt for the analysis:  
-
-> "Analyze this dataset. Provide a summary of key patterns, any anomalies, and actionable insights. Create visualizations if possible. Include an explanation of your methodology."
-
-* Additional Notes 
-   - For free AI tools, ChatGPT (with the free-tier Code Interpreter) or Bing AI are the best options for this assignment.  
-
-#### Critique Guidelines:
-- **Verification**: Compare the AI's analysis to your expectations or manually verified results.  
-- **Positives**: What did the AI do well? Were the insights clear and relevant?  
-- **Negatives**: What did the AI miss? Were there any errors in interpretation or visualizations?  
-- **Reflection**: Discuss how this experience could influence your future use of AI in data analysis.
-
-
-**Task #2:** Write a 1 -2 page reflective report 
-
-**Instructions:**  
-- Summarize the AI analysis experience, including the critique of the output.  
-- Highlight key learnings from the module on AI and ML.  
-- Discuss how you see yourself using AI tools in your future projects.  
-
----
-
-### Additional Resources
-
-- https://code.org/curriculum/how-ai-works 
+----
