@@ -120,5 +120,5 @@ In this video you'll see how to create your very own personalized AI assistant. 
 
 ## Assignment - complete by Saturday, January 18th
 
-- [ ] Complete Assignment 1 and mark with complete. 
+- [ ] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_1/assignment_1.md) and mark with complete. 
 
