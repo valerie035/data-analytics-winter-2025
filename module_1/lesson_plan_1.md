@@ -65,14 +65,14 @@ _click on the image above to access slides_
 
 ## 5. Roles in the Data Field (15 minutes)
 
-- [ ] **Overview of Key Roles:**
+- [x] **Overview of Key Roles:**
   - **Data Analyst:** Focuses on interpreting data, analyzing results, and generating reports to help businesses make informed decisions.
   - **Data Scientist:** Uses advanced techniques, such as machine learning and statistical modeling, to predict future trends and solve complex problems.
   - **Data Engineer:** Develops, constructs, tests, and maintains data architectures (e.g., databases and large-scale processing systems).
   - **Analytics Engineer:** Bridges the gap between data engineering and data analysis by building scalable data pipelines and transforming data into a usable format.
   - **People Analyst:** Focuses on understanding and improving human resources practices by analyzing employee data, such as productivity, engagement, and retention.
 
-- [ ] **Activity:**
+- [x] **Activity:**
   - Group discussion on which roles resonate most with participants and why.
 
 ---
@@ -85,10 +85,10 @@ _click on the image above to access slides_
   - **[Line Chart](https://www.storytellingwithdata.com/blog/2020/3/24/what-is-a-line-graph):** Useful for showing trends over time.
   - **[Scatter Plot](https://www.storytellingwithdata.com/blog/2020/5/27/what-is-a-scatterplot):** Best for examining relationships between two variables.
 
-- [ ] **When to Use Each Visualization:**
+- [x] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
-- [ ] **Hands-On Activity:**
+- [x] **Hands-On Activity:**
   - Review the pre-work excel/google dashboard assignment in small groups
   - Discuss challenges from the project & wins
   - Take time to make some improvements based on data visualization best practices
@@ -107,11 +107,11 @@ _click on the image above to access slides_
   - **Mode:** The most frequently occurring value in a set of numbers.  
     Example: Identifying the most common grocery item purchased.
 
-- [ ] **Application Exercise:**
+- [x] **Application Exercise:**
   - Participants calculate the mean, median, and mode using a provided data set (e.g., household expenses).
 
 ---
 
 ## 7. Q&A and Closing (15 minutes)
 
-- [ ] Next Steps - look out for an email & post in slack for the AI foundations module & the assignment completion dates (Wednesday & Saturday). 
+- [x] Next Steps - look out for an email & post in slack for the AI foundations module & the assignment completion dates (Wednesday & Saturday). 
