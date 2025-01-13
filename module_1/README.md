@@ -37,7 +37,7 @@ _Estimated **total** time to complete: 1 hour_
 
 In this section, you will learn about Machine Learning. Machine Learning is a subset of AI that uses data to train algorithms to make predictions or identify patterns. Examples of ML applications: fraud detection, recommendation systems, predictive analytics.   
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
+- [x] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
 
 ----
 
@@ -47,7 +47,7 @@ In this section, you will learn about Machine Learning. Machine Learning is a su
 
 The most important aspect of Machine Learning is what data is used to train it. Find out how training data affects a machine's predictions and why biased data can lead to biased decisions.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=x2mRoFNm22g) and mark when complete 
+- [x] Watch [video](https://www.youtube.com/watch?v=x2mRoFNm22g) and mark when complete 
 
 ____
 
