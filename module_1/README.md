@@ -67,7 +67,7 @@ Computer Vision is a form of machine learning used in self-driving cars, facial 
 
 In this section, you'll learn about neural networks. Neural networks are computational models inspired by the human brain, consisting of layers of interconnected nodes (neurons) that process input data by assigning weights, applying activation functions, and adjusting through training to minimize errors. They learn patterns and make predictions by iteratively updating these weights using algorithms like backpropagation, improving their accuracy over time.
 
-- [ ] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
+- [x] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
 
 ----
 
@@ -77,7 +77,7 @@ In this section, you'll learn about neural networks. Neural networks are computa
 
 Large Language Models like ChatGPT have remarkable abilities to generate content based on training data but do they have actual intelligence? Find out more about how LLM's and Chatbots work as we explore this question. 
 
-- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
+- [x] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
 
 ----
 
@@ -87,7 +87,7 @@ Large Language Models like ChatGPT have remarkable abilities to generate content
 
 AI has the amazing capability to generate art, images and even complete video sequences but does it have actual creativity and imagination? And how does this type of AI work? Learn more about how AI is able to generate art including images we've never seen.
 
-- [ ] Watch [video](https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1) and mark when complete 
+- [x] Watch [video](https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1) and mark when complete 
 
 ----
 
@@ -97,7 +97,7 @@ AI has the amazing capability to generate art, images and even complete video se
 
 The potential for AI to help society is enormous. But at the same time we need to develop technology with a focus on ethics, access and fairness. This video explores the influence of AI on every aspect of life and underscores the importance of ethical oversight to prevent the creation of biased AI algorithms. 
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=tJQSyzBUAew) and mark when complete 
+- [x] Watch [video](https://www.youtube.com/watch?v=tJQSyzBUAew) and mark when complete 
 
 ----
 
@@ -105,7 +105,7 @@ The potential for AI to help society is enormous. But at the same time we need t
 
 In this video you'll see how to create your very own personalized AI assistant. This could be used to build a chatbot to help with sales, automate research, clone your ability to answer questions about complex topics, or even do data analysis or tutor you in data analysis.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=HYwa43Elxwo) and mark when complete 
+- [x] Watch [video](https://www.youtube.com/watch?v=HYwa43Elxwo) and mark when complete 
 
 ----
 
