@@ -47,7 +47,7 @@ In this section, you will learn about Machine Learning. Machine Learning is a su
 
 The most important aspect of Machine Learning is what data is used to train it. Find out how training data affects a machine's predictions and why biased data can lead to biased decisions.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=x2mRoFNm22g) and mark when complete 
+- [x] Watch [video](https://www.youtube.com/watch?v=x2mRoFNm22g) and mark when complete 
 
 ____
 
@@ -57,7 +57,7 @@ ____
 
 Computer Vision is a form of machine learning used in self-driving cars, facial recognition systems, and sustainable farming. Find out how a computer learns to classify images, how it can build from simple shapes to more complex figures, and why it’s so difficult for a computer to tell the difference between a chihuahua and a muffin.
 
-- [ ] Watch [video](https://youtu.be/2hXG8v8p0KM?si=xRzLfuWd2h-MIT4Z) and mark when complete 
+- [x] Watch [video](https://youtu.be/2hXG8v8p0KM?si=xRzLfuWd2h-MIT4Z) and mark when complete 
 
 ---
 
@@ -67,7 +67,7 @@ Computer Vision is a form of machine learning used in self-driving cars, facial 
 
 In this section, you'll learn about neural networks. Neural networks are computational models inspired by the human brain, consisting of layers of interconnected nodes (neurons) that process input data by assigning weights, applying activation functions, and adjusting through training to minimize errors. They learn patterns and make predictions by iteratively updating these weights using algorithms like backpropagation, improving their accuracy over time.
 
-- [ ] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
+- [x] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
 
 ----
 
