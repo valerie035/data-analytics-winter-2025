@@ -77,7 +77,7 @@ In this section, you'll learn about neural networks. Neural networks are computa
 
 Large Language Models like ChatGPT have remarkable abilities to generate content based on training data but do they have actual intelligence? Find out more about how LLM's and Chatbots work as we explore this question. 
 
-- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
+- [x] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
 
 ----
 
