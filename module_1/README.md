@@ -4,8 +4,8 @@
 
 _Edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-- [ ] Complete the [Weber St registration](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
-- [ ] Complete the [Weber St Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
+- [X] Complete the [Weber St registration](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
+- [X] Complete the [Weber St Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
 
 ## Module Overview
 In this module, students will explore the foundations of Artificial Intelligence & Machine Learning (ML). Students will learn how ML uses data to make predictions and uncover patterns, the history and evolution of AI, and practical applications of AI tools in modern workflows. They will also gain hands-on experience using AI as a tutor and critiquing it's output compared with using Google or asking a human.
@@ -37,7 +37,7 @@ _Estimated **total** time to complete: 1 hour_
 
 In this section, you will learn about Machine Learning. Machine Learning is a subset of AI that uses data to train algorithms to make predictions or identify patterns. Examples of ML applications: fraud detection, recommendation systems, predictive analytics.   
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
+- [X] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
 
 ----
 
@@ -47,7 +47,7 @@ In this section, you will learn about Machine Learning. Machine Learning is a su
 
 The most important aspect of Machine Learning is what data is used to train it. Find out how training data affects a machine's predictions and why biased data can lead to biased decisions.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=x2mRoFNm22g) and mark when complete 
+- [X] Watch [video](https://www.youtube.com/watch?v=x2mRoFNm22g) and mark when complete 
 
 ____
 
@@ -57,7 +57,7 @@ ____
 
 Computer Vision is a form of machine learning used in self-driving cars, facial recognition systems, and sustainable farming. Find out how a computer learns to classify images, how it can build from simple shapes to more complex figures, and why it’s so difficult for a computer to tell the difference between a chihuahua and a muffin.
 
-- [ ] Watch [video](https://youtu.be/2hXG8v8p0KM?si=xRzLfuWd2h-MIT4Z) and mark when complete 
+- [X] Watch [video](https://youtu.be/2hXG8v8p0KM?si=xRzLfuWd2h-MIT4Z) and mark when complete 
 
 ---
 
@@ -67,7 +67,7 @@ Computer Vision is a form of machine learning used in self-driving cars, facial 
 
 In this section, you'll learn about neural networks. Neural networks are computational models inspired by the human brain, consisting of layers of interconnected nodes (neurons) that process input data by assigning weights, applying activation functions, and adjusting through training to minimize errors. They learn patterns and make predictions by iteratively updating these weights using algorithms like backpropagation, improving their accuracy over time.
 
-- [ ] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
+- [X] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
 
 ----
 
@@ -77,7 +77,7 @@ In this section, you'll learn about neural networks. Neural networks are computa
 
 Large Language Models like ChatGPT have remarkable abilities to generate content based on training data but do they have actual intelligence? Find out more about how LLM's and Chatbots work as we explore this question. 
 
-- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
+- [X] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
 
 ----
 
@@ -87,7 +87,7 @@ Large Language Models like ChatGPT have remarkable abilities to generate content
 
 AI has the amazing capability to generate art, images and even complete video sequences but does it have actual creativity and imagination? And how does this type of AI work? Learn more about how AI is able to generate art including images we've never seen.
 
-- [ ] Watch [video](https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1) and mark when complete 
+- [X] Watch [video](https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1) and mark when complete 
 
 ----
 
