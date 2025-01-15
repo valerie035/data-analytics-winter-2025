@@ -9,8 +9,8 @@ This assignment aims to help students critically evaluate the effectiveness of u
 
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
-I have never used ChatGPT so out of curiousity I asked it this same question. I was blown away by its response. Gone are the days from when I was in school of going to the library and using index cards and no computers; spending hours looking for the content instead of researching what is out there. We now have the ease of it not only at our fingertips but formatted to use. AI tools can as it states, explain complete concepts, have on-demand problem solving, practical guidance, resource recommendations, mock interviews and test prep, and encourse creativity and innovation. My hope/expectation is that I can actually learn how to use ChatGPT and make it meaningful for use. It will be extremely helpful in my job if I can find more efficient ways of analyzing data and reporting, project management, and stay up to date with the trends. 
 ---
+I have never used ChatGPT so out of curiousity I asked it this same question. I was blown away by its response. Gone are the days from when I was in school of going to the library and using index cards and no computers; spending hours looking for the content instead of researching what is out there. We now have the ease of it not only at our fingertips but formatted to use. AI tools can as it states, explain complete concepts, have on-demand problem solving, practical guidance, resource recommendations, mock interviews and test prep, and encourse creativity and innovation. My hope/expectation is that I can actually learn how to use ChatGPT and make it meaningful for use. It will be extremely helpful in my job if I can find more efficient ways of analyzing data and reporting, project management, and stay up to date with the trends. 
 
 ### 2. **Data Task: Sorting in Pivot Charts**  
 
@@ -19,7 +19,8 @@ You will ask ChatGPT the following question:
 
 - **a. Ask ChatGPT:**  
   - Screenshot ChatGPT's response and include below. 
-  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.  
+  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
+---
 To sort the values in a **pivot chart** by descending order in Excel, follow these steps:
 
 ### Step 1: Sort the Pivot Table
