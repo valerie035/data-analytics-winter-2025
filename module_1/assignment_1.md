@@ -11,7 +11,6 @@ This assignment aims to help students critically evaluate the effectiveness of u
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
 
 #### **1. Response:**
-  
 The role of AI tools in learning Data Analytics is large in size and deep in complexity. Since I am still fairly new to tech language in general, I lean on the use of AI and other search engines to help in my learning process. My expectations for how ChatGPT can help me are fair, comparatively. I have developed a method for my learning journey over the past **2 decades** that utilizes Google, YouTube, and now ChatGPT. I can figure just about anything out. What I have learned is that even with the use of these great tools, sometimes consulting with a person is more beneficial for the moments when you get stuck. With the human brain being as complex as it is, we do require multiple avenues to get to a desired lot of information. 
 
 ---
@@ -27,9 +26,10 @@ You will ask ChatGPT the following question:
 ![chat-responese1](https://github.com/user-attachments/assets/926dce55-5895-451a-b385-df6a7764a2c9)
 ![chat-respone2](https://github.com/user-attachments/assets/685d5136-137a-47ce-a8ec-674707c06bb0)
 
-- **b. Analysis:**  
+  **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
+    ###### **My Analysis:**
   ChatGPT’s response to this prompt was straightforward and thorough. I immediately went to my own tables to test the responses, and it *worked.*
 
 ---
@@ -40,15 +40,17 @@ You will ask ChatGPT the following question:
   - Was the Google result more or less detailed?  
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
-#### **3. Comparison**
- Google’s response is comparable. It gave a straightforward answer along with resources and websites where this question is answered. Google offers other resources such as videos, blogs, or other websites with information to dig through to find an answer. Since this was a straightforward answer, I did not feel I needed more information to dive into. 
+#### 3. **Comparison**
+ Google’s response is comparable. It gave a straightforward answer along with resources and websites where this question is answered. Google offers other resources such as videos, blogs, or other websites with information to dig through to find an answer. Since this was a straightforward answer, I did not feel I needed more information to dive into.
+ 
 ---
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
 - Which resource you found most effective for this?
   
- I asked both Chat and Google about data visualization, I wanted an image, or visual aids to give me an example of what I am trying to make. In this case, Google was the better option because it gave me images immediately, while Chat gave a list of how-to’s. Though both are helpful, it was the images that I wanted.  
+ I asked both Chat and Google about data visualization, I wanted an image, or visual aids to give me an example of what I am trying to make. In this case, Google was the better option because it gave me images immediately, while Chat gave a list of how-to’s. Though both are helpful, it was the images that I wanted. 
+ 
 ---
 
 ### 5. **When to Use Which Resource**  
