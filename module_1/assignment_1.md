@@ -25,6 +25,7 @@ You will ask ChatGPT the following question:
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
+![descending order in Excel,](https://github.com/user-attachments/assets/5f2fb3e0-4142-49e2-ba3e-8d80478549e7)
 
 ---
 
