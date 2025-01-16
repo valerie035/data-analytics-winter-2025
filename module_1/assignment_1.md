@@ -18,14 +18,18 @@ Write a short paragraph below describing the role of AI tools like ChatGPT in le
 You will ask ChatGPT the following question:  
 **_"How do you sort the values in a pivot chart by descending order in Excel?"_** (or Google Sheets if that is what you are using) 
 
+
 - **a. Ask ChatGPT:**  
-  - Screenshot ChatGPT's response and include below. 
+  - Screenshot ChatGPT's response and include below.
+  - <img width="973" alt="Screenshot 2025-01-16 at 4 16 30 AM" src="https://github.com/user-attachments/assets/93dbd111-86f3-49ff-b834-99b353f433f9" />
   - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.  
 
 - **b. Analysis:**  
-  - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
-  - Suggest how the explanation could be improved, if necessary.
+  - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?
+  - Part of this answer worked (the descending feature). The part that did not work was how to begin editing the pivot table. My spreadsheet uses an edit tool at the bottom left of a pivot table instead of a right click with a pop up window asking to edit.
 
+  - Suggest how the explanation could be improved, if necessary.
+CHatGPT could improve by providing alternate editing options with the first step. It seems that ChatGPT isn't returning the best result first which led to confusion as a beginner in data analysis. Google returned this result first which is a quicker way to begin this data task.
 ---
 
 ### 3. **Comparison**  
@@ -35,7 +39,7 @@ You will ask ChatGPT the following question:
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
 
----
+---Googles result was more correct for google sheets. I'm guessing that ChatGPT may have returned an edit feature for Excel instead of Google sheets.
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
