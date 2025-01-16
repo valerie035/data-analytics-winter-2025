@@ -66,7 +66,9 @@ Write a short response below explaining when it would be appropriate to use Chat
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.  
-- How this exercise influenced your approach to learning new data skills in the future.  
+- How this exercise influenced your approach to learning new data skills in the future.
+
+  ChatGPT was by far the most effective tool for this task. I got quick answers and didn't feel like I needed to sort through much to get the results I wanted. I will definitely be using AI to help with future questions on this type of material. I even feel it could help me with things I need clarity on as I am watching a youtube video or something...like they can really go hand-in-hand to help produce the results I'm seeking.  
 
 ---
 
