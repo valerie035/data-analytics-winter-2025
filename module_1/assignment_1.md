@@ -37,6 +37,9 @@ The explanation wasn't exact for me but guided me to play around to find the "so
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
 
+I was able to dive into more specific details on the google search. This [link](https://support.microsoft.com/en-us/office/sort-data-in-a-pivottable-3f5e5db4-7ddf-44ac-8b9b-70050aa22523) was helpful for me to visualize what exactly I was looking for
+
+
 ---
 
 ### 4. **Pick Another Scenario*  
