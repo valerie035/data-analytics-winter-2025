@@ -39,7 +39,7 @@ CHatGPT could improve by providing alternate editing options with the first step
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
 
----Googles result was more correct for google sheets. I'm guessing that ChatGPT may have returned an edit feature for Excel instead of Google sheets.
+---Googles result was more correct for google sheets. the AI overview returned the simplest answer at the top of the screen. I was able to complete the edit in a pivot table using this tip in under 10 seconds versus several minutes of attempting ways to edit with the Chat GPT suggestion. I'm guessing that ChatGPT may have returned an edit feature for Excel instead of Google sheets.
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
