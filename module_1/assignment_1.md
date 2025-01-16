@@ -27,6 +27,7 @@ You will ask ChatGPT the following question:
   - Suggest how the explanation could be improved, if necessary.
 ![descending order in Excel,](https://github.com/user-attachments/assets/5f2fb3e0-4142-49e2-ba3e-8d80478549e7)
 
+The explanation wasn't exact for me but guided me to play around to find the "sort" function. Instead of a right click, I utilized the sort & filter icon on  the top header and then needed to adjust what category I wanted sorted.
 ---
 
 ### 3. **Comparison**  
