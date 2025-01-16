@@ -11,6 +11,7 @@ This assignment aims to help students critically evaluate the effectiveness of u
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
 
 AI tools provide instant explanations, and act as an on-demand tutor. They play a valuable role in learning data analytics by explaining concepts, methods, and terminology. They can assist with coding challenges, debugging, generating real world examples,clarifying statistical techniques, suggesting resouces for project ideas, etc. ChatGPT will allowing me to grasp concepts quicker and speed up my workload. Im excited to learn all I can! 
+
 ---
 
 ### 2. **Data Task: Sorting in Pivot Charts**  
