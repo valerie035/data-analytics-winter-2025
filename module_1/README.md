@@ -4,8 +4,8 @@
 
 _Edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-- [ ] Complete the [Weber St registration](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
-- [ ] Complete the [Weber St Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
+- [x] Complete the [Weber St registration](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
+- [x ] Complete the [Weber St Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
 
 ## Module Overview
 In this module, students will explore the foundations of Artificial Intelligence & Machine Learning (ML). Students will learn how ML uses data to make predictions and uncover patterns, the history and evolution of AI, and practical applications of AI tools in modern workflows. They will also gain hands-on experience using AI as a tutor and critiquing it's output compared with using Google or asking a human.
