@@ -45,15 +45,18 @@ The link to the website was: https://www.lido.app/tutorials/sort-rows-pivot-tabl
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
-- Which resource you found most effective for this? 
----
+- Which resource you found most effective for this? /
+  /
+  I ended up asking ChatGPT "How to remove blanks from pivot tables in Google Sheets" ChatGPT ended up giving me 3 different scenarios/steps to try to remove the blanks. Following the instructions they weren't very clear on where to go exactly to get those removed. I ended up googling it and Google's AI Overview ended up giving me a step by step that was clear to go add a filter and filter it by condition. I found Google to be the most effective for me in this scenario. 
 
 ### 5. **When to Use Which Resource**  
 Write a short response below explaining when it would be appropriate to use ChatGPT or Google. Consider factors like:  
 - Time sensitivity  
 - Complexity of the problem  
 - Need for detailed visual instructions  
-- Level of confidence in verifying the accuracy of the information  
+- Level of confidence in verifying the accuracy of the information/
+  /
+  
 
 ---
 
