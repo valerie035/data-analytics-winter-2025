@@ -10,6 +10,8 @@ This assignment aims to help students critically evaluate the effectiveness of u
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
 
+ChatGPT and other AI tools can assist in data analytics by helping with SQL queries, making predictions, looking at data patterns, and most importantly answering questions you may have. My expectations of using ChatGPT during my learning process is using it as a tutor and helping me learn and better understand with questions that I may have for it as I go through this course and even beyond that. 
+
 ---
 
 ### 2. **Data Task: Sorting in Pivot Charts**  
@@ -19,12 +21,15 @@ You will ask ChatGPT the following question:
 
 - **a. Ask ChatGPT:**  
   - Screenshot ChatGPT's response and include below. 
-  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.  
+  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.    
+![Screenshot 2025-01-16 221306](https://github.com/user-attachments/assets/94b235f3-05ff-472a-9e12-f43400ecd7ce)
+
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
-  - Suggest how the explanation could be improved, if necessary.
-
+  - Suggest how the explanation could be improved, if necessary.\
+    \
+I feel like the explanation was clear and step by step but no, it did not work. Given the response from ChatGPT, it said to go click the drop down next to the values section but there was no drop down to put them into descending order. I think the explanation could've been improved by giving instructions that would work. 
 ---
 
 ### 3. **Comparison**  
@@ -32,8 +37,10 @@ You will ask ChatGPT the following question:
 - Compare the Google search experience to ChatGPT’s response:  
   - Was the Google result more or less detailed?  
   - Did you find videos, articles, or blog posts helpful?  
-  - Include any relevant link(s) you found helpful and explain why.
-
+  - Include any relevant link(s) you found helpful and explain why.\
+    \
+When I googled "Sort pivot table by descending order in Google Sheets" the very first response overviewed a step by step with an image you could click on without going to the website. The instructions on the google page were highlighted as  so : "click on the drop-down box below Order and change the order to Descending" and the image showed that the "order" was under the "Rows" column not the values section. 
+The link to the website was: https://www.lido.app/tutorials/sort-rows-pivot-table-google-sheets#:~:text=The%20listed%20column%20used%20for,on%20the%20drop%2Ddown%20list.&text=Step%202%3A%20Since%20we%20want,change%20the%20order%20to%20Descending.
 ---
 
 ### 4. **Pick Another Scenario*  
