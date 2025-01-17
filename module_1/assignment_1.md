@@ -55,7 +55,8 @@ Write a short response below explaining when it would be appropriate to use Chat
 - Complexity of the problem  
 - Need for detailed visual instructions  
 - Level of confidence in verifying the accuracy of the information/
-  
+  /
+  It would be appropriate to use ChatGPT if you are in a hurry and need a quick response to something or if you are verifying information. Google is a more in depth way to search things that will give you visual instructions as well if needed. If your question is more complex I'd go to google but most the time, I prefer to try ChatGPT first and if that isn't helpful then I will google. 
   
 
 ---
@@ -63,8 +64,10 @@ Write a short response below explaining when it would be appropriate to use Chat
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.  
-- How this exercise influenced your approach to learning new data skills in the future.  
-
+- How this exercise influenced your approach to learning new data skills in the future.  \
+- \
+The resource I found most helpful for this task was google and I believe google gave me more clear instructions when it came to Google Sheets. I believe that would be as it is the same brand/company for both.\
+This excercise influenced my approach to learning new data skills by giving me confidence that I have resources all around me to learn and ask questions when needed. 
 ---
 
 ## **Submission Requirements:**  
