@@ -27,12 +27,10 @@ You will ask ChatGPT the following question:
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
-<br/>
-I am not sure why the pivot table was included in the instructions since I did not request it. The explanation for the pivot chart was clear but it only applied to my pie chart and not my bar chart. I did not have to refresh my pie chart; as mentioned in the instructions, it automatically updated. This step seemed unnecessary and might be better as a side note instead.
+<br/> I am not sure why the pivot table was included in the instructions since I did not request it. The explanation for the pivot chart was clear but it only applied to my pie chart and not my bar chart. I did not have to refresh my pie chart; as mentioned in the instructions, it automatically updated. This step seemed unnecessary and might be better as a side note instead.
     
   - Suggest how the explanation could be improved, if necessary.
-<br/>
-Shorten it by removing the extra information. 
+<br/> Shorten it by removing the extra information. 
 
 ---
 
