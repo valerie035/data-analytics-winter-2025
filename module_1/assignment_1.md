@@ -1,6 +1,7 @@
 # **AI Foundations Assignment: Evaluating ChatGPT as a Data Tutor**
 
 ## **Objective**  
+
 This assignment aims to help students critically evaluate the effectiveness of using ChatGPT as a data tutor by analyzing its responses, comparing it to Google, and understanding when to use each resource for problem-solving. You will use your spreadsheet and pivot tables from your course pre-work to complete this assignment.  
 
 ---
