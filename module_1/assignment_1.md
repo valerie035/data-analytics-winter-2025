@@ -28,9 +28,9 @@ You will ask ChatGPT the following question:
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
 
-ChatGPT told me to "Click on the dropdown arrow next to the Row Labels or Column Labels in the pivot table." The pivot table I wanted to sort was a table I had created from another table. I created this table to reduce the number of slices in my pie chart. Since it was not the original pivot table that I had created, it did not include a dropdown arrow. The second set of instructions were also confusing because it is missing a step. You need to be on the Data tab to see the more sorting options.
+ChatGPT told me to "Click on the dropdown arrow next to the Row Labels or Column Labels in the pivot table." The pivot table I wanted to sort was a table I had created from another table. I created this table to reduce the number of slices in my pie chart. Since it was not the original pivot table that I had created, it did not include a dropdown arrow. The second set of instructions were also confusing because it is missing a step. You need to be on the Data tab to see more sorting options.
 
-To improve the instructions I would include in the instructions to go to the Data tab in excel. Then click on a value from the data that you want to sort. In the section on the ribbon called Sort & Filter, click  ZA, and the data will sort from highest to lowest. 
+To improve the instructions, I would include in the instructions to go to the Data tab in excel. Then click on a value from the data that you want to sort. In the section on the ribbon called Sort & Filter, click ZA, and the data will sort from highest to lowest.
 ---
 
 ### 3. **Comparison**  
