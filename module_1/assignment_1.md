@@ -10,7 +10,7 @@ This assignment aims to help students critically evaluate the effectiveness of u
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
 ---
-I have never used ChatGPT so out of curiousity I asked it this same question. I was blown away by its response. Gone are the days from when I was in school of going to the library and using index cards and no computers; spending hours looking for the content instead of researching what is out there. We now have the ease of it not only at our fingertips but formatted to use. AI tools can as it states, explain complete concepts, have on-demand problem solving, practical guidance, resource recommendations, mock interviews and test prep, and encourse creativity and innovation. My hope/expectation is that I can actually learn how to use ChatGPT and make it meaningful for use. It will be extremely helpful in my job if I can find more efficient ways of analyzing data and reporting, project management, and stay up to date with the trends. 
+I have never used ChatGPT so out of curiousity I asked it this same question. I was blown away by its response. Gone are the days from when I was in school of going to the library and using index cards and no computers; spending hours looking for the content instead of researching what is out there. We now have the ease of it not only at our fingertips but formatted to use. AI tools can as it states- "explain complete concepts, have on-demand problem solving, practical guidance, resource recommendations, mock interviews and test prep, and encourse creativity and innovation." My hope/expectation is that I can actually learn how to use ChatGPT and make it meaningful for use. It will be extremely helpful in my job if I can find more efficient ways of: analyzing data and reporting, project management, and staying up to date with the trends. 
 
 ### 2. **Data Task: Sorting in Pivot Charts**  
 
@@ -52,7 +52,7 @@ These steps ensure your pivot chart visually reflects the desired descending ord
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
-
+I found the ChatGPT response very hard to follow and the steps did not work because I couldn't figure out what it was saying. I am a visual learner so any visual aids would have been super useful. It assumed you knew what you were doing instead of guiding you on what to do. 
 ---
 
 ### 3. **Comparison**  
@@ -61,7 +61,7 @@ These steps ensure your pivot chart visually reflects the desired descending ord
   - Was the Google result more or less detailed?  
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
-
+The Google search was much more detailed and it had as I like visuals. It also had different learning methods (ex instructional with visual). This youtube link was https://www.youtube.com/watch?v=a60852orvZE 
 ---
 
 ### 4. **Pick Another Scenario*  
