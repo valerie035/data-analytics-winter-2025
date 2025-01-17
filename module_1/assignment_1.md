@@ -38,16 +38,13 @@ You will ask ChatGPT the following question:
 - Use Google to search for the same solution (e.g., "sort pivot chart by descending order in Excel").  
 - Compare the Google search experience to ChatGPT’s response:  
   - Was the Google result more or less detailed?
-<br/>
-    Less, but the top response was for a pivot table and not a chart.
+<br/> Less, but the top response was for a pivot table and not a chart.
    
   - Did you find videos, articles, or blog posts helpful?
-<br/>
-    Yes.  I love videos that not only say the steps but show you it visually too. 
+<br/> Yes.  I love videos that not only say the steps but show you it visually too. 
   
   - Include any relevant link(s) you found helpful and explain why.
-<br/>
-    This [link](https://support.microsoft.com/en-us/office/sort-data-in-a-pivottable-or-pivotchart-e41f7107-b92d-44ef-861f-24430830450a#ID0EBF=Mac) was helpful because not only does it show the difference between a pivot table and chart but also Windows and Mac.  My personal computer is a Windows while my work computer is a Mac.  The slight differences between the two can be confusing. 
+<br/> This [link](https://support.microsoft.com/en-us/office/sort-data-in-a-pivottable-or-pivotchart-e41f7107-b92d-44ef-861f-24430830450a#ID0EBF=Mac) was helpful because not only does it show the difference between a pivot table and chart but also Windows and Mac.  My personal computer is a Windows while my work computer is a Mac.  The slight differences between the two can be confusing. 
 
 ---
 
@@ -57,8 +54,7 @@ You will ask ChatGPT the following question:
 **"How do you combine two large tables without having to scroll down selecting all the data in an excel sheet?"**
 
 - Which resource you found most effective for this?
-<br/>
-Google 
+<br/> Google 
 ---
 
 ### 5. **When to Use Which Resource**  
