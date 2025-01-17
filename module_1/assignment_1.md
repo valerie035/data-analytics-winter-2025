@@ -10,7 +10,7 @@ This assignment aims to help students critically evaluate the effectiveness of u
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
 
-AI tools like ChatGPT will aid in learning data analytics by being a tutor or a coach. I will use ChatGPT in my assignments when I don't fully understand the material. As I try to understand the material, I will ask ChatGPT to explain the concept to me. The goal of studying this way is to help me understand the materials. If I feel that I need more practice after I have completed the assignment, I could ask ChatGPT to provide more data for me to analyze. This will give me additional practice in areas where I feel weak. 
+AI tools like ChatGPT enhance familiarity with data analytics by being a tutor or a coach. I will use ChatGPT in my assignments when I do not fully understand the material. As I try to understand the material, I will ask ChatGPT to explain the concept to me. The goal of studying this way is to help me understand the material. If I feel that I need more practice after I have completed the assignment, I will ask ChatGPT to provide more data for analysis. This process will give me additional practice in areas where I feel weak.
 ---
 
 ### 2. **Data Task: Sorting in Pivot Charts**  
@@ -30,7 +30,7 @@ You will ask ChatGPT the following question:
 
 ChatGPT told me to "Click on the dropdown arrow next to the Row Labels or Column Labels in the pivot table." The pivot table I wanted to sort was a table I had created from another table. I created this table to reduce the number of slices in my pie chart. Since it was not the original pivot table that I had created, it did not include a dropdown arrow. The second set of instructions were also confusing because it is missing a step. You need to be on the Data tab to see more sorting options.
 
-To improve the instructions, I would include in the instructions to go to the Data tab in excel. Then click on a value from the data that you want to sort. In the section on the ribbon called Sort & Filter, click ZA, and the data will sort from highest to lowest.
+To improve the instructions, I would include in the instructions to go to the Data tab in excel. Then click on a value from the data that I want to sort. In the section on the ribbon called Sort & Filter, I will click ZA, and the data will sort from highest to lowest.
 ---
 
 ### 3. **Comparison**  
@@ -40,7 +40,7 @@ To improve the instructions, I would include in the instructions to go to the Da
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
 
-The result from google was less detailed, but also less complicated. I was able to sort the data using the instructions given in the AI overview and I did not need to look at other websites. If I still would have been confused though I would have looked at [Microsoft support page](https://support.microsoft.com/en-us/office/sort-data-in-a-pivottable-3f5e5db4-7ddf-44ac-8b9b-70050aa22523#:~:text=In%20the%20PivotTable%2C%20click%20any,Set%20custom%20sort%20options) to figure out how to sort the data. If I still had questions, I would have used the video tab on google to find a video where I could watch someone sort data in a pivot chart and use the video as a guide.
+The result from Google was less detailed, but also less complicated. I was able to sort the data using the instructions given in the AI overview and I did not need to look at other websites. If I still would have been confused though I would have looked at [Microsoft support page](https://support.microsoft.com/en-us/office/sort-data-in-a-pivottable-3f5e5db4-7ddf-44ac-8b9b-70050aa22523#:~:text=In%20the%20PivotTable%2C%20click%20any,Set%20custom%20sort%20options) to figure out how to sort the data. If I still had questions, I would have used the video tab on Google to find a video where I could watch someone sort data in a pivot chart and use the video as a guide.
 ---
 
 ### 4. **Pick Another Scenario*  
