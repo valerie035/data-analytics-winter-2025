@@ -61,31 +61,25 @@ You will ask ChatGPT the following question:
 Write a short response below explaining when it would be appropriate to use ChatGPT or Google. Consider factors like:  
 
 - Time sensitivity
-<br/>
-ChatGPT
+<br/> ChatGPT
   
 - Complexity of the problem
-<br/>
-Both depending on the problem
+<br/> Both depending on the problem
   
 - Need for detailed visual instructions
-<br/>
-Google
+<br/> Google
   
 - Level of confidence in verifying the accuracy of the information
-<br/>
-Google only because you can find more verified sources. 
+<br/> Google only because you can find more verified sources. 
 ---
 
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.
-<br/>
-Google because I am a hearing, seeing, then do sort of personality.  I know I can have ChatGPT read what is on the screen but I can navigate videos on YouTube, etc. 
+<br/> Google because I am a hearing, seeing, then do sort of personality.  I know I can have ChatGPT read what is on the screen but I can navigate videos on YouTube, etc. 
      
 - How this exercise influenced your approach to learning new data skills in the future.
-<br/>
-I want to use ChatGPT more in different situations to become more familiar with to be able to have a better understanding as to when it is more helpful than using Google.  I need to step out of my comfort zone regarding this and the best way to get more comfortable is to take what knowledge you gain and use it accordingly. 
+<br/> I want to use ChatGPT more in different situations to become more familiar with to be able to have a better understanding as to when it is more helpful than using Google.  I need to step out of my comfort zone regarding this and the best way to get more comfortable is to take what knowledge you gain and use it accordingly. 
 
 
 ---
