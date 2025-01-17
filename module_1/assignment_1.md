@@ -30,6 +30,7 @@ You will ask ChatGPT the following question:
     I am not sure why the pivot table was included in the instructions since I did not request it. The explanation for the pivot chart was clear but it only applied to my pie chart and not my bar chart. I did not have to refresh my pie chart; as mentioned in the instructions, it automatically updated. This step seemed unnecessary and might be better as a side note instead.
     
   - Suggest how the explanation could be improved, if necessary.
+
     Shorten it by removing the extra information. 
 
 ---
@@ -38,19 +39,22 @@ You will ask ChatGPT the following question:
 - Use Google to search for the same solution (e.g., "sort pivot chart by descending order in Excel").  
 - Compare the Google search experience to ChatGPT’s response:  
   - Was the Google result more or less detailed?
+
     Less, but the top response was for a pivot table and not a chart.
     
   - Did you find videos, articles, or blog posts helpful?
+
     Yes.  I love videos that not only say the steps but show you it visually too. 
   
   - Include any relevant link(s) you found helpful and explain why.
+
     This [link](https://support.microsoft.com/en-us/office/sort-data-in-a-pivottable-or-pivotchart-e41f7107-b92d-44ef-861f-24430830450a#ID0EBF=Mac) was helpful because not only does it show the difference between a pivot table and chart but also Windows and Mac.  My personal computer is a Windows while my work computer is a Mac.  The slight differences between the two can be confusing. 
 
 ---
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets
-  How do you combine two large tables without having to scroll down selecting all the data in an excel sheet?
+  "How do you combine two large tables without having to scroll down selecting all the data in an excel sheet?"
 
 - Which resource you found most effective for this?
   Google 
