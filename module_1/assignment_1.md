@@ -58,7 +58,6 @@ You will ask ChatGPT the following question:
 "How do you combine two large tables without having to scroll down selecting all the data in an excel sheet?"
 
 - Which resource you found most effective for this?
-
 Google 
 ---
 
@@ -66,19 +65,15 @@ Google
 Write a short response below explaining when it would be appropriate to use ChatGPT or Google. Consider factors like:  
 
 - Time sensitivity
-
 ChatGPT
   
 - Complexity of the problem
-
 Both depending on the problem
   
 - Need for detailed visual instructions
-
 Google
   
 - Level of confidence in verifying the accuracy of the information
-
 Google only because you can find more verified sources. 
 ---
 
