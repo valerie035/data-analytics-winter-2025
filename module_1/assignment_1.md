@@ -44,7 +44,14 @@ I found Google's response easier to follow. It was less detailed, but that's why
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
-- Which resource you found most effective for this? 
+- Which resource you found most effective for this?
+
+I asked how to use Conditional Formatting in Excel to both Google and ChatGPT. I found Google to be confusing and when I followed the outlined instructions, nothing happened. When I followed the steps outlined in ChatGPT, I was able to get a bar graph in place to look at the top 10% of cohort sizes. It's still confusing, but at least there's a visual to look at.
+
+<img width="836" alt="Screenshot 2025-01-17 at 11 10 41 AM" src="https://github.com/user-attachments/assets/0d230c36-53ad-452f-bd7c-e87a26485a00" />
+<img width="488" alt="Screenshot 2025-01-17 at 11 17 18 AM" src="https://github.com/user-attachments/assets/97baff8e-e287-4089-8b64-7109e76aa7a7" />
+
+
 ---
 
 ### 5. **When to Use Which Resource**  
