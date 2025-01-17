@@ -20,10 +20,13 @@ You will ask ChatGPT the following question:
 - **a. Ask ChatGPT:**  
   - Screenshot ChatGPT's response and include below. 
   - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.  
+<img width="577" alt="Screenshot 2025-01-16 at 9 34 10 PM" src="https://github.com/user-attachments/assets/862c7893-9f3c-4905-b3b6-6c3ac69d93b0" />
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
+
+The instructions were clear and made sense. I misread them the first time so I was confused, but once I realized I was looking at it incorrectly, I was able to implement the steps quickly.
 
 ---
 
@@ -33,6 +36,9 @@ You will ask ChatGPT the following question:
   - Was the Google result more or less detailed?  
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
+<img width="1033" alt="Screenshot 2025-01-16 at 9 45 54 PM" src="https://github.com/user-attachments/assets/ab6466ff-2e15-4445-a27f-505080d9efae" />
+
+I found Google's response easier to follow. It was less detailed, but that's why it was easier. The very first result in the Google search yielded the result I needed.
 
 ---
 
