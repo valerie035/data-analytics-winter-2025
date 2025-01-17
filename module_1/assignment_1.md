@@ -9,8 +9,8 @@ This assignment aims to help students critically evaluate the effectiveness of u
 
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
-
-   AI tools are improving the way of learning data analytics, where it can give fast explanations, answer complex questions and can even be a tutor. ChatGPT can help the learner identify data patterns, perform different statistical analyses and interpret the output. It can also generate poems or songs based on what we have learned in class, which is always a helpful reminder! I believe it is valuable to compare my work with others so I expect ChatGPT to be an accurate assistant in providing a comparison alongside my fellow peers.
+<br/>
+AI tools are improving the way of learning data analytics, where it can give fast explanations, answer complex questions and can even be a tutor. ChatGPT can help the learner identify data patterns, perform different statistical analyses and interpret the output. It can also generate poems or songs based on what we have learned in class, which is always a helpful reminder! I believe it is valuable to compare my work with others so I expect ChatGPT to be an accurate assistant in providing a comparison alongside my fellow peers.
 
 ---
 
@@ -27,11 +27,12 @@ You will ask ChatGPT the following question:
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
-    I am not sure why the pivot table was included in the instructions since I did not request it. The explanation for the pivot chart was clear but it only applied to my pie chart and not my bar chart. I did not have to refresh my pie chart; as mentioned in the instructions, it automatically updated. This step seemed unnecessary and might be better as a side note instead.
+<br/>
+I am not sure why the pivot table was included in the instructions since I did not request it. The explanation for the pivot chart was clear but it only applied to my pie chart and not my bar chart. I did not have to refresh my pie chart; as mentioned in the instructions, it automatically updated. This step seemed unnecessary and might be better as a side note instead.
     
   - Suggest how the explanation could be improved, if necessary.
-
-    Shorten it by removing the extra information. 
+<br/>
+Shorten it by removing the extra information. 
 
 ---
 
@@ -39,15 +40,15 @@ You will ask ChatGPT the following question:
 - Use Google to search for the same solution (e.g., "sort pivot chart by descending order in Excel").  
 - Compare the Google search experience to ChatGPT’s response:  
   - Was the Google result more or less detailed?
-
+<br/>
     Less, but the top response was for a pivot table and not a chart.
-    
+   
   - Did you find videos, articles, or blog posts helpful?
-
+<br/>
     Yes.  I love videos that not only say the steps but show you it visually too. 
   
   - Include any relevant link(s) you found helpful and explain why.
-
+<br/>
     This [link](https://support.microsoft.com/en-us/office/sort-data-in-a-pivottable-or-pivotchart-e41f7107-b92d-44ef-861f-24430830450a#ID0EBF=Mac) was helpful because not only does it show the difference between a pivot table and chart but also Windows and Mac.  My personal computer is a Windows while my work computer is a Mac.  The slight differences between the two can be confusing. 
 
 ---
@@ -55,9 +56,10 @@ You will ask ChatGPT the following question:
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets
 
-"How do you combine two large tables without having to scroll down selecting all the data in an excel sheet?"
+**"How do you combine two large tables without having to scroll down selecting all the data in an excel sheet?"**
 
 - Which resource you found most effective for this?
+<br/>
 Google 
 ---
 
@@ -65,26 +67,30 @@ Google
 Write a short response below explaining when it would be appropriate to use ChatGPT or Google. Consider factors like:  
 
 - Time sensitivity
+<br/>
 ChatGPT
   
 - Complexity of the problem
+<br/>
 Both depending on the problem
   
 - Need for detailed visual instructions
+<br/>
 Google
   
 - Level of confidence in verifying the accuracy of the information
+<br/>
 Google only because you can find more verified sources. 
 ---
 
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.
-
+<br/>
 Google because I am a hearing, seeing, then do sort of personality.  I know I can have ChatGPT read what is on the screen but I can navigate videos on YouTube, etc. 
      
 - How this exercise influenced your approach to learning new data skills in the future.
-
+<br/>
 I want to use ChatGPT more in different situations to become more familiar with to be able to have a better understanding as to when it is more helpful than using Google.  I need to step out of my comfort zone regarding this and the best way to get more comfortable is to take what knowledge you gain and use it accordingly. 
 
 
