@@ -120,13 +120,21 @@ In this video you'll see how to create your very own personalized AI assistant. 
 
 ---
 
-## Assignment - complete by Saturday, January 18th
+## Assignment - complete by Saturday, January 25th
 
 - [ ] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_1/assignment_1.md) and mark when complete. 
 
 ## Saturday, Janurary 18th - In Class Agenda: 
 
-1) 🙌🏻 Share & Tell 
-2) 💃 Guest Speaker 
+1) 👯‍♀️ Welcome & Housekeeping
+2) 🙌 Share & Tell 
+   * Intro - Aproova - How she uses chatgpt for her job search 
+   * Break out groups: 
+     * Intro 
+     * Where were you when you first used chatgpt? What did you ask it? 
+     * How did the assignment go for you? What did you learn?
+   * Trissa - Analyzing Slack Data 
+3) ❓ Q&A & Look Ahead 
+4) 💃 Guest Speaker - Trina Limpert - Ethics in AI
 
 
