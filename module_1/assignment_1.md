@@ -47,7 +47,7 @@ You will ask ChatGPT the following question:
 - Which resource you found most effective for this?
 - Google
 ---
-
+Google
 ### 5. **When to Use Which Resource**  
 Write a short response below explaining when it would be appropriate to use ChatGPT or Google. Consider factors like:  
 - Time sensitivity  
