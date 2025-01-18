@@ -22,6 +22,10 @@ Welcome to the **Tech-Moms Data Analytics Course**! This course is designed to e
 
 ---
 
+## **Office Hours**
+* Mondays 7:30pm-9pm w/ Tanya
+* Thursdays 7:30pm-9pm w/ Kelsey
+
 ## **Table of Contents**
 
 1. [Course Syllabus](#course-syllabus)
