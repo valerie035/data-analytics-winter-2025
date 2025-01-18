@@ -49,7 +49,8 @@ You will ask ChatGPT the following question:
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
 - Which resource you found most effective for this?
-  Google
+
+   Google
 ---
 
 ### 5. **When to Use Which Resource**  
@@ -58,14 +59,17 @@ Write a short response below explaining when it would be appropriate to use Chat
 - Complexity of the problem  
 - Need for detailed visual instructions  
 - Level of confidence in verifying the accuracy of the information  
-  Based on my personal experience so far, I think ChatGPT will be more appropriate when you need to get some information quickly meaning time is important. For the other elements, I will feel more comfortable using Google. I love the option to get visual instructions (videos) and also I know most of the time Google will display the most relevant and reliable information first due to the SEO patterns.  
+
+   Based on my personal experience so far, ChatGPT is more appropriate when you need to get some information quickly, meaning time is important. For the other elements, I will feel more comfortable using Google. I love the option to get visual instructions (videos), and I know that most of the time, Google will display the most relevant and reliable information first due to SEO patterns.  
 ---
 
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.
+
 For this specific assignment, my experience using Google was better. However, I am new to using ChatGPT and use the free version, so I don't know if this was a factor in not getting the information I was looking for. Also, I love to watch videos when I am learning how to learn new things, my brain works better. I can't get this type of help from ChatGPT
 - How this exercise influenced your approach to learning new data skills in the future.  
+
 It is too quick to make a statement because as I mentioned before, I am a beginner using ChatGPT. For now, I think my preferred source for getting help when I need to learn new data skills is Google.
 ---
 
