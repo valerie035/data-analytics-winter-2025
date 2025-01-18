@@ -114,19 +114,33 @@ In this video you'll see how to create your very own personalized AI assistant. 
 1) 👯‍♀️ Networking
 2) 📝 Weekly Quiz found [here](https://docs.google.com/forms/d/e/1FAIpQLSf_WRLECbL7sr4UFuqNZXC9H1E0Q67E8NTB_LFqx5NZwNInxA/viewform)
 3) ⏮️ Review Video Lessons
-4) 👩🏻‍🏫 Lecture: Using AI in Education: Chatbots as Tutors and Learning Coaches
+4) 👩🏻‍🏫 Lecture: [AI in Education & Analytics](https://docs.google.com/presentation/d/1adQsagv1OgYLzNgowLpsEHQqPHiQypYjgNw328Rgz5M/edit?usp=sharing)
 5) 📆 Assignment Overview 
 6) ❓ Q&A & Look Ahead
 
 ---
 
-## Assignment - complete by Saturday, January 18th
+## Assignment - complete by Saturday, January 25th
 
 - [ ] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_1/assignment_1.md) and mark when complete. 
 
 ## Saturday, Janurary 18th - In Class Agenda: 
 
-1) 🙌🏻 Share & Tell 
-2) 💃 Guest Speaker 
+1) 👯‍♀️ Welcome & Housekeeping
+   * Congrat to Nicole on her new job! 
+   * Using GitHub Issues
+2) 🙌 Share & Tell 
+   * Intro - Aproova - How she uses chatgpt for her job search 
+   * Break out groups: 
+     * Intro 
+     * What you currently do for work & what you are looking for? 
+     * How can you use chatgpt more in your day to day? At work OR as a mom
+     * Where were you when you first used chatgpt? What did you ask it? 
+     * How did the assignment go for you? What did you learn?
+   * Trissa - Analyzing Slack Data 
+3) ❓ Q&A & Look Ahead
+    * [Module 1 Feedback Form](https://forms.gle/b2KRCw2Z4ghfJFNP6)
+    * Module 2 - Excel & Google Sheets 
+5) 💃 Guest Speaker - [Trina Limpert](https://www.linkedin.com/in/trinaceleste/) - Ethics in AI
 
 
