@@ -27,7 +27,7 @@ You will ask ChatGPT the following question:
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
-  The explanation was clear. However, when I started to follow the steps I couldn't complete the last steps. Yes, there were some errors because I couldn't find some information on my Pivot Table.
+    The explanation was clear. However, when I started following the steps, I couldn't complete the last ones. Yes, there were some errors because I couldn't find some information on my Pivot Table.
 ---
 
 ### 3. **Comparison**  
