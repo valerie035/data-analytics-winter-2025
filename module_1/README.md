@@ -138,7 +138,9 @@ In this video you'll see how to create your very own personalized AI assistant. 
      * Where were you when you first used chatgpt? What did you ask it? 
      * How did the assignment go for you? What did you learn?
    * Trissa - Analyzing Slack Data 
-3) ❓ Q&A & Look Ahead 
-4) 💃 Guest Speaker - [Trina Limpert](https://www.linkedin.com/in/trinaceleste/) - Ethics in AI
+3) ❓ Q&A & Look Ahead
+    * [Module 1 Feedback Form](https://forms.gle/b2KRCw2Z4ghfJFNP6)
+    * Module 2 - Excel & Google Sheets 
+5) 💃 Guest Speaker - [Trina Limpert](https://www.linkedin.com/in/trinaceleste/) - Ethics in AI
 
 
