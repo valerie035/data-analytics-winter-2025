@@ -45,7 +45,13 @@ The result from Google was less detailed, but also less complicated. I was able 
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
-- Which resource you found most effective for this? 
+- Which resource you found most effective for this?
+
+I asked ChatGPT how to use the quartile function. I found the instructions straight forward and easy to understand. When I put the formula into Excel there were no errors, and it gave the correct answer. From this I can conclude that there were no missing steps in the information. I asked ChatGPT for a dataset that I could use to practice in Excel, and I received a nice set of data that I could copy and paste into the spreadsheet. In addition to the data, ChatGPT gave me other formulas that I could practice and it told me how I would use the formulas. 
+
+I asked the same question in Google. The instructions in Google were not hard to understand, but not quite as clear as the instructions in ChatGPT. The nice thing about Google was that I knew from which websites the answers came, and I could go directly to the source. Further, Google provided me with a video showing me how to use the formula.
+
+Ultimately, I found ChatGPT most effective. I liked that I could ask for a dataset that I could copy and paste directly into Excel. I also liked the additional practice that ChatGPT suggested.
 ---
 
 ### 5. **When to Use Which Resource**  
@@ -55,6 +61,9 @@ Write a short response below explaining when it would be appropriate to use Chat
 - Need for detailed visual instructions  
 - Level of confidence in verifying the accuracy of the information  
 
+Based on what I learned in this assignment, I would use Google when I am learning something new. Google will provide me with videos that I can watch and follow the steps within my own spreadsheet. That is, with Google I have a number of different videos which can provide visual instructions. I would also choose Google if the problem is complex. Having a video to watch will be easier for me to understand the new concepts. I have more confidence in the accuracy of the information on Google because I can see which websites the information is coming from. 
+
+Conversely, I would use ChatGPT if the problem is not complex. It was easy for me to figure out the second question that I asked because the answer did not need to be as detailed. Another way I will use ChatGPT is for extra practice. I will ask for datasets that I can copy and paste into Excel so that I can practice what I am learning.
 ---
 
 ### 6. **Final Reflection**  
@@ -62,6 +71,8 @@ Reflect on your experience using ChatGPT vs Google and describe:
 - Which resource you found most effective for this task and why.  
 - How this exercise influenced your approach to learning new data skills in the future.  
 
+In summary, I found both Google and ChatGPT helpful. Google is helpful with more complex tasks because I can watch videos or look at examples on the Microsoft support website. I find ChatGPT helpful when I want to practice skills with which I am familiar because ChatGPT gives me datasets that I can copy and paste into Excel. I also can practice the skills that I learn with new data.
+This exercise has opened my eyes about how I can use ChatGPT in this class and in the future. I am excited to use ChatGPT, as a tutor, to help me as I begin this journey in data analysis.
 ---
 
 ## **Submission Requirements:**  
