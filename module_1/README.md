@@ -87,7 +87,7 @@ Large Language Models like ChatGPT have remarkable abilities to generate content
 
 AI has the amazing capability to generate art, images and even complete video sequences but does it have actual creativity and imagination? And how does this type of AI work? Learn more about how AI is able to generate art including images we've never seen.
 
-- [ ] Watch [video](https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1) and mark when complete 
+- [x] Watch [video](https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1) and mark when complete 
 
 ----
 
