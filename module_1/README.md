@@ -127,14 +127,18 @@ In this video you'll see how to create your very own personalized AI assistant. 
 ## Saturday, Janurary 18th - In Class Agenda: 
 
 1) 👯‍♀️ Welcome & Housekeeping
+   * Congrat to Nicole on her new job! 
+   * Using GitHub Issues
 2) 🙌 Share & Tell 
    * Intro - Aproova - How she uses chatgpt for her job search 
    * Break out groups: 
      * Intro 
+     * What you currently do for work & what you are looking for? 
+     * How can you use chatgpt more in your day to day? At work OR as a mom
      * Where were you when you first used chatgpt? What did you ask it? 
      * How did the assignment go for you? What did you learn?
    * Trissa - Analyzing Slack Data 
 3) ❓ Q&A & Look Ahead 
-4) 💃 Guest Speaker - Trina Limpert - Ethics in AI
+4) 💃 Guest Speaker - [Trina Limpert](https://www.linkedin.com/in/trinaceleste/) - Ethics in AI
 
 
