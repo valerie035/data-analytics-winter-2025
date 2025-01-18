@@ -107,7 +107,7 @@ _click on the image above to access slides_
   - **Mode:** The most frequently occurring value in a set of numbers.  
     Example: Identifying the most common grocery item purchased.
 
-- [ ] **Application Exercise:**
+- [x] **Application Exercise:**
   - Participants calculate the mean, median, and mode using a provided data set (e.g., household expenses).
 
 ---
