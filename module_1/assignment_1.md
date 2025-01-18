@@ -9,7 +9,7 @@ This assignment aims to help students critically evaluate the effectiveness of u
 
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
-The role of AI tools like ChatGPT in learning data analytics is to help understand concepts and even write codes. I want to follow Alyson's advise and use this tool as a secondary source to get clarification and help, instead of the main source to do the assignments for me.
+The role of AI tools like ChatGPT in learning data analytics is to help understand concepts and even write codes. I want to follow Alyson's advice and use this tool as a secondary source to get clarification and help, instead of the main source to do the assignments for me.
 
 ---
 
@@ -45,7 +45,7 @@ You will ask ChatGPT the following question:
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
 - Which resource you found most effective for this?
-- Google
+-   Google
 ---
 Google
 ### 5. **When to Use Which Resource**  
@@ -54,14 +54,15 @@ Write a short response below explaining when it would be appropriate to use Chat
 - Complexity of the problem  
 - Need for detailed visual instructions  
 - Level of confidence in verifying the accuracy of the information  
-
+  Based on my personal experince 
 ---
 
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
-- Which resource you found most effective for this task and why.  
+- Which resource you found most effective for this task and why.
+For this specific assignment, my experience using Google was better. However, I am new to using ChatGPT and use the free version, so I don't know if this was a factor in not getting the information I was looking for. Also, I love to watch videos when I am learning how to learn new things, my brain works better. I can't get this type of help from ChatGPT
 - How this exercise influenced your approach to learning new data skills in the future.  
-
+It is too quick to make a statement because as I mentioned before, I am a beginner using ChatGPT. For now, I think my preferred source for getting help when I need to learn new data skills is Google.
 ---
 
 ## **Submission Requirements:**  
