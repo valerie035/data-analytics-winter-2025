@@ -18,28 +18,61 @@ You will ask ChatGPT the following question:
 **_"How do you sort the values in a pivot chart by descending order in Excel?"_** (or Google Sheets if that is what you are using) 
 
 - **a. Ask ChatGPT:**  
-  - Screenshot ChatGPT's response and include below. 
-  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.  
+  - Screenshot ChatGPT's response and include below.
+
+![image](https://github.com/user-attachments/assets/4363e520-1013-4972-956f-1f2266f35c97)
+
+  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
 
+ The explanation was not clear as I was using Google Sheets the information ChatGPT was giving me it was not the option I was showing in Google Sheets. There was no "Descending" option and instead a A to Z or Z to A option. There wasnt any information as to what drop down to use when opening the editor for the pivot table.
+
 ---
 
 ### 3. **Comparison**  
-- Use Google to search for the same solution (e.g., "sort pivot chart by descending order in Excel").  
+- Use Google to search for the same solution (e.g., "sort pivot chart by descending order in Excel").
+
+- ![image](https://github.com/user-attachments/assets/1a0d6f8e-e5ba-4fa4-95c0-cc4d4d2726c5)
+
+
 - Compare the Google search experience to ChatGPT’s response:  
   - Was the Google result more or less detailed?  
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
+ 
+  Googles information was more detailed as to how I get to the Pivot table editor, what section to look for and what a descending order would be in Google Sheets.
+  I found that the steps on Google were more informative then ChatGPT. This could also probable be since we are using Google to find information breakdown for Google Sheets.
 
 ---
 
 ### 4. **Pick Another Scenario*  
-- Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
-- Which resource you found most effective for this? 
----
+- Ask ChatGPT another data question as it relates to how to do something in excel/google sheets
+
+  My question was:
+
+Help me find the average, median, and mode of the following chart and create it into a pivot table 
+Household Income	COUNT of 	COUNT of 
+$50k - $75k	128	23%
+$35k - $50k	100	18%
+$75k - $100k	86	15%
+$100k - $150k	70	13%
+<$15k	61	11%
+$25k - $35k	49	9%
+$15k - $25k	34	6%
+$150k - $200k	23	4%
+$200k - $250k	3	1%
+$250k+	2	0%
+Grand Total	556	100.00%
+
+
+- Which resource you found most effective for this?
+
+ChatGPT - Created a table and formaula breakdown to find the Average
+
+Google
 
 ### 5. **When to Use Which Resource**  
 Write a short response below explaining when it would be appropriate to use ChatGPT or Google. Consider factors like:  
