@@ -114,7 +114,7 @@ In this video you'll see how to create your very own personalized AI assistant. 
 1) 👯‍♀️ Networking
 2) 📝 Weekly Quiz found [here](https://docs.google.com/forms/d/e/1FAIpQLSf_WRLECbL7sr4UFuqNZXC9H1E0Q67E8NTB_LFqx5NZwNInxA/viewform)
 3) ⏮️ Review Video Lessons
-4) 👩🏻‍🏫 Lecture: Using AI in Education: Chatbots as Tutors and Learning Coaches
+4) 👩🏻‍🏫 Lecture: [AI in Education & Analytics](https://docs.google.com/presentation/d/1adQsagv1OgYLzNgowLpsEHQqPHiQypYjgNw328Rgz5M/edit?usp=sharing)
 5) 📆 Assignment Overview 
 6) ❓ Q&A & Look Ahead
 
