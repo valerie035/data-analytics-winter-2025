@@ -105,7 +105,7 @@ The potential for AI to help society is enormous. But at the same time we need t
 
 In this video you'll see how to create your very own personalized AI assistant. This could be used to build a chatbot to help with sales, automate research, clone your ability to answer questions about complex topics, or even do data analysis or tutor you in data analysis.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=HYwa43Elxwo) and mark when complete 
+- [X] Watch [video](https://www.youtube.com/watch?v=HYwa43Elxwo) and mark when complete 
 
 ----
 
