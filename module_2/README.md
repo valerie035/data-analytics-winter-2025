@@ -6,7 +6,7 @@ _Edit the markdown file with an x in the checkbox when complete, then commit cha
 
 - [x] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
 - [x] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
-- [ ] Overview, Outcomes, and Video Lessons below
+- [x] Overview, Outcomes, and Video Lessons below
 
 ## Overview:
 
@@ -63,7 +63,7 @@ _Est. Time to Complete: (60 mins)_
 This section introduces essential functions and formulas in Excel and Google Sheets that are crucial for data manipulation and analysis. Students will learn how to use functions such as SUM, AVERAGE, COUNT, AND IF statements. By the end of this section, students will be comfortable using these tools to perform calculations and automate repetitive tasks.
 
 - [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
-- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Formula%20Excel%20Template.xlsx),tried to use but ended up going to google sheets and downloading excel. 
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Formula%20Excel%20Template.xlsx), tried to use but ended up going to google sheets and downloading excel. 
 - [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1_m7bzlByhPAjYNglv_Vp6eK4sQxLVAaXDRAfp1yn7iw/edit?usp=sharing)
 - [x] Complete the hands-on activity
 
@@ -87,10 +87,10 @@ _Est. Time to Complete: (30 mins)_
 
 Visualizing data is a critical skill in data analytics. This section will guide students through the process of creating various types of charts, such as bar, line, and pie charts, to represent data clearly and effectively. Students will learn best practices for selecting the right chart type and formatting it to communicate their findings visually.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=HXkI655b-v2RuNvo&t=21589) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Charts%20Tutorial%20File.xlsx)
+-  Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1JVPEzRH7ePeK0GaJZJK1SpfnlrDjWOLeQb_8z8vD10I/edit?usp=sharing)
+- [x] Complete the hands-on activity
 
 ---
 
