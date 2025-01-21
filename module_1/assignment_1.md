@@ -22,8 +22,6 @@ You will ask ChatGPT the following question:
   - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
 
     answers to things here (screenshot: drag & drop )
-    I actually enjoy using Chat GPT and mainly to dumb things down as you can say. I feel like at times things are hard for me to understand or grasp the concept for something so the main reason I use Chat GPT is for helping me understand concepts better. I hope to continue using Chat GPT for that or even further my understanding on my google sheets or other things that can improve my knowledge.
-    <img width="1440" alt="Screenshot 2025-01-20 at 4 21 43 PM" src="https://github.com/user-attachments/assets/a31479f9-1dbe-459f-8a63-25123f64ebe6" /> 
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
