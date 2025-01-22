@@ -142,5 +142,10 @@ In this video you'll see how to create your very own personalized AI assistant. 
     * [Module 1 Feedback Form](https://forms.gle/b2KRCw2Z4ghfJFNP6)
     * Module 2 - Excel & Google Sheets 
 5) 💃 Guest Speaker - [Trina Limpert](https://www.linkedin.com/in/trinaceleste/) - Ethics in AI
+6) 
+
+## Additional Resources: 
+
+* 
 
 
