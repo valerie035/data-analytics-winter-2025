@@ -6,18 +6,18 @@ During this course, you will need to set aside 10 hours a week to study. This st
 
 ## How to use this Template 
 
-In your forked repository, edit the markdown file below with your planned study hour that total a _minimum of 10 hours a week_. 
+In your forked repository, edit the markdown file below with your planned study hours that total a _minimum of 10 hours a week_. 
 
 Some weeks will be lighter, some will be more difficult. 
 
-On the lighter weeks you can use the extra time to watch YouTube videos on data related topics you are interested in or find additional learning resources in the Data Analytics Resources [repo](https://github.com/Tech-Moms/data-analytics-course). 
+On the lighter weeks you can use the extra time to watch YouTube videos on data related topics you are interested in or find additional learning resources in the Data Analytics Resources [repo](https://github.com/tech-moms/data-analytics-resources). 
 
 ## Weekly Study Plan
 
 ### Weekdays
 | Day       | Morning Study Time | Afternoon Study Time | Evening Study Time | Focus Areas                           |
 |-----------|--------------------|----------------------|--------------------|---------------------------------------|
-| Monday    | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM | *e.g., Watch Video Lessons & follow along with Hands-on exercises |
+| Monday    | 7:00 AM - 8:00 AM | 12pm - 1pm | 10:00 PM - 11:00 PM | *e.g., Watch Video Lessons & follow along with Hands-on exercises |
 | Tuesday   | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
 | Wednesday | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
 | Thursday  | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
