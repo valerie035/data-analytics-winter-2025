@@ -76,3 +76,9 @@ Learn how to integrate AI tools with Excel and Google Sheets to enhance data ana
 - [Google Sheets Explore Feature](https://support.google.com/docs/answer/6281888?hl=en)
 - [GPT for Sheets](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
 - [OpenAI API Documentation](https://platform.openai.com/docs/)
+
+--- 
+
+Note - this lecture was written by ChatGPT using the following prompt: 
+
+> hello! I'm teaching a 20 min lecture tonight about using AI with Excel and Google Sheets. Can you write me an outline in github markdown? 
