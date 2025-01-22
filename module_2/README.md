@@ -102,7 +102,7 @@ Visualizing data is a critical skill in data analytics. This section will guide 
  * [Creating a Study Plan ](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/22)
 
  * [Capstone Overview](https://github.com/Tech-Moms/data-analytics-winter-2025/tree/main/capstone_project)  
-3) 📝 Weekly Quiz
+3) 📝 [Weekly Quiz](https://forms.gle/6gxAyfuxCNAqJHCh7)
 4) ⏮️ Review Video Lessons 
 5) 👩🏻‍🏫 Lecture 
 6) 📆 Assignment Overview 
