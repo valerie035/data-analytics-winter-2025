@@ -11,13 +11,23 @@ Learn how to integrate AI tools with Excel and Google Sheets to enhance data ana
 
 ## Outline
 
-### 1. **Introduction** (2 minutes)
+### 1. **Introduction** 
 - Welcome and topic overview
-  - "Today, we'll explore how AI can transform your workflow in Excel and Google Sheets."
-- Why use AI in spreadsheets?
-  - Efficiency: Automate repetitive tasks.
-  - Insight: Discover patterns and insights faster.
-  - Scalability: Handle complex data analysis.
+  - "Today, we'll explore how AI can transform augment in Excel and Google Sheets."
+- 6 use case for ChatGPT when working with spreadsheets
+   1. Data Reformatting
+    - Take a PDF and convert to a csv or excel file 
+   2. Convert Photos to csv or excel file
+    - Take a photo of notes & add to chatgpt & ask to convert to csv
+   3. Be Your Eyes
+    - Take a screenshot of your Excel or Google and ask "Where is the button to apply a filter?"    
+   4. Help with Formulas: 
+    - "What is this formula doing? Explain it to me like I'm a 7th grader." 
+    - "How would I write a formula to do x?"
+   5. Write a data dictionary
+   6. Clean and format data
+
+Source: 🎥 [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW8_6gfhI) (as of March '24) spoiler: it's chatgpt
 
 ---
 
@@ -70,6 +80,10 @@ Learn how to integrate AI tools with Excel and Google Sheets to enhance data ana
 - Encourage further exploration and experimentation.
 
 ---
+
+## Videos Resources 
+- [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW8_6gfhI) (as of March '24) spoiler: it's chatgpt
+- 
 
 ## Resources
 - [Microsoft Excel Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
