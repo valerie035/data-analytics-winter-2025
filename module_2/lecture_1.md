@@ -1,5 +1,7 @@
 # Lecture: Using AI with Excel and Google Sheets
 
+
+
 ## Overview
 Duration: 20 minutes  
 Audience: Data analytics students  
