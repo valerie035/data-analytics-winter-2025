@@ -1,13 +1,12 @@
 # Lecture: Using AI with Excel and Google Sheets
 
-
+<img width="1381" alt="Screenshot 2025-01-22 at 4 53 57 PM" src="https://github.com/user-attachments/assets/0a3fc9b5-35b0-4924-a0bb-bf380964916b" />
 
 ## Overview
-Duration: 20 minutes  
-Audience: Data analytics students  
+Duration: 30 minutes  
 
 ### Objective
-Learn how to integrate AI tools with Excel and Google Sheets to enhance data analysis, improve efficiency, and automate repetitive tasks.
+Learn how to leverage AI tools with Excel and Google Sheets
 
 ---
 
