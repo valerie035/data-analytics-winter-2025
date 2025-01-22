@@ -6,7 +6,7 @@ _Edit the markdown file with an x in the checkbox when complete, then commit cha
 
 - [x] Watch this 1-minute [video](https://app.screencastify.com/v3/watch/XJp2UYdVvVnFIFr2CjeA) about the next step
 - [x] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
-- [ ] Overview, Outcomes, and Video Lessons below
+- [x] Overview, Outcomes, and Video Lessons below
 
 ## Overview:
 
@@ -75,9 +75,9 @@ _Est. Time to Complete: (30 mins)_
 
 Pivot tables are powerful tools for summarizing, analyzing, and exploring data. In this section, students will learn how to create pivot tables to quickly extract key insights from large datasets. We will cover how to group, filter, and sort data, as well as how to customize the layout to answer specific business questions.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
-- [ ] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
-- [ ] Complete the hands-on activity
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=DsyZu_e9TrHPrr7o&t=16121) and mark when complete
+- [x] Download dataset from [Kaggle](https://www.kaggle.com/datasets/sadiqshah/bike-sales-in-europe?resource=download) and open in Excel or Google Sheets
+- [x] Complete the hands-on activity
 
 ---
 
