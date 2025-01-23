@@ -26,7 +26,7 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 | Tuesday   |                   |                   | 8:00 PM - 10:00 PM | complete pre-work for Wednesday's class/start working on assignment|
 | Wednesday |                   |                   | 9:00 PM - 11:00 PM | work on assignment due Saturday|
 | Thursday  |                   |                   | 8:00 PM - 10:00 PM |  use if needed|
-| Friday    |                   |                   | 8:00 PM - 1o:00 PM |  use if needed|
+| Friday    |                   |                   | 8:00 PM - 10:00 PM |  use if needed|
 
 ### Weekend
 | Day       | Morning Study Time  | Afternoon Study Time | Study Block Time         | Focus Areas                           |
