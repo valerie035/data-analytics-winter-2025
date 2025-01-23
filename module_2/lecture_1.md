@@ -53,11 +53,11 @@ Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz
 
 ### 3. **Demo: Real-World Examples** 
 #### **Scenario 1: Cleaning and Organizing Data**
-- AI suggestion for column names (e.g., Copilot or GPT for Sheets).
-- Auto-detecting and fixing errors in datasets.
+- Ask ChatGPT to clean and format the tech moms applicant data set. 
+- Ask ChatGPT to show me the diff 
 
 #### **Scenario 2: Generating Insights**
-- Asking AI to summarize trends from sales data.
+- Asking AI to summarize trends from the applicant data set. 
 - Using AI to suggest the best visualization for your dataset.
 
 #### **Scenario 3: Automating Repetitive Tasks**
