@@ -28,7 +28,7 @@ Learn how to leverage AI tools with Excel and Google Sheets
    5. Write a data dictionary
    6. Clean and format data
 
-Source: 🎥 [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW8_6gfhI) (as of March '24) spoiler: it's chatgpt
+Source 1: 🎥 [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW8_6gfhI) (as of March '24) spoiler: it's chatgpt
 
 Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz6V_4SpA) 
 
