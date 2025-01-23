@@ -22,16 +22,16 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 ### Weekdays
 | Day       | Morning Study Time | Afternoon Study Time | Evening Study Time | Focus Areas                           |
 |-----------|--------------------|----------------------|--------------------|---------------------------------------|
-| Monday    | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM | *e.g., Watch Video Lessons & follow along with Hands-on exercises |
-| Tuesday   | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
-| Wednesday | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
-| Thursday  | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
-| Friday    | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
+| Monday    |                   |                   | 8:00 PM - 10:00 PM | work on pre-work for Wednesday's class |
+| Tuesday   |                   |                   | 8:00 PM - 10:00 PM | complete pre-work for Wednesday's class/start working on assignment|
+| Wednesday |                   |                   | 9:00 PM - 11:00 PM | work on assignment due Saturday|
+| Thursday  |                   |                   | 8:00 PM - 10:00 PM |  use if needed|
+| Friday    |                   |                   | 8:00 PM - 1o:00 PM |  use if needed|
 
 ### Weekend
 | Day       | Morning Study Time  | Afternoon Study Time | Study Block Time         | Focus Areas                           |
 |-----------|---------------------|----------------------|--------------------------|---------------------------------------|
-| Saturday  | Specify time here | Specify time here | Specify time here    | |
+| Saturday  | Specify time here | 10:30 AM -2:30 PM | Specify time here    | | work on pre-work for Wednesday's class (if in-class, I will adjust time to get four hours in)
 | Sunday    | 9:00 AM - 12:00 PM | Specify time here | Specify time here    | *e.g., Assignments, prepare for next week* |
 
 ### Important Note:
