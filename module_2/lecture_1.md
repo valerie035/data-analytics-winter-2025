@@ -37,10 +37,10 @@ Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz
 ### 2. **AI Integration in Excel and Google Sheets**
 #### **Excel**
 - Microsoft Copilot (for Office 365 users)
-  - How it assists with formulas, data summaries, and visualizations.
-  - Example: Generating pivot tables with natural language queries.
-- Add-ins and tools
-  - DataRobot, OpenAI integration via VBA or Power Query.
+  - It assists with text summaries, and visualizations.
+  - The future maybe using Python within Excel 
+
+Source: 🎥 [Excel Copilot: Future of Spreadsheets or Overhyped?](https://www.youtube.com/watch?v=sk-lnOX_9No) (as of Dec '24) spoiler: it's overhyped
 
 #### **Google Sheets**
 - Google Bard and AI-powered Explore feature
@@ -80,7 +80,8 @@ Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz
 - Recap key takeaways:
   - AI enhances efficiency, insights, and scalability in Excel and Google Sheets.
   - Explore built-in tools, add-ons, and custom integrations.
-- Encourage further exploration and experimentation.
+- Go Forth and Explore!
+
 
 ---- 
 
