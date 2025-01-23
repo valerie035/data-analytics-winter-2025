@@ -36,8 +36,10 @@ Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz
 
 ### 2. **AI Integration in Excel and Google Sheets**
 #### **Excel**
-- Microsoft Copilot (for Office 365 users)
-  - It assists with text summaries, and visualizations.
+- [Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot#tabs-pill-bar-oc498c_tab2) (for Office 365 users)
+  - $10/month 
+  - It assists with text summaries & and visualizations.
+  - It doesn't know how to clean data neccessarily 
   - The future maybe using Python within Excel 
 
 Source: 🎥 [Excel Copilot: Future of Spreadsheets or Overhyped?](https://www.youtube.com/watch?v=sk-lnOX_9No) (as of Dec '24) spoiler: it's overhyped
