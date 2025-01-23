@@ -31,8 +31,8 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 ### Weekend
 | Day       | Morning Study Time  | Afternoon Study Time | Study Block Time         | Focus Areas                           |
 |-----------|---------------------|----------------------|--------------------------|---------------------------------------|
-| Saturday  | Specify time here | 10:30 AM -2:30 PM | Specify time here    | | work on pre-work for Wednesday's class (if in-class, I will adjust time to get four hours in)
-| Sunday    | 9:00 AM - 12:00 PM | Specify time here | Specify time here    | *e.g., Assignments, prepare for next week* |
+| Saturday  |                    | 10:30 AM -2:30 PM |                      |work on pre-work for Wednesday's class (if in-class, I will adjust time to get four hours in) | 
+
 
 ### Important Note:
 📅 **Make sure to add these study times to your calendar!** Use Google Calendar, Outlook, or any other calendar app to block off your study sessions and stay consistent. A calendar helps you stay on track and prioritize your learning. If you don’t already use a calendar app, now is the perfect time to start!
