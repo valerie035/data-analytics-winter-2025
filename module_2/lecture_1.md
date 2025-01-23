@@ -1,11 +1,12 @@
 # Lecture: Using AI with Excel and Google Sheets
 
+<img width="1381" alt="Screenshot 2025-01-22 at 4 53 57 PM" src="https://github.com/user-attachments/assets/0a3fc9b5-35b0-4924-a0bb-bf380964916b" />
+
 ## Overview
-Duration: 20 minutes  
-Audience: Data analytics students  
+Duration: 30 minutes  
 
 ### Objective
-Learn how to integrate AI tools with Excel and Google Sheets to enhance data analysis, improve efficiency, and automate repetitive tasks.
+Learn how to leverage AI tools with Excel and Google Sheets
 
 ---
 
@@ -27,34 +28,38 @@ Learn how to integrate AI tools with Excel and Google Sheets to enhance data ana
    5. Write a data dictionary
    6. Clean and format data
 
-Source: 🎥 [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW8_6gfhI) (as of March '24) spoiler: it's chatgpt
+Source 1: 🎥 [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW8_6gfhI) (as of March '24) spoiler: it's chatgpt
+
+Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz6V_4SpA) 
 
 ---
 
-### 2. **AI Integration in Excel and Google Sheets** (5 minutes)
+### 2. **AI Integration in Excel and Google Sheets**
 #### **Excel**
-- Microsoft Copilot (for Office 365 users)
-  - How it assists with formulas, data summaries, and visualizations.
-  - Example: Generating pivot tables with natural language queries.
-- Add-ins and tools
-  - DataRobot, OpenAI integration via VBA or Power Query.
+- [Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot#tabs-pill-bar-oc498c_tab2) (for Office 365 users)
+  - $10/month 
+  - It assists with text summaries & and visualizations.
+  - It doesn't know how to clean data neccessarily 
+  - The future maybe using Python within Excel 
+
+Source: 🎥 [Excel Copilot: Future of Spreadsheets or Overhyped?](https://www.youtube.com/watch?v=sk-lnOX_9No) (as of Dec '24) spoiler: it's overhyped
 
 #### **Google Sheets**
-- Google Bard and AI-powered Explore feature
-  - Auto-completing formulas, creating charts, and answering queries.
-  - Example: Ask, "What are the trends in this data?" in Explore.
-- Third-party extensions
-  - GPT for Sheets: Using OpenAI's API for advanced automation.
+- Google Gemini 
+  - Natural Language AI for Google Sheets
+  - It's still not better than chatgpt....
+ 
+Source: 🎥 [How to use Gemini AI with Google Workspace](https://www.youtube.com/watch?v=gKdV__1K3f0) (as of Mar '24) 
 
 ---
 
-### 3. **Demo: Real-World Examples** (8 minutes)
+### 3. **Demo: Real-World Examples** 
 #### **Scenario 1: Cleaning and Organizing Data**
-- AI suggestion for column names (e.g., Copilot or GPT for Sheets).
-- Auto-detecting and fixing errors in datasets.
+- Ask ChatGPT to clean and format the tech moms applicant data set. 
+- Ask ChatGPT to show me the diff 
 
 #### **Scenario 2: Generating Insights**
-- Asking AI to summarize trends from sales data.
+- Asking AI to summarize trends from the applicant data set. 
 - Using AI to suggest the best visualization for your dataset.
 
 #### **Scenario 3: Automating Repetitive Tasks**
@@ -63,7 +68,7 @@ Source: 🎥 [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW
 
 ---
 
-### 4. **Best Practices for Using AI in Spreadsheets** (3 minutes)
+### 4. **Best Practices for Using AI in Spreadsheets**
 - **Prompt engineering**
   - Be specific and clear when asking AI for help.
 - **Validate results**
@@ -73,23 +78,10 @@ Source: 🎥 [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW
 
 ---
 
-### 5. **Q&A and Wrap-Up** (2 minutes)
+### 5. **Q&A and Wrap-Up** 
 - Recap key takeaways:
-  - AI enhances efficiency, insights, and scalability in Excel and Google Sheets.
-  - Explore built-in tools, add-ons, and custom integrations.
-- Encourage further exploration and experimentation.
-
----
-
-## Videos Resources 
-- [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW8_6gfhI) (as of March '24) spoiler: it's chatgpt
-- 
-
-## Resources
-- [Microsoft Excel Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
-- [Google Sheets Explore Feature](https://support.google.com/docs/answer/6281888?hl=en)
-- [GPT for Sheets](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
-- [OpenAI API Documentation](https://platform.openai.com/docs/)
+  - AI is not quite where it needs to be to be trusted to analyze data in Excel and Google Sheets. Something to keep an eye on. 
+- Go Forth and Explore!
 
 --- 
 
