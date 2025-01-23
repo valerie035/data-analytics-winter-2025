@@ -49,6 +49,7 @@ Source: 🎥 [Excel Copilot: Future of Spreadsheets or Overhyped?](https://www.y
   - Natural Language AI for Google Sheets
   - It's still not better than chatgpt....
  
+Source: 🎥 [How to use Gemini AI with Google Workspace](https://www.youtube.com/watch?v=gKdV__1K3f0) (as of Mar '24) 
 
 ---
 
