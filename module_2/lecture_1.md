@@ -34,7 +34,7 @@ Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz
 
 ---
 
-### 2. **AI Integration in Excel and Google Sheets** (5 minutes)
+### 2. **AI Integration in Excel and Google Sheets**
 #### **Excel**
 - Microsoft Copilot (for Office 365 users)
   - How it assists with formulas, data summaries, and visualizations.
@@ -51,7 +51,7 @@ Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz
 
 ---
 
-### 3. **Demo: Real-World Examples** (8 minutes)
+### 3. **Demo: Real-World Examples** 
 #### **Scenario 1: Cleaning and Organizing Data**
 - AI suggestion for column names (e.g., Copilot or GPT for Sheets).
 - Auto-detecting and fixing errors in datasets.
@@ -66,7 +66,7 @@ Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz
 
 ---
 
-### 4. **Best Practices for Using AI in Spreadsheets** (3 minutes)
+### 4. **Best Practices for Using AI in Spreadsheets**
 - **Prompt engineering**
   - Be specific and clear when asking AI for help.
 - **Validate results**
@@ -76,17 +76,13 @@ Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz
 
 ---
 
-### 5. **Q&A and Wrap-Up** (2 minutes)
+### 5. **Q&A and Wrap-Up** 
 - Recap key takeaways:
   - AI enhances efficiency, insights, and scalability in Excel and Google Sheets.
   - Explore built-in tools, add-ons, and custom integrations.
 - Encourage further exploration and experimentation.
 
----
-
-## Videos Resources 
-- [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW8_6gfhI) (as of March '24) spoiler: it's chatgpt
-- 
+---- 
 
 ## Resources
 - [Microsoft Excel Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
