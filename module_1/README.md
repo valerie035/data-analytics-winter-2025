@@ -144,3 +144,4 @@ In this video you'll see how to create your very own personalized AI assistant. 
 5) 💃 Guest Speaker - [Trina Limpert](https://www.linkedin.com/in/trinaceleste/) - Ethics in AI
 
 
+
