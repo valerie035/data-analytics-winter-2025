@@ -30,6 +30,8 @@ Learn how to leverage AI tools with Excel and Google Sheets
 
 Source: 🎥 [The best AI for spreadsheets](https://www.youtube.com/watch?v=lFuW8_6gfhI) (as of March '24) spoiler: it's chatgpt
 
+Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz6V_4SpA) 
+
 ---
 
 ### 2. **AI Integration in Excel and Google Sheets** (5 minutes)
