@@ -45,11 +45,11 @@ Source 2: 🎥 [Cleaning Data with ChatGPT](https://www.youtube.com/watch?v=DLpz
 Source: 🎥 [Excel Copilot: Future of Spreadsheets or Overhyped?](https://www.youtube.com/watch?v=sk-lnOX_9No) (as of Dec '24) spoiler: it's overhyped
 
 #### **Google Sheets**
-- Google Bard and AI-powered Explore feature
-  - Auto-completing formulas, creating charts, and answering queries.
-  - Example: Ask, "What are the trends in this data?" in Explore.
-- Third-party extensions
-  - GPT for Sheets: Using OpenAI's API for advanced automation.
+- Google Gemini 
+  - Natural Language AI for Google Sheets
+  - It's still not better than chatgpt....
+ 
+Source: 🎥 [How to use Gemini AI with Google Workspace](https://www.youtube.com/watch?v=gKdV__1K3f0) (as of Mar '24) 
 
 ---
 
@@ -80,18 +80,8 @@ Source: 🎥 [Excel Copilot: Future of Spreadsheets or Overhyped?](https://www.y
 
 ### 5. **Q&A and Wrap-Up** 
 - Recap key takeaways:
-  - AI enhances efficiency, insights, and scalability in Excel and Google Sheets.
-  - Explore built-in tools, add-ons, and custom integrations.
+  - AI is not quite where it needs to be to be trusted to analyze data in Excel and Google Sheets. Something to keep an eye on. 
 - Go Forth and Explore!
-
-
----- 
-
-## Resources
-- [Microsoft Excel Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)
-- [Google Sheets Explore Feature](https://support.google.com/docs/answer/6281888?hl=en)
-- [GPT for Sheets](https://workspace.google.com/marketplace/app/gpt_for_sheets_and_docs/677318054654)
-- [OpenAI API Documentation](https://platform.openai.com/docs/)
 
 --- 
 
