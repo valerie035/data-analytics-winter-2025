@@ -97,16 +97,23 @@ Visualizing data is a critical skill in data analytics. This section will guide 
 
 ## Wednesday, January 22nd - In Class Agenda: 
 
-1) 👯‍♀️ Welcome & Networking
-2) 📝 Weekly Quiz
-3) ⏮️ Review Video Lessons 
-4) 👩🏻‍🏫 Lecture 
-5) 📆 Assignment Overview 
-6) ❓ Q&A & Look Ahead
+1) 👯‍♀️ Welcome & Networking - 15 mins 
+ * Happy Belated Bday to Crystal! - 1/13 🥳
+ * Happy Belated Bday to Frenchell! - 1/14 🎉
+2) 🧹 Housekeeping - 15 mins 
+ * [Creating a Study Plan ](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/22)
+
+ * [Capstone Overview](https://github.com/Tech-Moms/data-analytics-winter-2025/tree/main/capstone_project)  
+3) 📝 [Weekly Quiz](https://forms.gle/6gxAyfuxCNAqJHCh7) - 10 mins 
+4) ⏮️ Review Video Lessons - 15 mins
+5) ☕️ Break - 5 mins 
+6) 👩🏻‍🏫 Lecture - 30 mins 
+8) 📆 Assignment Overview - 15 mins 
+9) ❓ Q&A & Look Ahead - 15 mins 
 
 ----
 
-## Assignment - complete by Saturday, January 18th
+## Assignment - complete by Saturday, January 25th
 
 <img width="500" alt="Screenshot 2024-08-28 at 3 35 15 PM" src="https://github.com/user-attachments/assets/f5c9f15f-8631-41c7-b644-520372ad35a8">
 
