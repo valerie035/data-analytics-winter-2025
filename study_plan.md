@@ -24,9 +24,9 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 |-----------|--------------------|----------------------|--------------------|---------------------------------------|
 | Monday    |  | 12:00-2:00|  | Watch Video Lessons  |
 | Tuesday   |  | 12:00-2:00 |  | work on assignments due Wednesday                    |
-| Wednesday | | 12:00-2:00 |  |                                       |
-| Thursday  |  | 12:00-2:00 |  |                                       |
-| Friday    |  | 10:30-12:30 |  |                                       |
+| Wednesday | | 12:00-2:00 |  | work on assignments due Wednesday                                      |
+| Thursday  |  | 12:00-2:00 |  |work on assignments due Saturday                                       |
+| Friday    |  | 10:30-12:30 |  | work on assignments due Saturday                                      |
 
 ### Weekend
 | Day       | Morning Study Time  | Afternoon Study Time | Study Block Time         | Focus Areas                           |
