@@ -13,3 +13,5 @@ https://docs.google.com/presentation/d/1uWO-6n43WHXC0CEJy2rL325ISufFn6T8Dasnv3zM
 
 # Slack 
 
+- [ ] [Slack Community Guidelines](https://docs.google.com/document/d/1g7nEFyEZe8AvSan-bbYAuvJorYvHSdoX55urAGQO_iI/edit?usp=sharing) 
+
