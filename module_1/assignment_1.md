@@ -28,7 +28,7 @@ You will ask ChatGPT the following question:
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
 
- For myself it was pretty sright forward, no need to improve as for the response it gave me several different ways to try if needed.
+ 
 ---
 
 ### 3. **Comparison**  
