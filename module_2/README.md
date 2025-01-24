@@ -125,7 +125,7 @@ In the final section, students will learn how to bring together all the skills t
 - [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 - [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
 - [x] Complete the Dashboard and share in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/20) thread.
-- [ ] Include if/how you used AI as a tutor for this assignment as it relates to our [AI Policy](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/ai-usage.md). 
+- [x] Include if/how you used AI as a tutor for this assignment as it relates to our [AI Policy](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/ai-usage.md). 
 
 ----
 
