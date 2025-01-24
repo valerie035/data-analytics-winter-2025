@@ -66,6 +66,8 @@ This approach will help you build familiarity with GitHub, an essential tool in 
   - Roles in Data Analytics
 - 🔗 [Lesson Plan](./module_1/lesson_plan_1.md)
 
+### **Module 2: Excel/Google Sheets**
+
 ---
 
 ## **How to Contribute**
