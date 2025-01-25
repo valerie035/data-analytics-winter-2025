@@ -121,11 +121,11 @@ _Est. Time to Complete: (1.5 hrs)_
 
 In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
 
-- [ ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 - [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
-- [ ] Complete the Dashboard and share in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/20) thread.
-- [ ] Include if/how you used AI as a tutor for this assignment as it relates to our [AI Policy](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/ai-usage.md). 
+- [x] Complete the Dashboard and share in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/20) thread.
+- [x] Include if/how you used AI as a tutor for this assignment as it relates to our [AI Policy](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/ai-usage.md). 
 
 ----
 
