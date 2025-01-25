@@ -15,7 +15,7 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 - 🎥 Loom Video Tutorial - Part 1 - [Creating Your Study Plan on GitHub](https://www.loom.com/share/ec7e9100a2e54b4d87c549a4f9b3349f?sid=9b172357-3c3e-453d-aedb-15b2b6949592)
 - 📆 Loom Video Tutorial - Part 2 - [Adding Your Study Plan to Google Calendar ](https://www.loom.com/share/bc837e544ad94b7dbd96b3543e5bf68b?sid=39090e44-278b-45d9-9ed9-1420f4686654)
 
-- [ ] Once you have created your study plan - add a screenshot of both your edited markdown file & calendar to the discussion thread [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/22). 
+- [x] Once you have created your study plan - add a screenshot of both your edited markdown file & calendar to the discussion thread [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/22). 
 
 ## Weekly Study Plan
 
