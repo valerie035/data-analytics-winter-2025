@@ -23,13 +23,13 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 
 ## Weekday Study Schedule
 
-| **Day**       | **Time**        | **Activity**                       |
+| **Day**       | **Time**        | **Focus Areas**                       |
 |---------------|-----------------|-------------------------------------|
-| **Monday**    | 7:00 pm - 9:00 pm |                                     |
-| **Tuesday**   | 10:00 pm - 11:00 pm |                                     |
+| **Monday**    | 7:00 pm - 9:00 pm |**Watch video(s), read assignment(s), take notes and work on homework**                                     |
+| **Tuesday**   | 10:00 pm - 11:00 pm |**Finalize homework assignment(s) due on Wednesday**                                     |
 | **Wednesday** | -               | **No study session**               |
-| **Thursday**  | 10:00 pm - 11:00 pm |                                     |
-| **Friday**    | 7:00 pm - 9:00 pm |                                     |
+| **Thursday**  | 10:00 pm - 11:00 pm |**Watch video(s), read assignment(s), take notes and work on homework**                                     |
+| **Friday**    | 7:00 pm - 9:00 pm |**Finalize homework assignment(s) due on Saturday**                                         |
 
 ---
 
@@ -37,8 +37,8 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 
 | **Day**       | **Time**        | **Activity**                       |
 |---------------|-----------------|-------------------------------------|
-| **Saturday**  | 2:00 pm - 4:00 pm |                                     |
-| **Sunday**    | 2:00 pm - 4:00 pm |                                     |
+| **Saturday**  | 2:00 pm - 4:00 pm |**Watch video(s), read assignment(s), take notes and work on homework**                                   |
+| **Sunday**    | 2:00 pm - 4:00 pm |**Watch video(s), read assignment(s), take notes and work on homework**                                    |
 
 ---
 
