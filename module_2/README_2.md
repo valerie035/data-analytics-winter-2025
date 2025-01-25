@@ -57,17 +57,19 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 3) 📝 [Weekly Quiz]
 4) ⏮️ Review Video Lessons 
 5) ☕️ Break 
-6) 👩🏻‍🏫 Lecture - Understand Qualitative vs Quantitative Data   
+6) 👩🏻‍🏫 Lecture - [Understand Qualitative vs Quantitative Data](https://docs.google.com/presentation/d/1ksIWDUsOFcPkcjhsgr5guBcwtNfK7O2_dNAZqoF2Ohw/edit#slide=id.g28374011be7_0_143)   
 7) ❓ Q&A & Look Ahead 
 
 ## Assignment - complete by Saturday, February 1st
+
+- [ ] Complete [Assignment 2](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/assignment_2.md)
 
 * Create an Excel / Google Sheet Dashboard using the Tech-Moms Survey Data
   * Skills needed:
      * Data cleaning 
      * Functions, including using X-Lookup to join data from multiple tabs/tables 
      * Analysis 
-     * Visulization 
+     * Visualization 
   
 ## Saturday, February 1st - In Class Agenda: 
 
