@@ -24,7 +24,7 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 |-----------|--------------------|----------------------|------------------------------------------|---------------------------------------|
 | Monday    | 8:00 AM - 5:00 PM  | Specify time here    | 8:00 PM - 9:00 PM AND 10:00 PM- 11:00 PM | Watch videos MON & TUES 
 | Tuesday   | 8:00 AM - 5:00 PM  | Specify time here    | 8:00 PM - 9:00 PM AND 10:00 PM- 11:00 PM | and try to do some homework during my lunch                                       |
-| Wednesday | 8:00 AM - 5:00 PM  | Specify time here    | 8:00 PM - 9:00 PM AND 10:00 PM- 11:00 PM |                                       |
+| Wednesday | 8:00 AM - 5:00 PM  | Specify time here    | 10:00 PM- 11:00 PM                       |                                       |
 | Thursday  | 8:00 AM - 5:00 PM  | Specify time here    | 8:00 PM - 9:00 PM AND 10:00 PM- 11:00 PM |                                       |
 | Friday    | 8:00 AM - 8:00 PM  | Specify time here    | 8:00 PM - 9:00 PM AND 10:00 PM- 11:00 PM |                                       |
 
