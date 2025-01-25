@@ -27,9 +27,9 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 
 - [ ] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
 - [ ] Format the analysis table as follows: 
-      - [ ] Highlight column names and fill background color with the color of your choice
-      - [ ] Add a filter
-      - [ ] Freeze top row
+ - [ ] Highlight column names and fill background color with the color of your choice
+ - [ ] Add a filter
+ - [ ] Freeze top row
       
 - [ ] Review each column to understand the available options in each
 - [ ] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
@@ -64,7 +64,7 @@ Evaluate the open ended replies for themes that stand out. You could do a key wo
 
 We also want to know what % of applicants that were "Assigned Cohort" in the Tech-Moms Application Data filled out a survey. Using the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
 
-### Step Four: Create Visulizations & Build a Dashboard 
+### Step Four: Create Charts & Build a Dashboard 
 
 - [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best? 
 
