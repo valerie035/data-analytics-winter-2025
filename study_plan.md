@@ -17,22 +17,26 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 
 - [ ] Once you have created your study plan - add a screenshot of both your edited markdown file & calendar to the discussion thread [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/22). 
 
-## Weekly Study Plan
+## Week With Kids
 
 ### Weekdays
 | Day       | Morning Study Time | Afternoon Study Time | Evening Study Time | Focus Areas                           |
 |-----------|--------------------|----------------------|--------------------|---------------------------------------|
-| Monday    | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM | *e.g., Watch Video Lessons & follow along with Hands-on exercises |
-| Tuesday   | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
-| Wednesday | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
-| Thursday  | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
-| Friday    | 7:00 AM - 8:00 AM | Specify time here | 10:00 PM - 11:00 PM |                                       |
+| Monday    | 8AM - 10AM | n/a | n/a | optional, if needed after weekend |
+| Tuesday   | 8AM - 10AM| n/a | n/a |                                       |
+| Wednesday | n/a | n/a | 7PM - 9PM |  class, if not tired after, start overviewing videos                           |
+| Thursday  | n/a | n/a | 9:15PM - 11:15PM |  overview first--can use one hour and flex to Friday PM or Sat AM       |
+| Friday    | n/a | 1:00 PM - 3:00 PM | optional if needed/if work meeting, can bump 1-3PM block here |               |
 
 ### Weekend
 | Day       | Morning Study Time  | Afternoon Study Time | Study Block Time         | Focus Areas                           |
 |-----------|---------------------|----------------------|--------------------------|---------------------------------------|
-| Saturday  | Specify time here | Specify time here | Specify time here    | |
-| Sunday    | 9:00 AM - 12:00 PM | Specify time here | Specify time here    | *e.g., Assignments, prepare for next week* |
+| Saturday  | 7AM-9AM, 10AM-12noon | 12noon-2pm/1OPM-3PM | n/a   | finish, polish, learn from others work, class, start on next weeks work beginning with overview  |
+| Sunday    | 7:00 AM - 9:00 AM | n/a | n/a    | if work is complete, can apply skills to other projects with following days time as flexibility allows |
+
+
+
+
 
 ### Important Note:
 📅 **Make sure to add these study times to your calendar!** Use Google Calendar, Outlook, or any other calendar app to block off your study sessions and stay consistent. A calendar helps you stay on track and prioritize your learning. If you don’t already use a calendar app, now is the perfect time to start!
