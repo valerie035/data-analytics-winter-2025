@@ -47,6 +47,7 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 
 ___
 
-_This template was created by ChatGPT using the prompt:_
+_This template was created by ChatGPT using the prompt by my teacher, then I edited it to fit my schedule:_
 
   > hi! I am in a data analytics class and need to carve out 10 hours a week to study. Can you help me create a study plan - I study best in the evenings after my kids go to bed at 10pm. I can commit to one after after bedtime and maybe one hour in the morning before they get up from 7am - 8am. I can do this study plan on the weekdays and I can put in some extra time on Sunday mornings between 9am and 12pm. Can you put the plan into markdown? 
+>I was curious if there was an easy way to convert a google calendar or embed it into markdown. Since I had calendar events blocked, I thought it might save time if there was a quick way to populate the calendar over into markdown. Aside from taking a screenshot (which chatGPT didn't suggest), there wasn't anything that seemed a time value gain from my quick search.  
