@@ -22,9 +22,9 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 ### Weekdays
 | Day       | Morning Study Time | Afternoon Study Time | Evening Study Time | Focus Areas                           |
 |-----------|--------------------|----------------------|--------------------|---------------------------------------|
-| Monday    |         |             | 5 PM - 7 PM| *e.g., Watch Video Lessons & follow along with Hands-on exercises |
+| Monday    |         |             | 7 PM - 9 PM| *e.g., Watch Video Lessons & follow along with Hands-on exercises |
 | Tuesday   |         |             | 5 PM - 7 PM |                                       |
-| Wednesday |         |             | |                                       |
+| Wednesday |         |             | 5 PM - 7 PM |                                       |
 | Thursday  | | | 8 PM - 9 PM|                                       |
 | Friday    | | | 5 PM - 7 PM|                                       |
 
