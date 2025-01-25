@@ -132,4 +132,4 @@ In the final section, students will learn how to bring together all the skills t
 ## Saturday, Janurary 25th - In Class Agenda: 
 
 1) 🙌🏻 Share & Tell 
-2) 💃 Guest Speaker 
+2) 💃 Guest Speaker - Alyson La - [How I used Excel and GitHub to break into Data Analytics](https://docs.google.com/presentation/d/1MZ_6iiAw4ds_eecVjWuGWvpw8Rxllx-qZG1WKnC5Gnc/edit?usp=sharing) 
