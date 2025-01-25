@@ -20,6 +20,9 @@ You will ask ChatGPT the following question:
 - **a. Ask ChatGPT:**  
   - Screenshot ChatGPT's response and include below. 
   - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
+ <img width="615" alt="Screenshot 2025-01-24 at 8 55 57 PM" src="https://github.com/user-attachments/assets/11d9ac37-af12-4b3a-a90d-610b105ac5ab" />
+<img width="631" alt="Screenshot 2025-01-24 at 8 55 49 PM" src="https://github.com/user-attachments/assets/f0f4b196-2c37-475d-a8bf-3621ab65eb4d" />
+
  
 
 - **b. Analysis:**  
