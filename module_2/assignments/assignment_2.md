@@ -15,7 +15,7 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 ### Step One: Get to Know Your Data 
 
 - [ ] Review the [Tech-Moms 2023 Annual Report](https://www.tech-moms.org/_files/ugd/0e6ea4_4aa4f371aaaf4b2c81a1e384dfdfec02.pdf?index=true) - payment special attention to the survey results section
-- [ ] Open the Tech-Moms Survey Data 2024 spreadsheet in Google Sheets
+- [ ] Open the [Tech-Moms Survey Data 2024](https://docs.google.com/spreadsheets/d/1Rf9-nhBHtUWr0t4c0paNZaaJhFpDMU8lAIbeBR_uk0Q/edit?gid=0#gid=0) spreadsheet in Google Sheets
 - [ ] If working in Google Sheet, make a copy & add your name at the end - i.e. "Tech-Moms Survey Data 2024 - Alyson La" 
 - [ ] If working in Excel, download to Excel
 - [ ] Start by evaluating the columns to understand what data you're working with.
@@ -59,6 +59,10 @@ For example:
 The last 4 questions are self-evaluation of alumni's growth since participing in the Tech-Moms program. Find the average of each coulumn to know it's rating out of 5 stars. 
 
 Evaluate the open ended replies for themes that stand out. You could do a key word search for "community" and pull out quotes that highlight the positive replies. Also see if you can find replies that include negative sentiments or constructive critizim. You will want to highlight both the positive and negative feedback to leadership. 
+
+#### Advanced Excel Skill: XLOOKUP
+
+We also want to know what % of applicants that were "Assigned Cohort" in the Tech-Moms Application Data filled out a survey. Using the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
 
 ### Step Four: Create Visulizations & Build a Dashboard 
 
