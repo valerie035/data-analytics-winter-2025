@@ -55,7 +55,7 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 1) 👯‍♀️ Welcome & Networking 
 2) 🧹 Housekeeping  
 3) 📝 [Weekly Quiz]
-4) ⏮️ Review Video Lessons 
+4) ⏮️ Review Video Lessons & Assignment 
 5) ☕️ Break 
 6) 👩🏻‍🏫 Lecture - [Understand Qualitative vs Quantitative Data](https://docs.google.com/presentation/d/1ksIWDUsOFcPkcjhsgr5guBcwtNfK7O2_dNAZqoF2Ohw/edit#slide=id.g28374011be7_0_143)   
 7) ❓ Q&A & Look Ahead 
