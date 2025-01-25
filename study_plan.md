@@ -17,7 +17,7 @@ On the lighter weeks you can use the extra time to watch YouTube videos on data 
 
 - [x] Once you have created your study plan - add a screenshot of both your edited markdown file & calendar to the discussion thread [here](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/22). 
 
-## Week With Kids
+## Weekly Study and Class Schedule
 
 ### Weekdays
 | Day       | Morning Study Time | Afternoon Study Time | Evening Study Time | Focus Areas                           |
