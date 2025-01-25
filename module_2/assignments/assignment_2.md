@@ -76,3 +76,5 @@ Evaluate the open ended replies for themes that stand out. You could do a key wo
 - [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
 - [ ] Incorporate the feedback
 - [ ] Do a little happy dance - you're crushing it! 💃
+
+**Note:** In a future assignment we will practice our data storytelling skills by putting our visualizations and insights into a slide presentation for Share & Tell + Tech-Moms leadership. ✨ 
