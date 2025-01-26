@@ -50,7 +50,7 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 ----
 
 
-## Wednesday, January 22nd - In Class Agenda: 
+## Wednesday, January 29th - In Class Agenda: 
 
 1) 👯‍♀️ Welcome & Networking 
 2) 🧹 Housekeeping  
