@@ -25,8 +25,8 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 
 ### Step Two: Clean the Data 
 
-- [ ] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
-- [ ] Format the analysis table as follows: 
+- [x] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
+- [x] Format the analysis table as follows: 
   *  Highlight column names and fill background color with the color of your choice
   * Add a filter
   * Freeze top row      
