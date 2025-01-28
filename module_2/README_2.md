@@ -27,10 +27,10 @@ _Est. Time to Complete: (40 mins)_
 
 In this section, you will learn the importance of data cleaning as a foundational step in the data analysis process. We will cover techniques to identify and correct errors, handle missing values, standardize data formats, and remove duplicates. By mastering these skills, students will ensure their data is accurate and ready for analysis, setting the stage for meaningful insights.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3) and mark when complete
+- [x] Watch [video](https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3) and mark when complete
 - [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Data%20Cleaning%20Excel%20Tutorial.xlsx)
-- [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1EkdWcu_bYk6DgJ53HQcPxBlTPsKxtwgxM9EpK6Rp8lI/edit?usp=sharing)
-- [ ] Complete the hands-on activity
+- [x] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1EkdWcu_bYk6DgJ53HQcPxBlTPsKxtwgxM9EpK6Rp8lI/edit?usp=sharing)
+- [x] Complete the hands-on activity
 
 ---- 
 
@@ -42,10 +42,10 @@ _Est. Time to Complete: (40 mins)_
 
 In this conditional formatting tutorial, you'll learn how to use Excel to automatically highlight data based on specific rules or conditions. We'll cover the basics of applying built-in formatting options, creating custom rules, and using formulas to dynamically format cells, rows, or columns. By the end of this tutorial, you'll be able to make your data visually appealing and easier to analyze with conditional formatting.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4) and mark when complete
-- [ ] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
+- [x] Watch [video](https://www.youtube.com/watch?v=_eZRkmRfVTM&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=4) and mark when complete
+- [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Conditional%20Formatting%20Excel%20Tutorial%20File.xlsx)
 - [ ] Google Sheets users: Download the .xls file above and upload to Google Sheets 
-- [ ] Complete the hands-on activity
+- [x] Complete the hands-on activity
 
 ----
 
