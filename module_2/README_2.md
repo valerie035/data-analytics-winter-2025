@@ -62,7 +62,7 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 
 ## Assignment - complete by Saturday, February 1st
 
-- [ ] Complete [Assignment 2](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/assignment_2.md)
+- [ ] Complete Assignment 2 -> Found in `module_2` -> `assignments` -> `assignment_2.md` 
 
 * Create an Excel / Google Sheet Dashboard using the Tech-Moms Survey Data
   * Skills needed:
