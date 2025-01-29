@@ -41,7 +41,7 @@ In a survey like this, it is often best to systematically analyze each question 
 
 For example: 
 
-- [x] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month)    June - 95
+- [x] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month)    June: 110
 - [ ] What is the count and ratio of survey respondants that answered via computer vs phone?
 - [ ] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
 - [ ] What is the average number of years respondants had been out of the workforce?
