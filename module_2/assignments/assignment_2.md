@@ -20,7 +20,7 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 - [x] If working in Excel, download to Excel
 - [x] Start by evaluating the columns to understand what data you're working with.
 - [x] Create a new tab,  “Data Dictionary” and copy the columns -> go to new tab -> paste “transposed”. This will paste the columns vertically.
-- [ ] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
+- [x] Add a row at the top of the Data Dictionary tab. In A1, type “Column Column Name” & in B1, type “Column Description”. Write a short description of each column based on your best-educated guess (you can also use ChatGPT to help with this).
 - [x] Add a tab “Questions” as you come across questions about the data. You can add them here. These are questions you can ask the data owners (aka leadership team) to help clarify any questions you may have about the data set.
 
 ### Step Two: Clean the Data 
@@ -30,10 +30,10 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
   *  Highlight column names and fill background color with the color of your choice
   * Add a filter
   * Freeze top row      
-- [ ] Review each column to understand the available options in each
-- [ ] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
-- [ ] Preform any additional data cleaning tasks as needed
-- [ ] Do you notice any data quality issues to make a note of? 
+- [x] Review each column to understand the available options in each
+- [x] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
+- [x] Preform any additional data cleaning tasks as needed
+- [x] Do you notice any data quality issues to make a note of? 
 
 ### Step Three: Start Analyzing (aka Asking Questions of the Data)
 
