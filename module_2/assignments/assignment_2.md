@@ -61,7 +61,7 @@ Evaluate the open ended replies for themes that stand out. You could do a key wo
 
 #### Advanced Excel Skill: XLOOKUP
 
-We also want to know what % of applicants that were "Assigned Cohort" in the Tech-Moms Application Data filled out a survey. Using the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
+We also want to know what % of applicants that were "Assigned Cohort" in the [Tech-Moms Application Data](https://docs.google.com/spreadsheets/d/1BhskpHGoHSl2fuXY3qjnqSpgI2imWB2Ng7OYP-pWslI/edit?usp=sharing) filled out a survey. Using the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
 
 ### Step Four: Create Charts & Build a Dashboard 
 
