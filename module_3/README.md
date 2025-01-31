@@ -67,4 +67,4 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 Use Deep Note & SQL to query Tech Moms applicant data. 
 
-- [ ] [Complete Assignment 3]()
+- [ ] [Complete Assignment 3](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/module_3/module_3/assignments/README.md)
