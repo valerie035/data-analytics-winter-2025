@@ -70,7 +70,7 @@ Before polishing and presenting your data, you will want to validate that the re
 
 ### Step Five: Create Charts & Build a Dashboard 
 
-- [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
+- [x] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
 
 ### Step Six: Make it Aesthetic 
 
