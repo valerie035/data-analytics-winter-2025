@@ -57,7 +57,7 @@ For example:
 
 [x]The last 4 questions are self-evaluation of alumni's growth since participing in the Tech-Moms program. Find the average of each coulumn to know it's rating out of 5 stars. 
 
-[ ]Evaluate the open ended replies for themes that stand out. You could do a key word search for "community" and pull out quotes that highlight the positive replies. Also see if you can find replies that include negative sentiments or constructive critizim. You will want to highlight both the positive and negative feedback to leadership. 
+[x]Evaluate the open ended replies for themes that stand out. You could do a key word search for "community" and pull out quotes that highlight the positive replies. Also see if you can find replies that include negative sentiments or constructive critizim. You will want to highlight both the positive and negative feedback to leadership. 
 
 #### Advanced Excel Skill: XLOOKUP
 
@@ -65,14 +65,14 @@ We also want to know what % of applicants that were "Assigned Cohort" in the Tec
 
 ### Step Four: Create Charts & Build a Dashboard 
 
-- [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best? 
+- [] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best? 
 
 ### Step Five: Make it Aesthetic 
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
-- [ ] Upload the Tech-Moms logo to the dashboard.
-- [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+- [] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [x] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
+- [x] Upload the Tech-Moms logo to the dashboard.
+- [x] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 ### Step Six: Ask for Feedback 
 
