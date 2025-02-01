@@ -10,6 +10,8 @@ This assignment aims to help students critically evaluate the effectiveness of u
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
 
+ChatGPT and other AI tools can assist in data analytics by helping with SQL queries, making predictions, looking at data patterns, and most importantly answering questions you may have. My expectations of using ChatGPT during my learning process is using it as a tutor and helping me learn and better understand with questions that I may have for it as I go through this course and even beyond that. 
+
 ---
 
 ### 2. **Data Task: Sorting in Pivot Charts**  
@@ -19,12 +21,15 @@ You will ask ChatGPT the following question:
 
 - **a. Ask ChatGPT:**  
   - Screenshot ChatGPT's response and include below. 
-  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.  
+  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.    
+![Screenshot 2025-01-16 221306](https://github.com/user-attachments/assets/94b235f3-05ff-472a-9e12-f43400ecd7ce)
+
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
-  - Suggest how the explanation could be improved, if necessary.
-
+  - Suggest how the explanation could be improved, if necessary.\
+    \
+I feel like the explanation was clear and step by step but no, it did not work. Given the response from ChatGPT, it said to go click the drop down next to the values section but there was no drop down to put them into descending order. I think the explanation could've been improved by giving instructions that would work. 
 ---
 
 ### 3. **Comparison**  
@@ -32,29 +37,37 @@ You will ask ChatGPT the following question:
 - Compare the Google search experience to ChatGPT’s response:  
   - Was the Google result more or less detailed?  
   - Did you find videos, articles, or blog posts helpful?  
-  - Include any relevant link(s) you found helpful and explain why.
-
+  - Include any relevant link(s) you found helpful and explain why.\
+    \
+When I googled "Sort pivot table by descending order in Google Sheets" the very first response overviewed a step by step with an image you could click on without going to the website. The instructions on the google page were highlighted as  so : "click on the drop-down box below Order and change the order to Descending" and the image showed that the "order" was under the "Rows" column not the values section. 
+The link to the website was: https://www.lido.app/tutorials/sort-rows-pivot-table-google-sheets#:~:text=The%20listed%20column%20used%20for,on%20the%20drop%2Ddown%20list.&text=Step%202%3A%20Since%20we%20want,change%20the%20order%20to%20Descending.
 ---
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
-- Which resource you found most effective for this? 
----
+- Which resource you found most effective for this? \
+  \
+  I ended up asking ChatGPT "How to remove blanks from pivot tables in Google Sheets" ChatGPT ended up giving me 3 different scenarios/steps to try to remove the blanks. Following the instructions they weren't very clear on where to go exactly to get those removed. I ended up googling it and Google's AI Overview ended up giving me a step by step that was clear to go add a filter and filter it by condition. I found Google to be the most effective for me in this scenario. 
 
 ### 5. **When to Use Which Resource**  
 Write a short response below explaining when it would be appropriate to use ChatGPT or Google. Consider factors like:  
 - Time sensitivity  
 - Complexity of the problem  
 - Need for detailed visual instructions  
-- Level of confidence in verifying the accuracy of the information  
+- Level of confidence in verifying the accuracy of the information/
+  /
+  It would be appropriate to use ChatGPT if you are in a hurry and need a quick response to something or if you are verifying information. Google is a more in depth way to search things that will give you visual instructions as well if needed. If your question is more complex I'd go to google but most the time, I prefer to try ChatGPT first and if that isn't helpful then I will google. 
+  
 
 ---
 
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.  
-- How this exercise influenced your approach to learning new data skills in the future.  
-
+- How this exercise influenced your approach to learning new data skills in the future.  \
+- \
+The resource I found most helpful for this task was google and I believe google gave me more clear instructions when it came to Google Sheets. I believe that would be as it is the same brand/company for both.\
+This excercise influenced my approach to learning new data skills by giving me confidence that I have resources all around me to learn and ask questions when needed. 
 ---
 
 ## **Submission Requirements:**  
