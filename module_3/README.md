@@ -63,8 +63,8 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 - [ ] Watch [this](https://youtu.be/PSNXoAs2FtQ?si=vu1ueCAeZ9jVLMhT&t=2334) video and mark when complete
 
 
-## Assignment #3:  
+## Hands-On Practice:  
 
-Use Deep Note & SQL to query Tech Moms applicant data. 
+- [ ] Complete W3 Schools [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
 
-- [ ] [Complete Assignment 3](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/module_3/module_3/assignments/README.md)
+
