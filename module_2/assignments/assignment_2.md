@@ -57,7 +57,7 @@ For example:
 
 x The last 4 questions are self-evaluation of alumni's growth since participing in the Tech-Moms program. Find the average of each coulumn to know it's rating out of 5 stars. 
 
-Evaluate the open ended replies for themes that stand out. You could do a key word search for "community" and pull out quotes that highlight the positive replies. Also see if you can find replies that include negative sentiments or constructive critizim. You will want to highlight both the positive and negative feedback to leadership. 
+XEvaluate the open ended replies for themes that stand out. You could do a key word search for "community" and pull out quotes that highlight the positive replies. Also see if you can find replies that include negative sentiments or constructive critizim. You will want to highlight both the positive and negative feedback to leadership. 
 
 #### Advanced Excel Skill: XLOOKUP
 
@@ -66,23 +66,23 @@ We also want to know what % of applicants that were "Assigned Cohort" in the [Te
 ### Step Four: Validate Your Data 
 
 Before polishing and presenting your data, you will want to validate that the results are correct so your stakeholders can trust it.
-- [ ] Compare your results against the [survey kiwi](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/survey_kiwi.md) output. 
-
+- [X] Compare your results against the [survey kiwi](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/survey_kiwi.md) output. 
+The Kiwi data listed 247 answers but out data only has 243 lines/responses. Are we ok if the data doesn't match?
 ### Step Five: Create Charts & Build a Dashboard 
 
-- [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
+- [X] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
 
 ### Step Six: Make it Aesthetic 
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
-- [ ] Upload the Tech-Moms logo to the dashboard.
-- [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+- [X] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [X] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
+- [X] Upload the Tech-Moms logo to the dashboard.
+- [X] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 ### Step Step: Ask for Feedback 
 
-- [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
-- [ ] Incorporate the feedback
-- [ ] Do a little happy dance - you're crushing it! 💃
+- [X] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
+- [X] Incorporate the feedback
+- [X] Do a little happy dance - you're crushing it! 💃
 
 **Note:** In a future assignment we will practice our data storytelling skills by putting our visualizations and insights into a slide presentation for Share & Tell + Tech-Moms leadership. ✨ 
