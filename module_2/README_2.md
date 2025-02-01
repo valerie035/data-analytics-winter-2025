@@ -73,9 +73,11 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
   
 ## Saturday, February 1st - In Class Agenda: 
 
-🗄️ In-person @ Health Catalyst
-1) 👩🏻‍💻 SQL Module kick-off 
-2) 💃 Guest Speakers / Panel 
+🗄️ In-person @ Health Catalyst 10am - 2pm 
+1) 🙌🏻 Share and Tell
+2) 👩🏻‍💻 SQL Module kick-off
+3) 🍽️ Lunch
+4) 💃 Guest Speakers / Panel 
    * Kelsey Taylor 
    * Kylie King 
    * Other Awesome Health Catalyst folks 
