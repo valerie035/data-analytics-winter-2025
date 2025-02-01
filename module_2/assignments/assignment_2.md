@@ -47,13 +47,13 @@ For example:
 - [x] What is the average number of years respondants had been out of the workforce?
 - [x] What was the average starting pay at the time of starting Tech-Moms?
 - [x] What percentage of respondants are currently employed?
-- [ ] Among those that received a raise, what is the average % increase?
-- [ ] What percentage of respondant's received a promotion since starting Tech-Moms? 
-- [ ] What percentage of respondant's have taken a new position since starting Tech-Moms?
-- [ ] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
-- [ ] How many hours are respondant's working each week? (binned by hours)
-- [ ] What percentage are currently seeking employment?
-- [ ] etc 
+- [x] Among those that received a raise, what is the average % increase?
+- [x] What percentage of respondant's received a promotion since starting Tech-Moms? 
+- [x] What percentage of respondant's have taken a new position since starting Tech-Moms?
+- [x] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
+- [x] How many hours are respondant's working each week? (binned by hours)
+- [x] What percentage are currently seeking employment?
+- [x] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participing in the Tech-Moms program. Find the average of each coulumn to know it's rating out of 5 stars. 
 
@@ -62,6 +62,21 @@ Evaluate the open ended replies for themes that stand out. You could do a key wo
 #### Advanced Excel Skill: XLOOKUP
 
 We also want to know what % of applicants that were "Assigned Cohort" in the [Tech-Moms Application Data](https://docs.google.com/spreadsheets/d/1BhskpHGoHSl2fuXY3qjnqSpgI2imWB2Ng7OYP-pWslI/edit?usp=sharing) filled out a survey. Using the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
+\
+\
+ChatGPT was used to figure this question out. \
+Here's how you'd do it:
+In the Students table, create a new column called SurveyStatus.
+Use this formula to check if the Contact ID in the Students table exists in the Survey table:
+excel
+=IF(ISNA(XLOOKUP(A2, SurveyTable!A:A, SurveyTable!A:A, NA())), "Not Completed", "Completed")
+Explanation:
+A2: The Contact ID in the Students table (assuming this is in column A).
+SurveyTable!A:A: The range where Contact ID is located in the Survey table.
+NA(): If XLOOKUP doesn't find the Contact ID in the Survey table, it will return #N/A, and ISNA will handle this by returning TRUE.
+ISNA(...): If XLOOKUP returns #N/A (meaning no match), the result will be "Not Completed". If there's a match (meaning the Contact ID is found in the Survey table), it will return "Completed".
+Drag the formula down for all rows in the SurveyStatus column.
+
 
 ### Step Four: Create Charts & Build a Dashboard 
 
