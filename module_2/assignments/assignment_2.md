@@ -41,19 +41,19 @@ In a survey like this, it is often best to systematically analyze each question 
 
 For example: 
 
-- [ ] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
-- [ ] What is the count and ratio of survey respondants that answered via computer vs phone?
-- [ ] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
-- [ ] What is the average number of years respondants had been out of the workforce?
-- [ ] What was the average starting pay at the time of starting Tech-Moms?
-- [ ] What percentage of respondants are currently employed?
-- [ ] Among those that received a raise, what is the average % increase?
-- [ ] What percentage of respondant's received a promotion since starting Tech-Moms? 
-- [ ] What percentage of respondant's have taken a new position since starting Tech-Moms?
-- [ ] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
-- [ ] How many hours are respondant's working each week? (binned by hours)
-- [ ] What percentage are currently seeking employment?
-- [ ] etc 
+- [x] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
+- [x] What is the count and ratio of survey respondants that answered via computer vs phone?
+- [x] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
+- [x] What is the average number of years respondants had been out of the workforce?
+- [x] What was the average starting pay at the time of starting Tech-Moms?
+- [x] What percentage of respondants are currently employed?
+- [x] Among those that received a raise, what is the average % increase?
+- [x] What percentage of respondant's received a promotion since starting Tech-Moms? 
+- [x] What percentage of respondant's have taken a new position since starting Tech-Moms?
+- [x] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
+- [x] How many hours are respondant's working each week? (binned by hours)
+- [x] What percentage are currently seeking employment?
+- [x] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participing in the Tech-Moms program. Find the average of each coulumn to know it's rating out of 5 stars. 
 
@@ -65,19 +65,19 @@ We also want to know what % of applicants that were "Assigned Cohort" in the Tec
 
 ### Step Four: Create Charts & Build a Dashboard 
 
-- [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best? 
+- [x] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best? 
 
 ### Step Five: Make it Aesthetic 
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
-- [ ] Upload the Tech-Moms logo to the dashboard.
-- [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+- [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [x] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
+- [x] Upload the Tech-Moms logo to the dashboard.
+- [x] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 ### Step Six: Ask for Feedback 
 
-- [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
-- [ ] Incorporate the feedback
-- [ ] Do a little happy dance - you're crushing it! 💃
+- [x] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
+- [x] Incorporate the feedback
+- [x] Do a little happy dance - you're crushing it! 💃
 
 **Note:** In a future assignment we will practice our data storytelling skills by putting our visualizations and insights into a slide presentation for Share & Tell + Tech-Moms leadership. ✨ 
