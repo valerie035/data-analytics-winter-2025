@@ -61,34 +61,26 @@ Evaluate the open ended replies for themes that stand out. You could do a key wo
 
 #### Advanced Excel Skill: XLOOKUP
 
-We also want to know what % of applicants that were "Assigned Cohort" in the [Tech-Moms Application Data](https://docs.google.com/spreadsheets/d/1BhskpHGoHSl2fuXY3qjnqSpgI2imWB2Ng7OYP-pWslI/edit?usp=sharing) filled out a survey. Using the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
+We also want to know what % of applicants that were "Assigned Cohort" in the [Tech-Moms Application Data](https://docs.google.com/spreadsheets/d/1BhskpHGoHSl2fuXY3qjnqSpgI2imWB2Ng7OYP-pWslI/edit?usp=sharing) filled out a survey. Use the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
 
-Per ChatGPT, here's how you'd do it:
+### Step Four: Validate Your Data 
 
-In the Students table, create a new column called SurveyStatus.
-- Use this formula to check if the Contact ID in the Students table exists in the Survey table:
-\
-=IF(ISNA(XLOOKUP(A2, *table name*!A:A, *table name*!A:A, NA())), "Not Completed", "Completed")
-\
-Explanation:
-- A2: The Contact ID in the Students table (assuming this is in column A).
-- *table name*!A:A: The range where Contact ID is located in the *table name* table.
-- NA(): If XLOOKUP doesn't find the Contact ID in the *table name* table, it will return #N/A, and ISNA will handle this by returning TRUE.
-- ISNA(...): If XLOOKUP returns #N/A (meaning no match), the result will be "Not Completed". If there's a match (meaning the Contact ID is found in the *table name* table), it will return "Completed".
-- Drag the formula down for all rows in the SurveyStatus column.
 
-### Step Four: Create Charts & Build a Dashboard 
+Before polishing and presenting your data, you will want to validate that the results are correct so your stakeholders can trust it.
+- [ ] Compare your results against the [survey kiwi](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/survey_kiwi.md) output. 
 
-- [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best? 
+### Step Five: Create Charts & Build a Dashboard 
 
-### Step Five: Make it Aesthetic 
+- [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
+
+### Step Six: Make it Aesthetic 
 
 - [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
 - [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
 - [ ] Upload the Tech-Moms logo to the dashboard.
 - [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
-### Step Six: Ask for Feedback 
+### Step Step: Ask for Feedback 
 
 - [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
 - [ ] Incorporate the feedback
