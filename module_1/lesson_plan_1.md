@@ -22,7 +22,7 @@ _click on the image above to access slides_
   - Setting yourself up for success - Mikel Blake & Merienne Gates
   
 
-- [ ] **Icebreaker Activity:**
+- [x] **Icebreaker Activity:**
   - Participants introduce themselves and share why they are interested in learning about data analytics.
 
 ---
@@ -35,12 +35,12 @@ _click on the image above to access slides_
 
 _click on the image above to access slides_
 
-- [ ] **How We Will Use GitHub in our Course**
+- [x] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) this Repository 
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
      
-- [ ] **GitHub Assessment**
+- [x] **GitHub Assessment**
   - Complete [this](https://docs.google.com/forms/d/e/1FAIpQLSe8zGsKVqqL8pulsJSrxoh0jO_WQThD9iVjX7EruDcE2gz76Q/viewform) GitHub Assessment to verify retention of new vocabulary & concepts
  
 ----
@@ -88,7 +88,7 @@ _click on the image above to access slides_
 - [ ] **When to Use Each Visualization:**
   - Discuss the scenarios where each type of chart is most effective.
 
-- [ ] **Hands-On Activity:**
+- [x] **Hands-On Activity:**
   - Review the pre-work excel/google dashboard assignment in small groups
   - Discuss challenges from the project & wins
   - Take time to make some improvements based on data visualization best practices
@@ -97,9 +97,9 @@ _click on the image above to access slides_
 
 ## 7. Basic Statistics: Mean, Median, and Mode (30 minutes)
 
-- [ ] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
+- [x] [Bill Gates Walks Into a Bar](https://introductorystats.wordpress.com/2011/09/04/when-bill-gates-walks-into-a-bar/)
 
-- [ ] **Definitions and Examples:**
+- [x] **Definitions and Examples:**
   - **Mean:** The average of a set of numbers.  
     Example: Calculating the average weekly grocery spend.
   - **Median:** The middle value in a set of numbers.  
@@ -114,4 +114,4 @@ _click on the image above to access slides_
 
 ## 7. Q&A and Closing (15 minutes)
 
-- [ ] Next Steps - look out for an email & post in slack for the AI foundations module & the assignment completion dates (Wednesday & Saturday). 
+- [x] Next Steps - look out for an email & post in slack for the AI foundations module & the assignment completion dates (Wednesday & Saturday). 
