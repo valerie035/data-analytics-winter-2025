@@ -41,19 +41,19 @@ In a survey like this, it is often best to systematically analyze each question 
 
 For example: 
 
-- [ ] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
-- [ ] What is the count and ratio of survey respondants that answered via computer vs phone?
-- [ ] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
-- [ ] What is the average number of years respondants had been out of the workforce?
-- [ ] What was the average starting pay at the time of starting Tech-Moms?
-- [ ] What percentage of respondants are currently employed?
-- [ ] Among those that received a raise, what is the average % increase?
-- [ ] What percentage of respondant's received a promotion since starting Tech-Moms? 
-- [ ] What percentage of respondant's have taken a new position since starting Tech-Moms?
-- [ ] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
-- [ ] How many hours are respondant's working each week? (binned by hours)
-- [ ] What percentage are currently seeking employment?
-- [ ] etc 
+- [x] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
+- [x] What is the count and ratio of survey respondants that answered via computer vs phone?
+- [x] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
+- [x] What is the average number of years respondants had been out of the workforce?
+- [x] What was the average starting pay at the time of starting Tech-Moms?
+- [x] What percentage of respondants are currently employed?
+- [x] Among those that received a raise, what is the average % increase?
+- [x] What percentage of respondant's received a promotion since starting Tech-Moms? 
+- [x] What percentage of respondant's have taken a new position since starting Tech-Moms?
+- [x] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
+- [x] How many hours are respondant's working each week? (binned by hours)
+- [x] What percentage are currently seeking employment?
+- [x] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participing in the Tech-Moms program. Find the average of each coulumn to know it's rating out of 5 stars. 
 
@@ -62,6 +62,18 @@ Evaluate the open ended replies for themes that stand out. You could do a key wo
 #### Advanced Excel Skill: XLOOKUP
 
 We also want to know what % of applicants that were "Assigned Cohort" in the Tech-Moms Application Data filled out a survey. Using the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
+
+I am fairly confident I made this overly complex/did not do it correctly, but this is what I did:
+
+1. Copied the raw data from the application data and pasted it in a tab in the current assignment
+2. filtered the raw data to only display those who were assigned a cohort
+3. added a new column in the raw data
+4. used xLOOKUP to search the contact ID in the raw data with the contact ID from the alumni survey and return the date registered if found    this was my function "=XLOOKUP(A5,Analysis!A:A,Analysis!C:C)"
+5. If the alumni survey was completed the xLOOKUP would return a date and if there was no survey associated it returned an ERROR code
+6. I did a count on how many total were assigned a cohort: the total was 567
+7. I used the filter to eliminate all the ERROR coded IDs
+8. I did a count on how many were left: the total was 243
+9. I divided 243/567 and got 43% as the total number of Alumni that completed the survey 
 
 ### Step Four: Create Charts & Build a Dashboard 
 
