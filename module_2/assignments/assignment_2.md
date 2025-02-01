@@ -26,14 +26,14 @@ Your deliverable will be a “Tech-Moms Annual Survey 2024” Dashboard built in
 ### Step Two: Clean the Data 
 
 - [x] Make a copy of the “raw” data by duplicating the tab & rename it to “analysis”. Rename the original tab to “raw”.
-- [ ] Format the analysis table as follows: 
+- [x] Format the analysis table as follows: 
   *  Highlight column names and fill background color with the color of your choice
   * Add a filter
   * Freeze top row      
-- [ ] Review each column to understand the available options in each
-- [ ] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
-- [ ] Preform any additional data cleaning tasks as needed
-- [ ] Do you notice any data quality issues to make a note of? 
+- [x] Review each column to understand the available options in each
+- [x] Reformat the "Registered" Column to be formatted as a date without a timestamp - example: 8/13/2024
+- [x] Preform any additional data cleaning tasks as needed
+- [x] Do you notice any data quality issues to make a note of? 
 
 ### Step Three: Start Analyzing (aka Asking Questions of the Data)
 
@@ -41,19 +41,19 @@ In a survey like this, it is often best to systematically analyze each question 
 
 For example: 
 
-- [ ] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
-- [ ] What is the count and ratio of survey respondants that answered via computer vs phone?
-- [ ] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
-- [ ] What is the average number of years respondants had been out of the workforce?
-- [ ] What was the average starting pay at the time of starting Tech-Moms?
-- [ ] What percentage of respondants are currently employed?
-- [ ] Among those that received a raise, what is the average % increase?
-- [ ] What percentage of respondant's received a promotion since starting Tech-Moms? 
-- [ ] What percentage of respondant's have taken a new position since starting Tech-Moms?
-- [ ] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
-- [ ] How many hours are respondant's working each week? (binned by hours)
-- [ ] What percentage are currently seeking employment?
-- [ ] etc 
+- [x] What month did the most surveys get filled out? (create a pivot table using 'Registered' & counting the Contact ID values, grouped by month) 
+- [x] What is the count and ratio of survey respondants that answered via computer vs phone?
+- [x] What is the % of Alumni that were working vs not working at the time they started Tech-Moms
+- [x] What is the average number of years respondants had been out of the workforce?
+- [x] What was the average starting pay at the time of starting Tech-Moms?
+- [x] What percentage of respondants are currently employed?
+- [x] Among those that received a raise, what is the average % increase?
+- [x] What percentage of respondant's received a promotion since starting Tech-Moms? 
+- [x] What percentage of respondant's have taken a new position since starting Tech-Moms?
+- [x] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
+- [x] How many hours are respondant's working each week? (binned by hours)
+- [x] What percentage are currently seeking employment?
+- [x] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participing in the Tech-Moms program. Find the average of each coulumn to know it's rating out of 5 stars. 
 
@@ -62,6 +62,20 @@ Evaluate the open ended replies for themes that stand out. You could do a key wo
 #### Advanced Excel Skill: XLOOKUP
 
 We also want to know what % of applicants that were "Assigned Cohort" in the [Tech-Moms Application Data](https://docs.google.com/spreadsheets/d/1BhskpHGoHSl2fuXY3qjnqSpgI2imWB2Ng7OYP-pWslI/edit?usp=sharing) filled out a survey. Using the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
+
+Per ChatGPT, here's how you'd do it:
+
+In the Students table, create a new column called SurveyStatus.
+- Use this formula to check if the Contact ID in the Students table exists in the Survey table:
+\
+=IF(ISNA(XLOOKUP(A2, *table name*!A:A, *table name*!A:A, NA())), "Not Completed", "Completed")
+\
+Explanation:
+- A2: The Contact ID in the Students table (assuming this is in column A).
+- *table name*!A:A: The range where Contact ID is located in the *table name* table.
+- NA(): If XLOOKUP doesn't find the Contact ID in the *table name* table, it will return #N/A, and ISNA will handle this by returning TRUE.
+- ISNA(...): If XLOOKUP returns #N/A (meaning no match), the result will be "Not Completed". If there's a match (meaning the Contact ID is found in the *table name* table), it will return "Completed".
+- Drag the formula down for all rows in the SurveyStatus column.
 
 ### Step Four: Create Charts & Build a Dashboard 
 
