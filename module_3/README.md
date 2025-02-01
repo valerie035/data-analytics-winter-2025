@@ -65,6 +65,6 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 ## Hands-On Practice:  
 
-- [ ] Complete W3 Schools [SQL Tutorial](https://www.w3schools.com/sql/default.asp)
+- [ ] Complete the DataLemer [Basic SQL Tutorials](https://datalemur.com/sql-tutorial)
 
 
