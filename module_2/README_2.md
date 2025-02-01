@@ -25,7 +25,8 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 
 _Est. Time to Complete: (40 mins)_
 
-In this section, you will learn the importance of data cleaning as a foundational step in the data analysis process. We will cover techniques to identify and correct errors, handle missing values, standardize data formats, and remove duplicates. By mastering these skills, students will ensure their data is accurate and ready for analysis, setting the stage for meaningful insights.
+n this tutorial, you'll learn how to use XLOOKUP, a powerful Excel function for retrieving data from a table or range. You'll see practical examples of finding values based on criteria, handling errors gracefully, and searching data in both rows and columns. By the end of the video, you'll be confident in using XLOOKUP to simplify your data analysis and streamline your workflows in Excel.
+
 
 - [X] Watch [video](https://www.youtube.com/watch?v=Z7hPEwCzk2s&list=PLUaB-1hjhk8Hyd5NiPQ9CND82vNodlFF5&index=3) and mark when complete
 - [X] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Data%20Cleaning%20Excel%20Tutorial.xlsx)
@@ -50,19 +51,19 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
 ----
 
 
-## Wednesday, January 22nd - In Class Agenda: 
+## Wednesday, January 29th - In Class Agenda: 
 
 1) 👯‍♀️ Welcome & Networking 
 2) 🧹 Housekeeping  
 3) 📝 [Weekly Quiz]
 4) ⏮️ Review Video Lessons & Assignment 
 5) ☕️ Break 
-6) 👩🏻‍🏫 Lecture - [Understand Qualitative vs Quantitative Data](https://docs.google.com/presentation/d/1ksIWDUsOFcPkcjhsgr5guBcwtNfK7O2_dNAZqoF2Ohw/edit#slide=id.g28374011be7_0_143)   
+6) 👩🏻‍🏫 Lecture - [Understanding Qualitative vs Quantitative Data](https://docs.google.com/presentation/d/1ksIWDUsOFcPkcjhsgr5guBcwtNfK7O2_dNAZqoF2Ohw/edit#slide=id.g28374011be7_0_143)   
 7) ❓ Q&A & Look Ahead 
 
 ## Assignment - complete by Saturday, February 1st
 
-- [ ] Complete [Assignment 2](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/assignment_2.md)
+- [ ] Complete Assignment 2 -> Found in `module_2` -> `assignments` -> `assignment_2.md` 
 
 * Create an Excel / Google Sheet Dashboard using the Tech-Moms Survey Data
   * Skills needed:
@@ -73,9 +74,11 @@ In this conditional formatting tutorial, you'll learn how to use Excel to automa
   
 ## Saturday, February 1st - In Class Agenda: 
 
-🗄️ In-person @ Health Catalyst
-1) 👩🏻‍💻 SQL Module kick-off 
-2) 💃 Guest Speakers / Panel 
+🗄️ In-person @ Health Catalyst 10am - 2pm 
+1) 🙌🏻 Share and Tell
+2) 👩🏻‍💻 SQL Module kick-off
+3) 🍽️ Lunch
+4) 💃 Guest Speakers / Panel 
    * Kelsey Taylor 
    * Kylie King 
    * Other Awesome Health Catalyst folks 
