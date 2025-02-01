@@ -47,10 +47,10 @@ For example:
 - [x ] What is the average number of years respondants had been out of the workforce?
 - [x ] What was the average starting pay at the time of starting Tech-Moms?
 - [x ] What percentage of respondants are currently employed?
-- [ ] Among those that received a raise, what is the average % increase?
-- [ ] What percentage of respondant's received a promotion since starting Tech-Moms? 
+- [x ] Among those that received a raise, what is the average % increase?
+- [x ] What percentage of respondant's received a promotion since starting Tech-Moms? 
 - [ ] What percentage of respondant's have taken a new position since starting Tech-Moms?
-- [ ] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
+- [x ] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
 - [ ] How many hours are respondant's working each week? (binned by hours)
 - [x ] What percentage are currently seeking employment?
 - [ ] etc 
