@@ -19,12 +19,16 @@ You will ask ChatGPT the following question:
 
 - **a. Ask ChatGPT:**  
   - Screenshot ChatGPT's response and include below. 
-  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.  
+  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
+
+    answers to things here (screenshot: drag & drop ) [Click here to visit my answers!](https://docs.google.com/document/d/1HZeTMYY5FKhbMMigPLjNUivyajUCr2zkiGUmKMb6PZQ/edit?tab=t.0)
+
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
 
+ 
 ---
 
 ### 3. **Comparison**  
