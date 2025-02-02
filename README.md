@@ -15,12 +15,16 @@ Welcome to the **Tech-Moms Data Analytics Course**! This course is designed to e
 | **In-person Classes:** | Saturday, January 11 - 🕙 10 AM - 2 PM - 📍 *PROG Dev Center - West Valley, UT* |
 | | Saturday, February 1 - 🕙 10 AM - 2 PM -📍 *Health Catalyst - South Jordan, UT* |
 | | Saturday, March 1 - 🕙 10 AM - 2 PM - 📍 *Adobe - Lehi, UT* |
-| | Saturday, March 29 -  🕙 10 AM - 2 PM - 📍 *TBD* |
+| | Saturday, March 29 -  🕙 10 AM - 2 PM - 📍 *Domo - American Fork, UT* |
 | | Saturday, May 3 - 🕙 10 AM - 2 PM - 🎓 *GRADUATION DAY* - 📍 *TBD* |
 | **Instructors:**       | Alyson La + Kelsey Taylor |
 | **Class Mentors:** | Tanya Seegmiller, Keenan Engstrom, Aproova Bura, + Worthy Lee | 
 
 ---
+
+## **Office Hours**
+* Mondays 7:30pm-9pm w/ Tanya
+* Thursdays 7:30pm-9pm w/ Kelsey
 
 ## **Table of Contents**
 
@@ -61,6 +65,8 @@ This approach will help you build familiarity with GitHub, an essential tool in 
   - Overview of the Data Analytics Lifecycle
   - Roles in Data Analytics
 - 🔗 [Lesson Plan](./module_1/lesson_plan_1.md)
+
+### **Module 2: Excel/Google Sheets**
 
 ---
 

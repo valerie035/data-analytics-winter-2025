@@ -16,7 +16,9 @@ To provide an overview of data analytics, introduce different roles within the d
 
 _click on the image above to access slides_
 
+
 - [x ] **Welcome Remarks:**
+
   - Brief introduction to the course and its goals.
   - Acknowledge the unique position of moms returning to work or changing careers and the value of upskilling in data analytics.
   - Setting yourself up for success - Mikel Blake & Merienne Gates
