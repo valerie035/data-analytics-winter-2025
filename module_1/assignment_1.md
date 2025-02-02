@@ -10,8 +10,6 @@ This assignment aims to help students critically evaluate the effectiveness of u
 ### 1. **Introduction**  
 Write a short paragraph below describing the role of AI tools like ChatGPT in learning data analytics. Include your expectations for how ChatGPT can assist in your learning process.
 
-As a beginner to data analytics, I initially had no experience working with Google Sheets or Excel. While tackling the pre-work assignment, I relied on ChatGPT to learn the basics of Google Sheets, write formulas, and create pivot tables. As I progress in my data analytics career, my reliance on AI tools continues to grow, along with my confidence in leveraging them effectively.
-
 ---
 
 ### 2. **Data Task: Sorting in Pivot Charts**  
@@ -21,18 +19,11 @@ You will ask ChatGPT the following question:
 
 - **a. Ask ChatGPT:**  
   - Screenshot ChatGPT's response and include below. 
-
-  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.
- 
-  As given by the instructions by chat GPT, I was unable to edit the pivot table. 
+  - Implement the instructions provided by ChatGPT in Excel or Google Sheets to test if they work.  
 
 - **b. Analysis:**  
   - Evaluate the response: Was the explanation clear? Did the steps work? Were there any errors or missing steps?  
   - Suggest how the explanation could be improved, if necessary.
- 
-  
-The options for sorting in the pivot table edit tab were not available when I tested the suggested steps. It appears that Chat GPT has been trained significantly less on Google Sheets than on Excel.
-
 
 ---
 
@@ -42,41 +33,27 @@ The options for sorting in the pivot table edit tab were not available when I te
   - Was the Google result more or less detailed?  
   - Did you find videos, articles, or blog posts helpful?  
   - Include any relevant link(s) you found helpful and explain why.
- 
- I searched on Google and looked at many blogs and videos, but I couldn't find the information I needed.
-
 
 ---
 
 ### 4. **Pick Another Scenario*  
 - Ask ChatGPT another data question as it relates to how to do something in excel/google sheets 
-- Which resource you found most effective for this?
-
-Chat GPT is more helpful than Google Search when finding formulas for Google Sheets.
-*---
+- Which resource you found most effective for this? 
+---
 
 ### 5. **When to Use Which Resource**  
 Write a short response below explaining when it would be appropriate to use ChatGPT or Google. Consider factors like:  
 - Time sensitivity  
 - Complexity of the problem  
 - Need for detailed visual instructions  
-- Level of confidence in verifying the accuracy of the information
-
-
-The ease of finding answers depends on the specific questions and answers you seek. Google Search may be more effective in some cases, while Chat GPT may be more helpful in others.
-
+- Level of confidence in verifying the accuracy of the information  
 
 ---
 
 ### 6. **Final Reflection**  
 Reflect on your experience using ChatGPT vs Google and describe:  
 - Which resource you found most effective for this task and why.  
-- How this exercise influenced your approach to learning new data skills in the future.
-
-
-Chat GPT provides clear, detailed steps on how to solve issues, making it easier to find answers than on Google, where I have to watch many videos or check many websites. Additionally, Google search takes a lot of time.
-
-
+- How this exercise influenced your approach to learning new data skills in the future.  
 
 ---
 
