@@ -4,8 +4,8 @@
 
 _Edit the markdown file with an x in the checkbox when complete, then commit changes._
 
-- [ ] Complete the [Weber St registration](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
-- [ ] Complete the [Weber St Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
+- [x] Complete the [Weber St registration](https://continue.weber.edu/professional/CourseDetails.aspx?course=CEPR1045&crn=253035986&cust=false) 
+- [x] Complete the [Weber St Survey](https://weber.co1.qualtrics.com/jfe/form/SV_0rn2iR45P4qRIcC)
 
 ## Module Overview
 In this module, students will explore the foundations of Artificial Intelligence & Machine Learning (ML). Students will learn how ML uses data to make predictions and uncover patterns, the history and evolution of AI, and practical applications of AI tools in modern workflows. They will also gain hands-on experience using AI as a tutor and critiquing it's output compared with using Google or asking a human.
@@ -37,7 +37,7 @@ _Estimated **total** time to complete: 1 hour_
 
 In this section, you will learn about Machine Learning. Machine Learning is a subset of AI that uses data to train algorithms to make predictions or identify patterns. Examples of ML applications: fraud detection, recommendation systems, predictive analytics.   
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
+- [x] Watch [video](https://www.youtube.com/watch?v=KHbwOetbmbs) and mark when complete
 
 ----
 
@@ -47,7 +47,7 @@ In this section, you will learn about Machine Learning. Machine Learning is a su
 
 The most important aspect of Machine Learning is what data is used to train it. Find out how training data affects a machine's predictions and why biased data can lead to biased decisions.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=x2mRoFNm22g) and mark when complete 
+- [x] Watch [video](https://www.youtube.com/watch?v=x2mRoFNm22g) and mark when complete 
 
 ____
 
@@ -57,7 +57,7 @@ ____
 
 Computer Vision is a form of machine learning used in self-driving cars, facial recognition systems, and sustainable farming. Find out how a computer learns to classify images, how it can build from simple shapes to more complex figures, and why it’s so difficult for a computer to tell the difference between a chihuahua and a muffin.
 
-- [ ] Watch [video](https://youtu.be/2hXG8v8p0KM?si=xRzLfuWd2h-MIT4Z) and mark when complete 
+- [x] Watch [video](https://youtu.be/2hXG8v8p0KM?si=xRzLfuWd2h-MIT4Z) and mark when complete 
 
 ---
 
@@ -67,7 +67,7 @@ Computer Vision is a form of machine learning used in self-driving cars, facial 
 
 In this section, you'll learn about neural networks. Neural networks are computational models inspired by the human brain, consisting of layers of interconnected nodes (neurons) that process input data by assigning weights, applying activation functions, and adjusting through training to minimize errors. They learn patterns and make predictions by iteratively updating these weights using algorithms like backpropagation, improving their accuracy over time.
 
-- [ ] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
+- [x] Watch [video](https://youtu.be/JrXazCEACVo?si=Y5zIpQhELv2jP5J1) and mark when complete 
 
 ----
 
@@ -77,7 +77,7 @@ In this section, you'll learn about neural networks. Neural networks are computa
 
 Large Language Models like ChatGPT have remarkable abilities to generate content based on training data but do they have actual intelligence? Find out more about how LLM's and Chatbots work as we explore this question. 
 
-- [ ] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
+- [x] Watch [video](https://youtu.be/X-AWdfSFCHQ?si=Ne98iYq1SOFo-QN_) and mark when complete 
 
 ----
 
@@ -87,7 +87,7 @@ Large Language Models like ChatGPT have remarkable abilities to generate content
 
 AI has the amazing capability to generate art, images and even complete video sequences but does it have actual creativity and imagination? And how does this type of AI work? Learn more about how AI is able to generate art including images we've never seen.
 
-- [ ] Watch [video](https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1) and mark when complete 
+- [x] Watch [video](https://youtu.be/X994dDnmRmY?si=OGQI3LMl2gYbkFR1) and mark when complete 
 
 ----
 
@@ -97,7 +97,7 @@ AI has the amazing capability to generate art, images and even complete video se
 
 The potential for AI to help society is enormous. But at the same time we need to develop technology with a focus on ethics, access and fairness. This video explores the influence of AI on every aspect of life and underscores the importance of ethical oversight to prevent the creation of biased AI algorithms. 
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=tJQSyzBUAew) and mark when complete 
+- [x] Watch [video](https://www.youtube.com/watch?v=tJQSyzBUAew) and mark when complete 
 
 ----
 
@@ -105,27 +105,43 @@ The potential for AI to help society is enormous. But at the same time we need t
 
 In this video you'll see how to create your very own personalized AI assistant. This could be used to build a chatbot to help with sales, automate research, clone your ability to answer questions about complex topics, or even do data analysis or tutor you in data analysis.
 
-- [ ] Watch [video](https://www.youtube.com/watch?v=HYwa43Elxwo) and mark when complete 
+- [x] Watch [video](https://www.youtube.com/watch?v=HYwa43Elxwo) and mark when complete 
 
 ----
 
 ## Wednesday, Janurary 15th - In Class Agenda: 
 
-1) 👯‍♀️ Networking 
-2) ⏮️ Review Video Lessons
-2) 👩🏻‍🏫 Lecture: Using AI in Education: Chatbots as Tutors and Learning Coaches
-3) 📆 Assignment Overview 
-4) ❓ Q&A & Look Ahead
+1) 👯‍♀️ Networking
+2) 📝 Weekly Quiz found [here](https://docs.google.com/forms/d/e/1FAIpQLSf_WRLECbL7sr4UFuqNZXC9H1E0Q67E8NTB_LFqx5NZwNInxA/viewform)
+3) ⏮️ Review Video Lessons
+4) 👩🏻‍🏫 Lecture: [AI in Education & Analytics](https://docs.google.com/presentation/d/1adQsagv1OgYLzNgowLpsEHQqPHiQypYjgNw328Rgz5M/edit?usp=sharing)
+5) 📆 Assignment Overview 
+6) ❓ Q&A & Look Ahead
 
 ---
 
-## Assignment - complete by Saturday, January 18th
+## Assignment - complete by Saturday, January 25th
 
 - [ ] Complete [Assignment 1](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_1/assignment_1.md) and mark when complete. 
 
 ## Saturday, Janurary 18th - In Class Agenda: 
 
-1) 🙌🏻 Share & Tell 
-2) 💃 Guest Speaker 
+1) 👯‍♀️ Welcome & Housekeeping
+   * Congrat to Nicole on her new job! 
+   * Using GitHub Issues
+2) 🙌 Share & Tell 
+   * Intro - Aproova - How she uses chatgpt for her job search 
+   * Break out groups: 
+     * Intro 
+     * What you currently do for work & what you are looking for? 
+     * How can you use chatgpt more in your day to day? At work OR as a mom
+     * Where were you when you first used chatgpt? What did you ask it? 
+     * How did the assignment go for you? What did you learn?
+   * Trissa - Analyzing Slack Data 
+3) ❓ Q&A & Look Ahead
+    * [Module 1 Feedback Form](https://forms.gle/b2KRCw2Z4ghfJFNP6)
+    * Module 2 - Excel & Google Sheets 
+5) 💃 Guest Speaker - [Trina Limpert](https://www.linkedin.com/in/trinaceleste/) - Ethics in AI
+
 
 
