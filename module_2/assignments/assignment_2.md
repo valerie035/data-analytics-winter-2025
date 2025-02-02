@@ -79,7 +79,7 @@ Before polishing and presenting your data, you will want to validate that the re
 - [ ] Upload the Tech-Moms logo to the dashboard.
 - [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
-### Step Step: Ask for Feedback 
+### Step Seven: Ask for Feedback 
 
 - [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
 - [ ] Incorporate the feedback
