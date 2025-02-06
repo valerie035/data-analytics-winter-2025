@@ -67,4 +67,27 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 - [x] Complete the DataLemur [Basic SQL Tutorials](https://datalemur.com/sql-tutorial)
 
+## Wednesday, Feb 5th - In Class Agenda: 
+
+1) 👯‍♀️ Welcome & Networking - 15 mins 
+* Share a fun fact! :) 
+2) 🧹 Housekeeping - 5 mins 
+* Intro Data Mentor - [Worthy Lee](https://www.linkedin.com/in/worthy-lee/) ! 
+3) 📝 [Weekly Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdpyIwfFz96Lsn2pTBndouTTgCMJYQzeONC_H2izBxSw39j2g/viewform) & [Module 2 feedback form](https://docs.google.com/forms/d/e/1FAIpQLScCALmGvh01GRPLIF-esq6dbL7rMAFzlwK6Zjv1suw98UWHuQ/viewform) - 10 mins 
+4) ⏮️ Review Video Lessons - 30 mins
+5) ☕️ Break - 5 mins 
+6) 👩🏻‍🏫 TBD - 30 mins
+  * New AI News 
+  * Create an Data / AI Resources repo 
+
+<img width="787" alt="Screenshot 2025-01-30 at 6 00 26 PM" src="https://github.com/user-attachments/assets/67752c8b-1ff6-4bbf-8ba1-47dee94074fd" />
+
+  * Study Hall 
+8) 📆 Assignment Overview - 15 mins 
+9) ❓ Q&A & Look Ahead - 15 mins
+
+## Saturday, Feb 8th, - In Class Agenda: 
+
+1) 🙌🏻 Share & Tell 
+2) 💃 Guest Speaker - [KeeNan Engstrom](https://www.linkedin.com/in/keenanengstrom/) - Tech-Mom Alumna - Business Intelligence Analyst  
 
