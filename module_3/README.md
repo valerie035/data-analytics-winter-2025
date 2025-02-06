@@ -79,6 +79,9 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 6) 👩🏻‍🏫 TBD - 30 mins
   * New AI News 
   * Create an Data / AI Resources repo 
+
+<img width="787" alt="Screenshot 2025-01-30 at 6 00 26 PM" src="https://github.com/user-attachments/assets/67752c8b-1ff6-4bbf-8ba1-47dee94074fd" />
+
   * Study Hall 
 8) 📆 Assignment Overview - 15 mins 
 9) ❓ Q&A & Look Ahead - 15 mins
