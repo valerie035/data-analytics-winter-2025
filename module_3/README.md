@@ -78,6 +78,9 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 5) ☕️ Break - 5 mins 
 6) 👩🏻‍🏫 TBD - 30 mins
   * New AI News 
+
+<img width="574" alt="Screenshot 2025-02-05 at 6 55 19 PM" src="https://github.com/user-attachments/assets/86626138-df8b-419f-b957-6860fd5d45a5" />
+
   * Create an Data / AI Resources repo 
 
 <img width="787" alt="Screenshot 2025-01-30 at 6 00 26 PM" src="https://github.com/user-attachments/assets/67752c8b-1ff6-4bbf-8ba1-47dee94074fd" />
@@ -88,6 +91,7 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 ## Saturday, Feb 8th, - In Class Agenda: 
 
-1) 🙌🏻 Share & Tell 
-2) 💃 Guest Speaker - [KeeNan Engstrom](https://www.linkedin.com/in/keenanengstrom/) - Tech-Mom Alumna - Business Intelligence Analyst  
+1) 🙌🏻 SQL Saturday 
+2) AI + SQL  
+3) 💃 Guest Speaker - [KeeNan Engstrom](https://www.linkedin.com/in/keenanengstrom/) - Tech-Mom Alumna - Business Intelligence Analyst  
 
