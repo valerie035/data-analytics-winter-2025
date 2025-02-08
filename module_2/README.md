@@ -8,6 +8,7 @@ _Edit the markdown file with an x in the checkbox when complete, then commit cha
 - [X] Make a copy of the [Pre-Course Checklist Google Doc](https://docs.google.com/document/u/1/d/1DvkYSFrZkkCpClqdR6HO3zsEFOUPDAoqZliurV4QkzA/copy?usp=sharing) and complete
 - [X] Overview, Outcomes, and Video Lessons below
 
+
 ## Overview:
 
 This section serves as a comprehensive introduction to Excel and Google Sheets, two of the most widely used tools in data analytics. Designed for beginners, this module will guide students through the basics of these powerful spreadsheet applications, providing a solid foundation for data manipulation, analysis, and visualization.
@@ -55,12 +56,14 @@ In this section, you will learn the importance of data cleaning as a foundationa
 - [X] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Data%20Cleaning%20Excel%20Tutorial.xlsx)
 - [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1EkdWcu_bYk6DgJ53HQcPxBlTPsKxtwgxM9EpK6Rp8lI/edit?usp=sharing)
 - [X] Complete the hands-on activity
+
 ---
 <img width="500" alt="Screenshot 2024-08-28 at 3 34 17 PM" src="https://github.com/user-attachments/assets/ecd71d2a-d435-44d8-be97-c8baad80300a">
 
 _Est. Time to Complete: (60 mins)_
 
 This section introduces essential functions and formulas in Excel and Google Sheets that are crucial for data manipulation and analysis. Students will learn how to use functions such as SUM, AVERAGE, COUNT, AND IF statements. By the end of this section, students will be comfortable using these tools to perform calculations and automate repetitive tasks.
+
 
 - [X] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=0orU_bNAOQuc64fi&t=17175) and mark when complete
 - [X] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Formula%20Excel%20Template.xlsx) 
@@ -121,7 +124,7 @@ _Est. Time to Complete: (1.5 hrs)_
 
 In the final section, students will learn how to bring together all the skills they've acquired to create an interactive and aesthetic spreadsheet dashboard. This dashboard will serve as a dynamic tool for presenting data insights, including charts, pivot tables, and key metrics. Students will focus on layout, design principles, and interactivity to ensure their dashboards are both functional and visually appealing.
 
-- [x ] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
+- [x] Watch [video](https://youtu.be/PSNXoAs2FtQ?si=Hu0HebxQCSzSWeR4&t=23762) and mark when complete
 - [x] Excel users: download [.xls file](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 - [ ] Google Sheets users: make a copy of the [google sheet](https://docs.google.com/spreadsheets/d/1885w07YyzbRQqfIGHvJSftNU42rJVOUHpkWfNROLlbM/edit?usp=sharing)
 - [x] Complete the Dashboard and share in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/20) thread.
