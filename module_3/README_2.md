@@ -19,13 +19,16 @@ By the end of this module, you should be able to:
 
 # Video Lessons - Complete by Saturday, February 15th 
 
-_Estimated time to complete: 1.5 hours _
+_Estimated time to complete: 1.5 hours_
 
-- [ ] Watch this video series by Alex the Analyst about Intermediate SQL 
+- [ ] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
 
 # Hands-On Practice - Complete by Wednesday, February 15th 
 
 Choose a SQL practice resource to practice Intermediate SQL skills 
+
+* DataLemer 
+* SQL Practice
 
 
 
