@@ -15,20 +15,23 @@ By the end of this module, you should be able to:
 5. Implement Subqueries to simplify larger queries or perform nested lookups.
 6. Analyze Data with Window Functions for ranking, running totals, and time-based calculations.
 
-# Assignment - Complete by Wednesday, February 12th 
-
-# Video Lessons - Complete by Saturday, February 15th 
+# Video Lessons - Complete by Wednesday, February 12th
 
 _Estimated time to complete: 1.5 hours_
 
 - [ ] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
 
-# Hands-On Practice - Complete by Wednesday, February 15th 
+# Hands-On Practice - Complete by Wednesday, February 12th 
 
-Choose a SQL practice resource to practice Intermediate SQL skills 
+* Complete the Data Lemur [Intermediate SQL tutorial](https://datalemur.com/sql-tutorial/intermediate-data-science-sql-intro)  
 
-* DataLemer 
-* SQL Practice
+Or pick another SQL resource to do intermediate SQL practice 
+
+# Assignment - Complete by Saturday, February 15th 
+
+_Estimated time to complete: 8 hours_
+
+- [ ] Complete Assignment 3 -> `module_3` -> `assignments` -> `README.md`
 
 
 
