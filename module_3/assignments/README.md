@@ -2,7 +2,7 @@
 
 # Tech-Moms Student SQL Analysis 
 
-In this assignment, you will use Deep Note, a data analysis tool, to explore the Tech Moms applicant dataset using SQL. You will upload the applicant dataset into Deep Note and answer key questions to gain insights from the data.
+In this assignment, you will use Deep Note, a data analysis tool, to explore the Tech-Moms applicant dataset using SQL. You will upload the applicant dataset into Deep Note and answer key questions to gain insights from the data.
 
 ## Step 1: Create a Deep Note Account & Upload Data 
 
@@ -37,7 +37,7 @@ _Note: [your_table_name] will be the exact name of the csv file you uploaded in 
 
 This will give you a preview of 10 rows so you can get to know what the data and columns look like generally. 
 
-## Step 3: Clean and Format Your Data 
+### A Note about Cleaning and Formatting the Data 
 
 Once you upload the data, you may notice that the data is not in the format that SQL likes.  
 
@@ -50,8 +50,6 @@ In your preferred spreadsheet tool, complete the following tasks:
 - [x] Re-upload the new cleaned & formatted `.csv` to Deep Note
 
 Now you are ready to run some queries and analyze the data in SQL. 
-
-Note: to skip this step you can use the cleaned tech moms application data [here](https://github.com/Tech-Moms/data-analytics-course/blob/main/module_3/assignment_2/Cleaned_Tech_Moms_Application_Data_9.12.2024.csv). 
 
 ## Step 4: Analyze the Data (aka Ask Questions) 
 
@@ -100,7 +98,7 @@ Note: Your numbers here should match your Excel/Google Sheets analysis.
 
 ## Step 3: Submission
 
-- [ ] Email a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) to your deep note notebook to data@tech-moms.org
+- [ ] Drop a [link](https://deepnote.com/workspace/tech-moms-c74a-218b9a89-8e00-4dd9-a40f-fc1925d77d85/project/Tech-Moms-Exploratory-Analysis-fbfb3a5b-034a-4d0c-92d8-005c72020634/notebook/Alyson's%20Tech%20Moms%20Data%20Analysis-acff3488e9ba4193b5fed69fee62b822) into this [discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/90). 
 
 #### How to Share a Deep Note Link:
 
