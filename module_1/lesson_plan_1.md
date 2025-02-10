@@ -22,7 +22,7 @@ _click on the image above to access slides_
   - Setting yourself up for success - Mikel Blake & Merienne Gates
   
 
-- [x] **Icebreaker Activity:**
+- [ ] **Icebreaker Activity:**
   - Participants introduce themselves and share why they are interested in learning about data analytics.
 
 ---
@@ -35,7 +35,7 @@ _click on the image above to access slides_
 
 _click on the image above to access slides_
 
-- [x] **How We Will Use GitHub in our Course**
+- [ ] **How We Will Use GitHub in our Course**
   - Fork (make a copy of) this Repository 
   - Discuss how to navigate the modules & edit READMEs to mark off tasks as complete
   - Discuss class cadence - Video Lessons to be viewed prior to Wednesday class & Assignments due on Saturday
