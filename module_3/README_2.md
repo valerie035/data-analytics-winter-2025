@@ -25,7 +25,7 @@ _Estimated time to complete: 1.5 hours_
 
 _Estimated time to complete: 2 hours_
 
-[x] Complete the Data Lemur [Intermediate SQL tutorial](https://datalemur.com/sql-tutorial/intermediate-data-science-sql-intro)  
+- [x] Complete the Data Lemur [Intermediate SQL tutorial](https://datalemur.com/sql-tutorial/intermediate-data-science-sql-intro)  
 
 Or pick [another SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do intermediate SQL practice 
 
