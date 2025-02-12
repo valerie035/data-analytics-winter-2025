@@ -56,7 +56,7 @@ Now you are ready to run some queries and analyze the data in SQL.
 Use Deep Note's built-in SQL editor to explore the dataset and answer the following questions:
 
 1. **How many applications has Tech Moms received?** 
-   - [x]  Write a query to count the total number of applications. (as of the end of July)   1679 applicants
+   - [x]  Write a query to count the total number of applications. (as of the end of July)   691 applicants
    - Example SQL:
      
     ```
