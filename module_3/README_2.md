@@ -39,7 +39,7 @@ Congratulations to Frenchell on her new job! 🎉🎉🎉
    * Connect on LinkedIn 
    * [How to set up a NFC tag](https://www.youtube.com/watch?v=rjCF2LtnYBI&list=PLM9EiARPWQfAIg_EQPibtyCEw-vJGP_J8) 
    * [More NFC tag ideas](https://www.youtube.com/watch?v=PM1QTME_ZuI&list=PLM9EiARPWQfCKWhEBVmgBE2KN9M5ThnP0) 
-4) 📝 Weekly Quiz - 10 mins 
+4) 📝 [Weekly Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdvvWd3JxUirz5cKfPnJ7EaDZZFmTRRro9iysJRjwRG1RFIOg/viewform) - 10 mins 
 5) ⏮️ SQL demo w/ Kelsey - 30 mins
 6) ☕️ Break - 5 mins 
 7) 👩🏻‍🏫 Assignment walkthrough w/ Kelsey  -  50 mins
