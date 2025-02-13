@@ -55,8 +55,7 @@ _Estimated time to complete: 6 hours_
 ## Saturday, Feb 15th - In Class Agenda: 
 
 1) 👯‍♀️ Share & Tell
-2) 💻 SQL + AI Lecture 
-3) 💃 Guest Speaker - [Marlene Prado](https://www.linkedin.com/in/mtpradoc/) - Data Engineer / Data Scientist / Data Mentor
+2) 💃 Guest Speaker - [Marlene Prado](https://www.linkedin.com/in/mtpradoc/) - Data Engineer / Data Scientist / Data Mentor
 
 
 
