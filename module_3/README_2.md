@@ -23,13 +23,25 @@ _Estimated time to complete: 1.5 hours_
 
 # Hands-On Practice - Complete by Wednesday, February 12th 
 
+_Estimated time to complete: 2 hours_
+
 * Complete the Data Lemur [Intermediate SQL tutorial](https://datalemur.com/sql-tutorial/intermediate-data-science-sql-intro)  
 
-Or pick another SQL resource to do intermediate SQL practice 
+Or pick [another SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do intermediate SQL practice 
+
+## Wednesday, Feb 12th - In Class Agenda: 
+
+1) 👯‍♀️ Welcome & Networking - 15 mins 
+2) 🧹 Housekeeping - 5 mins 
+3) 📝 Weekly Quiz - 10 mins 
+4) ⏮️ SQL demo w/ Kelsey - 30 mins
+5) ☕️ Break - 5 mins 
+6) 👩🏻‍🏫 TBD -  50 mins
+7) 🔜 Wrap up & look ahead - 5 mins 
 
 # Assignment - Complete by Saturday, February 15th 
 
-_Estimated time to complete: 8 hours_
+_Estimated time to complete: 6 hours_
 
 - [ ] Complete Assignment 3 -> `module_3` -> `assignments` -> `README.md`
 
