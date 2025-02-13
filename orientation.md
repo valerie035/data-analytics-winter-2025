@@ -4,19 +4,19 @@ This document is dedicated to all things orientation so you can be successful us
 
 # Syllabus
 
--  [x] Review the [course syllabus](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/syllabus.md) 
+-  [ ] Review the [course syllabus](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/syllabus.md) 
 
 # GitHub 
 
 <img width="1220" alt="Screenshot 2025-01-24 at 4 22 32 PM" src="https://github.com/user-attachments/assets/a3fc4881-337d-4653-bfb3-ec236e445535" />
 
-- [x] Review [How to GitHub](https://docs.google.com/presentation/d/1ttR8RHF_bvDvXxFFcWyrDF-R8yrwz2Nv7C52DkT7wmA/edit#slide=id.p) slidedeck 
+- [ ] Review [How to GitHub](https://docs.google.com/presentation/d/1ttR8RHF_bvDvXxFFcWyrDF-R8yrwz2Nv7C52DkT7wmA/edit#slide=id.p) slidedeck 
 
 # Zoom 
 
 <img width="1416" alt="Screenshot 2025-01-24 at 3 18 28 PM" src="https://github.com/user-attachments/assets/0f92a4d4-d5b0-4907-9497-c438ba93abf4" />
 
-- [x] Review [How to Zoom](https://docs.google.com/presentation/d/1uWO-6n43WHXC0CEJy2rL325ISufFn6T8Dasnv3zMttU/edit#slide=id.g28574f72604_0_231) slidedeck 
+- [ ] Review [How to Zoom](https://docs.google.com/presentation/d/1uWO-6n43WHXC0CEJy2rL325ISufFn6T8Dasnv3zMttU/edit#slide=id.g28574f72604_0_231) slidedeck 
 
 
 # Slack 
