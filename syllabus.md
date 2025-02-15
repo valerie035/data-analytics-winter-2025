@@ -49,9 +49,9 @@ _Modules will be released each Saturday for the following week._
 | Week 4   | 1/26       |   **Advanced Excel/Google Sheets**                      | Online (Wed) / In Person @ Health Catalyst in South Jordan           | Complete Module 2.5 course materials on GitHub                               |
 | Week 5   | 2/2       |  **Intro to SQL**                     |  Online (Wed/Sat)  | Complete Module 3 course materials on GitHub                               |
 | Week 6   | 2/9       |  **Advanced SQL**            | Online (Wed/Sat)            | Complete Module 3.5 course materials on GitHub                               |
-| Week 7   | 2/16       |     **BI Tooling: Power BI & Data Storytelling**          | Online (Wed/Sat)            | Complete Module 4 course materials on GitHub                        |
-| Week 8   | 2/23      |  **BI Tooling: Tableau 1**                           | Online (Wed) / In Person  @ Adobe in Lehi  | Complete Module 5 course materials on GitHub                               |
-| Week 9   | 3/2      | **BI Tooling: Tableau 2**        | Online (Wed/Sat)            | Complete Module 5 course materials on GitHub   |
+| Week 7   | 2/16       |     **BI Tooling: Tableau 1**          | Online (Wed/Sat)            | Complete Module 4 course materials on GitHub                        |
+| Week 8   | 2/23      |       **BI Tooling: Tableau 2**                     | Online (Wed) / In Person  @ Adobe in Lehi  | Complete Module 5 course materials on GitHub                               |
+| Week 9   | 3/2      |   **Data Storytelling**      | Online (Wed/Sat)            | Complete Module 5 course materials on GitHub   |
 | Week 10  | 3/9       |  **BI Tooling: Looker 1**              | Online (Wed/Sat)            | Complete Module 6 course materials on GitHub                                           |
 | Week 11  | 3/16      | **BI Tooling: Looker 2**        | Online (Wed/Sat)            | Complete Module 7 course materials on GitHub                                             |
 | Week 12  | 3/23      | **BI Tooling: DOMO** | Online (Wed) / In Person @ TBD    | Complete Module 8 course materials on GitHub              |
