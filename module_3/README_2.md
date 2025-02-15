@@ -57,7 +57,9 @@ _Estimated time to complete: 6 hours_
 1) ❤️ Welcome & Housekeeping 
     * Where are you based? 
 2) 👯‍♀️ Share & Tell
-    * All class share & break out group share 
+    * All class share 
+    * AI & SQL - see this [linkedin post](https://www.linkedin.com/posts/lekhanareddy_sql-is-dead-uber-just-unveiled-querygpt-activity-7295504857493319680-a-ya?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADRRGUBxPPtJPjvKfBv7jnLob0bmCXSftY) 
+    * Break out group share 
 3) [Module 3 feedback](https://forms.gle/vMj2iKfvyHba8gac7) 
 4) 💃 Guest Speaker - [Marlene Prado](https://www.linkedin.com/in/mtpradoc/) - Data Engineer / Data Scientist / Data Mentor
 5) Wrap up & Look Ahead 
