@@ -33,6 +33,9 @@ You will ask ChatGPT the following question:
   - Suggest how the explanation could be improved, if necessary.
   - 
 I feel that the directions were not easy to follow.  I am more of a visual learner, so just reading the information is confusing.  I am not that familiar with Google sheets so it was not easy to follow.  I feel that it really did not have a step by step instruction and it was not detailed enough.
+
+ 
+    This is my idea about this....
 ---
 
 ### 3. **Comparison**  
