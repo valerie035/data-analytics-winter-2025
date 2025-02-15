@@ -54,8 +54,13 @@ _Estimated time to complete: 6 hours_
 
 ## Saturday, Feb 15th - In Class Agenda: 
 
-1) 👯‍♀️ Share & Tell
-2) 💃 Guest Speaker - [Marlene Prado](https://www.linkedin.com/in/mtpradoc/) - Data Engineer / Data Scientist / Data Mentor
+1) ❤️ Welcome & Housekeeping 
+    * Where are you based? 
+2) 👯‍♀️ Share & Tell
+    * All class share & break out group share 
+3) [Module 3 feedback](https://forms.gle/vMj2iKfvyHba8gac7) 
+4) 💃 Guest Speaker - [Marlene Prado](https://www.linkedin.com/in/mtpradoc/) - Data Engineer / Data Scientist / Data Mentor
+5) Wrap up & Look Ahead 
 
 
 
