@@ -19,13 +19,13 @@ By the end of this module, you should be able to:
 
 _Estimated time to complete: 1.5 hours_
 
-- [ ] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
+- [x] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
 
 # Hands-On Practice - Complete by Wednesday, February 12th 
 
 _Estimated time to complete: 2 hours_
 
-* Complete the Data Lemur [Intermediate SQL tutorial](https://datalemur.com/sql-tutorial/intermediate-data-science-sql-intro)  
+- [x] Complete the Data Lemur [Intermediate SQL tutorial](https://datalemur.com/sql-tutorial/intermediate-data-science-sql-intro)  
 
 Or pick [another SQL resource](https://github.com/KelseyATaylor/Data-Tech-Moms-Resources?tab=readme-ov-file#sql) to do intermediate SQL practice 
 
@@ -50,7 +50,7 @@ Congratulations to Frenchell on her new job! 🎉🎉🎉
 
 _Estimated time to complete: 6 hours_
 
-- [ ] Complete Assignment 3 -> `module_3` -> `assignments` -> `README.md`
+- [x] Complete Assignment 3 -> `module_3` -> `assignments` -> `README.md`
 
 ## Saturday, Feb 15th - In Class Agenda: 
 
