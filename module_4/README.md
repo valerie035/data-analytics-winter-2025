@@ -12,6 +12,8 @@ Module 4 introduces students to Tableau, a powerful data visualization tool wide
 
 ## Video Lessons - Complete by class Wednesday, February 19th
 
+_Est. total Time to Complete: 2 hours_
+
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
 <img width="600" alt="Install Tableau" src="https://github.com/user-attachments/assets/0fa38bb3-4624-4eef-b375-096ca57129dc">
@@ -63,7 +65,7 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 - [ ] Watch [this](https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=5) video, follow along in Tableau, and mark when complete
 - [ ] Publish your completed workbook to Tableau Public
-- [ ]  Drop a link to your Tableau dashboard in this discussion thread. 
+- [ ]  Drop a link to your Tableau dashboard in this [discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/131) thread. 
 
 ---
 
