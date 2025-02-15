@@ -55,7 +55,8 @@ _Estimated time to complete: 6 hours_
 ## Saturday, Feb 15th - In Class Agenda: 
 
 1) ❤️ Welcome & Housekeeping 
-    * Where are you based? 
+    * Where are you based?
+    * Pull Request Party
 2) 👯‍♀️ Share & Tell
     * All class share 
     * AI & SQL - see this [linkedin post](https://www.linkedin.com/posts/lekhanareddy_sql-is-dead-uber-just-unveiled-querygpt-activity-7295504857493319680-a-ya?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADRRGUBxPPtJPjvKfBv7jnLob0bmCXSftY) 
