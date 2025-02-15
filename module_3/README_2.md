@@ -50,7 +50,7 @@ Congratulations to Frenchell on her new job! 🎉🎉🎉
 
 _Estimated time to complete: 6 hours_
 
-- [ ] Complete Assignment 3 -> `module_3` -> `assignments` -> `README.md`
+- [x] Complete Assignment 3 -> `module_3` -> `assignments` -> `README.md`
 
 ## Saturday, Feb 15th - In Class Agenda: 
 
