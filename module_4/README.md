@@ -55,7 +55,6 @@ Learn how to use Joins in Tableau to combine data from multiple sources. We'll c
 - [ ] Watch [this](https://www.youtube.com/watch?v=A4SVUF-fTwc&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=4) video, follow along in Tableau, and mark when complete
 
 ---
-## Assignment #4 - Complete by class Saturday, February 22nd
 
 <img width="600" alt="Full Beginner Project" src="https://github.com/user-attachments/assets/cb76f3d3-e77e-4d61-89db-bd6b9c957e4f">
 
@@ -68,6 +67,14 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 - [ ]  Drop a link to your Tableau dashboard in this [discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/131) thread. 
 
 ---
+
+## Assignment - Complete by class Saturday, Februrary 22nd 
+
+### Create a Tech-Moms Annual Report Dashboard 
+
+- [ ] Create a Tableau dashboard using both the Tech-Moms applicant and survey data
+- [ ] See last year's annual report for inspiration 
+- [ ] Drop a link to your Tableau dashboard in this discussions thread. 
 
 ## Additional Resources: 
 
