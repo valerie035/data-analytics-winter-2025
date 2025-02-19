@@ -65,7 +65,7 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 ## Hands-On Practice:  
 
-- [ ] Complete the DataLemur [Basic SQL Tutorials](https://datalemur.com/sql-tutorial)
+- [x] Complete the DataLemur [Basic SQL Tutorials](https://datalemur.com/sql-tutorial)
 
 ## Wednesday, Feb 5th - In Class Agenda: 
 
