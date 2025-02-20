@@ -75,7 +75,7 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 3) 💻 Guest Speaker - [Dallin Bentley](https://www.linkedin.com/in/dallinbentley/) - [Buster Demo](https://www.buster.so/) - 30 mins - 7:30pm - 8pm 
 4) ☕️ Break - 5 mins 
 5) 📝 [Weekly Quiz](https://docs.google.com/forms/d/e/1FAIpQLScwNuEdDTIUhOlctH67dDdx9flMnGvw90ztQ62PoGcE-oe8BA/viewform) & [Module 3 feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdD4ySs4AzmOEp03gHCZoZcZjoZMq0sM1i4eyhjpl5Exwf_sg/viewform) - 15 mins 
-6) 👩🏻‍🏫 Tableau Time - 40 mins
+6) 👩🏻‍🏫 Lecture - [Understanding BI Tools](https://docs.google.com/presentation/d/1d6dLvxIRW1X652I9NgP4FBbG__K8_vnHskkZ2uaoK_M/edit?usp=sharing) - 40 mins
 7) 🔜 Wrap up & Look Ahead - 5 mins 
 
 ## Assignment - Complete by class Saturday, Februrary 22nd 
