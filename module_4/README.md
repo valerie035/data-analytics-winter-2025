@@ -89,7 +89,9 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ### Saturday, Feb 22nd - In Class Agenda: 
 
-- [ ] 💃 Share & Tell - Alex the Analyst Dashboard & Annual Report 
+- [ ] 💃 Share & Tell - Alex the Analyst Dashboard & Annual Report
+- [ ] 💻 SQL Saturday
+- [ ] ☕️ Break 
 - [ ] 🙌🏻 Guest Speaker 
 
 ## Additional Resources: 
