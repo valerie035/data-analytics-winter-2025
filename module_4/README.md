@@ -68,13 +68,29 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ---
 
+## Wednesday, Feb 19th - In Class Agenda: 
+
+1) 👯‍♀️ Welcome & Networking - 15 mins 
+2) 🧹 [Makeover Monday](https://www.linkedin.com/posts/alysonla_makeover-monday-this-weeks-graph-activity-7297509866040872960-HCyL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADRRGUBxPPtJPjvKfBv7jnLob0bmCXSftY) - 15 mins 
+3) 💻 Guest Speaker - [Dallin Bentley](https://www.linkedin.com/in/dallinbentley/) - [Buster Demo](https://www.buster.so/) - 30 mins - 7:30pm - 8pm 
+4) ☕️ Break - 5 mins 
+5) 📝 [Weekly Quiz](https://docs.google.com/forms/d/e/1FAIpQLScwNuEdDTIUhOlctH67dDdx9flMnGvw90ztQ62PoGcE-oe8BA/viewform) & [Module 3 feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdD4ySs4AzmOEp03gHCZoZcZjoZMq0sM1i4eyhjpl5Exwf_sg/viewform) - 15 mins 
+6) 👩🏻‍🏫 Lecture - [Understanding BI Tools](https://docs.google.com/presentation/d/1d6dLvxIRW1X652I9NgP4FBbG__K8_vnHskkZ2uaoK_M/edit?usp=sharing) - 40 mins
+7) 🔜 Wrap up & Look Ahead - 5 mins 
+
 ## Assignment - Complete by class Saturday, Februrary 22nd 
 
 ### Create a Tech-Moms Annual Report Dashboard 
 
 - [ ] Create a Tableau dashboard using both the Tech-Moms applicant and survey data
 - [ ] See last year's annual report for inspiration 
-- [ ] Drop a link to your Tableau dashboard in this [discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/149) thread. 
+- [ ] Drop a link to your Tableau dashboard in this [discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/149) thread.
+- [ ] Try to get this done by Saturday, Feb 22nd - otherwise you will have another week to complete. If done by 2/22, then data mentor will get you feedback to iterate on it for the follow week. 
+
+### Saturday, Feb 22nd - In Class Agenda: 
+
+- [ ] 💃 Share & Tell - Alex the Analyst Dashboard & Annual Report 
+- [ ] 🙌🏻 Guest Speaker 
 
 ## Additional Resources: 
 
