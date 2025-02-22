@@ -93,7 +93,8 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 2. 🎉 Pull Request Party 
 3. 💻 SQL Saturday
 4. ☕️ Break 
-5. 🙌🏻 Guest Speaker - [Mina Schneider](https://www.linkedin.com/in/minaschneider/) - Sr. Principal IT System Architect @ BAE Systems 
+5. 🙌🏻 Guest Speaker - [Mina Schneider](https://www.linkedin.com/in/minaschneider/) - Sr. Principal IT System Architect @ BAE Systems
+6. 🔜 Wrap up and look ahead 
 
 ## Additional Resources: 
 
