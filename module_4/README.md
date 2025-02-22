@@ -109,19 +109,18 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 2. 📊 Makeover Monday
 3. ☕️ Break 
 4. 🙌🏻 Share & Tell - [Tableau with AI](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) assignment
+5. 🔜 Wrap up & Look Ahead
 
 ## Saturday, March 1st - In-Person Agenda: 
 
 Deets: 
-
-Time: 10am - 2pm 
-Location: Adobe in Lehi 
-Agenda: 
-
-10:00 AM - 10:30 AM: Welcome and Ice Breaker
-10:30 AM - 12:00 PM: Adobe Analytics Workshop 
-12:00 PM - 1:00 PM: Lunch
-1:00 PM - 2:00 PM: Guest Speaker
+* Time: 10am - 2pm 
+* Location: [Adobe HQ](https://maps.app.goo.gl/zHzGT71a6omdf8rU8) in Lehi 
+* Agenda: 
+    - 10:00 AM - 10:30 AM: Welcome and Ice Breaker
+    - 10:30 AM - 12:00 PM: Adobe Analytics Workshop with [Jennifer Werkmeister](https://www.linkedin.com/in/jennifer-werkmeister/): Sr. Product Manager - Adobe Analytics 
+    - 12:00 PM - 1:00 PM: Lunch
+    - 1:00 PM - 2:00 PM: Guest Speaker - [Alison Lutjemeier](https://www.linkedin.com/in/aliloo/): Director, Customer Feedback @ Adobe & Tech-Moms Board Member 
 
 -----
 
