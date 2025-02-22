@@ -77,7 +77,7 @@ Before polishing and presenting your data, you will want to validate that the re
 - [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
 - [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
 - [ ] Upload the Tech-Moms logo to the dashboard.
-- [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+- [x] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 ### Step Seven: Ask for Feedback 
 
