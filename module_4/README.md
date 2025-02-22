@@ -90,9 +90,10 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 ## Saturday, Feb 22nd - In Class Agenda: 
 
 - [ ] 💃 Share & Tell - Alex the Analyst Dashboard & Annual Report
+- [ ] 🎉 Pull Request Party 
 - [ ] 💻 SQL Saturday
 - [ ] ☕️ Break 
-- [ ] 🙌🏻 Guest Speaker 
+- [ ] 🙌🏻 Guest Speaker - [Mina Schneider](https://www.linkedin.com/in/minaschneider/) - Sr. Principal IT System Architect @ BAE Systems 
 
 ## Additional Resources: 
 
