@@ -96,6 +96,15 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 5. 🙌🏻 Guest Speaker - [Mina Schneider](https://www.linkedin.com/in/minaschneider/) - Sr. Principal IT System Architect @ BAE Systems
 6. 🔜 Wrap up and look ahead 
 
+----
+
+## Wednesday, Feb 26th - In Class Agenda: 
+
+1. Welcome and Networking 
+2. Makeover Monday
+3. Break 
+4. Share & Tell - [Tableau with AI](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) assignment
+
 ## Additional Resources: 
 
 * [Tableau Public FAQs](https://community.tableau.com/s/tableau-public-faq#subhead22)
