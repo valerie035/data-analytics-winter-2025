@@ -98,12 +98,32 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ----
 
+## Assignment - Complete by class Wednesday, February 26th
+
+- [ ] Research AI updates in Tableau
+- [ ] Create a slide deck of your finds & post in [this](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) discussion thread 
+
 ## Wednesday, Feb 26th - In Class Agenda: 
 
-1. Welcome and Networking 
-2. Makeover Monday
-3. Break 
-4. Share & Tell - [Tableau with AI](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) assignment
+1. 👯‍♀️ Welcome and Networking 
+2. 📊 Makeover Monday
+3. ☕️ Break 
+4. 🙌🏻 Share & Tell - [Tableau with AI](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) assignment
+
+## Saturday, March 1st - In-Person Agenda: 
+
+Deets: 
+
+Time: 10am - 2pm 
+Location: Adobe in Lehi 
+Agenda: 
+
+10:00 AM - 10:30 AM: Welcome and Ice Breaker
+10:30 AM - 12:00 PM: Adobe Analytics Workshop 
+12:00 PM - 1:00 PM: Lunch
+1:00 PM - 2:00 PM: Guest Speaker
+
+-----
 
 ## Additional Resources: 
 
