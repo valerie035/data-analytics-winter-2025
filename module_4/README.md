@@ -85,7 +85,7 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 - [ ] Create a Tableau dashboard using both the Tech-Moms applicant and survey data
 - [ ] See last year's annual report for inspiration 
 - [ ] Drop a link to your Tableau dashboard in this [discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/149) thread.
-- [ ] Try to get this done by Saturday, Feb 22nd - otherwise you will have another week to complete. If done by 2/22, then data mentor will get you feedback to iterate on it for the follow week. 
+- [ ] Try to get this done by Saturday, Feb 22nd - otherwise you will have another week to complete. If done by 2/22, then a data mentor will get you feedback to iterate on it for the follow week. 
 
 ## Saturday, Feb 22nd - In Class Agenda: 
 
