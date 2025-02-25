@@ -85,14 +85,44 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 - [ ] Create a Tableau dashboard using both the Tech-Moms applicant and survey data
 - [ ] See last year's annual report for inspiration 
 - [ ] Drop a link to your Tableau dashboard in this [discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/149) thread.
-- [ ] Try to get this done by Saturday, Feb 22nd - otherwise you will have another week to complete. If done by 2/22, then data mentor will get you feedback to iterate on it for the follow week. 
+- [ ] Try to get this done by Saturday, Feb 22nd - otherwise you will have another week to complete. If done by 2/22, then a data mentor will get you feedback to iterate on it for the follow week. 
 
 ## Saturday, Feb 22nd - In Class Agenda: 
 
-- [ ] 💃 Share & Tell - Alex the Analyst Dashboard & Annual Report
-- [ ] 💻 SQL Saturday
-- [ ] ☕️ Break 
-- [ ] 🙌🏻 Guest Speaker 
+1. 💃 Share & Tell - Alex the Analyst Dashboard & Annual Report
+2. 🎉 Pull Request Party 
+3. 💻 SQL Saturday
+4. ☕️ Break 
+5. 🙌🏻 Guest Speaker - [Mina Schneider](https://www.linkedin.com/in/minaschneider/) - Sr. Principal IT System Architect @ BAE Systems
+6. 🔜 Wrap up and look ahead 
+
+----
+
+## Assignment - Complete by class Wednesday, February 26th
+
+- [ ] Research AI updates in Tableau
+- [ ] Create a slide deck of your finds & post in [this](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) discussion thread 
+
+## Wednesday, Feb 26th - In Class Agenda: 
+
+1. 👯‍♀️ Welcome and Networking 
+2. 📊 Makeover Monday
+3. ☕️ Break 
+4. 🙌🏻 Share & Tell - [Tableau with AI](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) assignment
+5. 🔜 Wrap up & Look Ahead
+
+## Saturday, March 1st - In-Person Agenda: 
+
+Deets: 
+* Time: 10am - 2pm 
+* Location: [Adobe HQ](https://maps.app.goo.gl/zHzGT71a6omdf8rU8) in Lehi 
+* Agenda: 
+    - 10:00 AM - 10:30 AM: Welcome and Ice Breaker
+    - 10:30 AM - 12:00 PM: Adobe Analytics Workshop with [Jennifer Werkmeister](https://www.linkedin.com/in/jennifer-werkmeister/): Sr. Product Manager - Adobe Analytics 
+    - 12:00 PM - 1:00 PM: Lunch
+    - 1:00 PM - 2:00 PM: Guest Speaker - [Alison Lutjemeier](https://www.linkedin.com/in/aliloo/): Director, Customer Feedback @ Adobe & Tech-Moms Board Member 
+
+-----
 
 ## Additional Resources: 
 
