@@ -100,8 +100,8 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ## Assignment - Complete by class Wednesday, February 26th
 
-- [ ] Research AI updates in Tableau
-- [ ] Create a slide deck of your finds & post in [this](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) discussion thread 
+- [x] Research AI updates in Tableau
+- [x] Create a slide deck of your finds & post in [this](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) discussion thread 
 
 ## Wednesday, Feb 26th - In Class Agenda: 
 
