@@ -91,8 +91,8 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 - [x] 💃 Share & Tell - Alex the Analyst Dashboard & Annual Report
 - [x] 💻 SQL Saturday
-- [ ] ☕️ Break 
-- [ ] 🙌🏻 Guest Speaker 
+- [x] ☕️ Break 
+- [x] 🙌🏻 Guest Speaker 
 
 ## Additional Resources: 
 
