@@ -18,7 +18,7 @@ Welcome to the **Tech-Moms Data Analytics Course**! This course is designed to e
 | | Saturday, March 29 -  🕙 10 AM - 2 PM - 📍 *Domo - American Fork, UT* |
 | | Saturday, May 3 - 🕙 10 AM - 2 PM - 🎓 *GRADUATION DAY* - 📍 *TBD* |
 | **Instructors:**       | Alyson La + Kelsey Taylor |
-| **Class Mentors:** | Tanya Seegmiller, Keenan Engstrom, Aproova Bura, + Worthy Lee | 
+| **Class Mentors:** | Tanya Seegmiller, Keenan Engstrom, Apoorva Bura, + Worthy Lee | 
 
 ---
 
