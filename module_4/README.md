@@ -117,6 +117,7 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 More cool projects on GitHub
 * [Incarceration by the Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
 * [Wealth in Pixels](https://alysonla.github.io/1-pixel-wealth/) 
+* [GitHub Data in BigQuery](https://github.blog/news-insights/research/github-data-ready-for-you-to-explore-with-bigquery/)
 
 3. ☕️ Break 
 4. 🙌🏻 Share & Tell - [Tableau with AI](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) assignment
