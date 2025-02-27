@@ -123,6 +123,10 @@ More cool projects on GitHub
 * [Wealth in Pixels](https://alysonla.github.io/1-pixel-wealth/) 
 * [GitHub Data in BigQuery](https://github.blog/news-insights/research/github-data-ready-for-you-to-explore-with-bigquery/)
 
+Data Viz Slidedecks: 
+* [Remove to Improve](https://speakerdeck.com/cherdarchuk/remove-to-improve-the-data-ink-ratio)
+* [Tips for Viz Best Practices](https://speakerdeck.com/alysonla/9-tips-for-effective-data-visualizations)
+
 3. ☕️ Break 
 4. 🙌🏻 Share & Tell - [Tableau with AI](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) assignment
 5. 🔜 Wrap up & Look Ahead
