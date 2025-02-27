@@ -106,7 +106,16 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 ## Wednesday, Feb 26th - In Class Agenda: 
 
 1. 👯‍♀️ Welcome and Networking 
-2. 📊 Makeover Monday
+2. 📊 Makeover Monday 
+  * [GitHut](https://madnight.github.io/githut/#/pushes/2024/1)  
+  * [Language Trends Over Time](https://github.blog/news-insights/research/language-trends-on-github/) - 2015
+  * [Top Programming Languages Used](https://octoverse.github.com/2022/top-programming-languages) - 2022  
+  * [GitHub Octoverse](https://github.blog/news-insights/octoverse/octoverse-2024/) 2024  
+
+More cool projects on GitHub
+* [Incarceration by the Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
+* [Wealth in Pixels](https://alysonla.github.io/1-pixel-wealth/) 
+
 3. ☕️ Break 
 4. 🙌🏻 Share & Tell - [Tableau with AI](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) assignment
 5. 🔜 Wrap up & Look Ahead
