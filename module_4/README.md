@@ -110,6 +110,7 @@ In this video we'll complete a beginner project in Tableau, from start to finish
   * [GitHut](https://madnight.github.io/githut/#/pushes/2024/1)  
   * [Language Trends Over Time](https://github.blog/news-insights/research/language-trends-on-github/) - 2015
   * [GitHub Octoverse](https://octoverse.github.com/2016/) - 2016
+  * [GitHub Octoverse](https://octoverse.github.com/2017/) - 2017
   * [GitHub Octoverse](https://octoverse.github.com/2019/) - 2019
   * [GitHub Octoverse](https://octoverse.github.com/2020/) - 2020 
   * [GitHub Octoverse](https://octoverse.github.com/2021/) - 2021
