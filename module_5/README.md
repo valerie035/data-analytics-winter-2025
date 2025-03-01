@@ -13,6 +13,8 @@ In this module, students will learn the fundamentals of data storytelling—how 
 
 ## Video Lessons - complete by Wednesday, March 5th, 2025
 
+- [ ] Watch video [How to turn Data into Stories](https://www.youtube.com/watch?v=Hfx1X9WSGYQ&pp=ygUbZGF0YSBzdG9yeXRlbGxpbmcgdGVkIHRhbGsg)
+
 ## Wednesday, March 5th, 2025 - In Class Agenda: 
 
 1. 💃 Welcome and Networking 
