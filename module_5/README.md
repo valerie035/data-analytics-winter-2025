@@ -6,11 +6,25 @@ In this module, students will learn the fundamentals of data storytelling—how 
 
 ## Learning Outcomes 
 
+* Explain the purpose of data storytelling and its role in decision-making
+* Select and design effective data visualizations for clarity and impact
+* Craft cohesive narratives that contextualize and highlight key insights
+* Implement ethical and inclusive practices in presenting and interpreting data
+
 ## Video Lessons - complete by Wednesday, March 5th, 2025
 
 ## Wednesday, March 5th, 2025 - In Class Agenda: 
 
+1. 💃 Welcome and Networking 
+2. 💜 Weber State Micro-Credential Setup 
+3. ☕️ Break 
+4. 👩🏻‍🏫 Lecture - Storytelling with Data 
+5. 🔜 Wrap up & Look Ahead
+
 ## Assignment - complete by Saturday, March 8th, 2025 
 
 ## Saturday, March 8th, 2025 - In Class Agenda: 
+
+1. 🙌🏻 Share & Tell 
+2. 🎤 Guest Speaker - [Apoorva Bura](https://www.linkedin.com/in/apoorva-bura/) 
 
