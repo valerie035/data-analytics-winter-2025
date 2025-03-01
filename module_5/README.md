@@ -13,7 +13,7 @@ In this module, students will learn the fundamentals of data storytelling—how 
 
 ## Video Lessons - complete by Wednesday, March 5th, 2025
 
-_Estimated Time to Complete 4 hrs_ 
+_Estimated Time to Complete 1.5 hrs_ 
 
 - [ ] Watch video [Best Stats You've Ever Seen](https://www.youtube.com/watch?v=hVimVzgtD6w) 
 
@@ -28,6 +28,10 @@ _Estimated Time to Complete 4 hrs_
 5. 🔜 Wrap up & Look Ahead
 
 ## Assignment - complete by Saturday, March 8th, 2025 
+
+_Estimated Time to Complete 8 hours_ 
+
+- [ ] Complete the [Data Storytelling](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/178) Assignment 
 
 ## Saturday, March 8th, 2025 - In Class Agenda: 
 
