@@ -10,9 +10,9 @@ In this module, students will explore Looker, a powerful business intelligence t
 - Connect Looker to a data source and explore data
 - Build and customize dashboards
 - Apply filters for interactive dashboard elements
-- Share dashboards and schedule reports
+- Share dashboards 
 
-## Video Lessons - Complete by class Wednesday
+## Video Lessons - Complete by class Wednesday/Saturday
 
 _Watch the videos below, edit the markdown file with an x in the checkbox when complete, then commit changes._
 
@@ -30,4 +30,7 @@ _Estimated total time to complete: 1 hour_
 _Estimated total time to complete: 4 hours_
 
 - [ ] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
-- [ ] Follow along in Google Looker Data Studio  
+- [ ] Follow along in Google Looker Data Studio to create a Looker Dashboard
+- [ ] You can use the data provided in the video OR choose a data set that interest you from [kaggle](https://www.kaggle.com/datasets) to analyze/visualize.  
+
+- [ ] Drop you completed dashboard in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/180) tread.   
