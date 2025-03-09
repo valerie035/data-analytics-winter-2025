@@ -52,7 +52,7 @@ For example:
 - [x] What percentage of respondant's have taken a new position since starting Tech-Moms?
 - [x] What is the ratio of respondant's that are working Full-Time vs Part-Time vs Not Currently Employed
 - [x] How many hours are respondant's working each week? (binned by hours)
-- [ ] What percentage are currently seeking employment?
+- [x] What percentage are currently seeking employment?
 - [ ] etc 
 
 The last 4 questions are self-evaluation of alumni's growth since participing in the Tech-Moms program. Find the average of each coulumn to know it's rating out of 5 stars. 
