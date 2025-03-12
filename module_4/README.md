@@ -68,13 +68,82 @@ In this video we'll complete a beginner project in Tableau, from start to finish
 
 ---
 
+## Wednesday, Feb 19th - In Class Agenda: 
+
+1) 👯‍♀️ Welcome & Networking - 15 mins 
+2) 🧹 [Makeover Monday](https://www.linkedin.com/posts/alysonla_makeover-monday-this-weeks-graph-activity-7297509866040872960-HCyL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAADRRGUBxPPtJPjvKfBv7jnLob0bmCXSftY) - 15 mins 
+3) 💻 Guest Speaker - [Dallin Bentley](https://www.linkedin.com/in/dallinbentley/) - [Buster Demo](https://www.buster.so/) - 30 mins - 7:30pm - 8pm 
+4) ☕️ Break - 5 mins 
+5) 📝 [Weekly Quiz](https://docs.google.com/forms/d/e/1FAIpQLScwNuEdDTIUhOlctH67dDdx9flMnGvw90ztQ62PoGcE-oe8BA/viewform) & [Module 3 feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdD4ySs4AzmOEp03gHCZoZcZjoZMq0sM1i4eyhjpl5Exwf_sg/viewform) - 15 mins 
+6) 👩🏻‍🏫 Lecture - [Understanding BI Tools](https://docs.google.com/presentation/d/1d6dLvxIRW1X652I9NgP4FBbG__K8_vnHskkZ2uaoK_M/edit?usp=sharing) - 40 mins
+7) 🔜 Wrap up & Look Ahead - 5 mins 
+
 ## Assignment - Complete by class Saturday, Februrary 22nd 
 
 ### Create a Tech-Moms Annual Report Dashboard 
 
+
 - [x] Create a Tableau dashboard using both the Tech-Moms applicant and survey data
 - [x] See last year's annual report for inspiration 
 - [x] Drop a link to your Tableau dashboard in this [discussions](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/149) thread. 
+
+## Saturday, Feb 22nd - In Class Agenda: 
+
+1. 💃 Share & Tell - Alex the Analyst Dashboard & Annual Report
+2. 🎉 Pull Request Party 
+3. 💻 SQL Saturday
+4. ☕️ Break 
+5. 🙌🏻 Guest Speaker - [Mina Schneider](https://www.linkedin.com/in/minaschneider/) - Sr. Principal IT System Architect @ BAE Systems
+6. 🔜 Wrap up and look ahead 
+
+----
+
+## Assignment - Complete by class Wednesday, February 26th
+
+- [ ] Research AI updates in Tableau
+- [ ] Create a slide deck of your finds & post in [this](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) discussion thread 
+
+## Wednesday, Feb 26th - In Class Agenda: 
+
+1. 👯‍♀️ Welcome and Networking 
+2. 📊 Makeover Monday 
+  * [GitHut](https://madnight.github.io/githut/#/pushes/2024/1)  
+  * [Language Trends Over Time](https://github.blog/news-insights/research/language-trends-on-github/) - 2015
+  * [GitHub Octoverse](https://octoverse.github.com/2016/) - 2016
+  * [GitHub Octoverse](https://octoverse.github.com/2017/) - 2017
+  * [GitHub Octoverse](https://octoverse.github.com/2019/) - 2019
+  * [GitHub Octoverse](https://octoverse.github.com/2020/) - 2020 
+  * [GitHub Octoverse](https://octoverse.github.com/2021/) - 2021
+  * [Top Programming Languages Used](https://octoverse.github.com/2022/top-programming-languages) - 2022  
+  * [GitHub Octoverse](https://github.blog/news-insights/research/the-state-of-open-source-and-ai/) - 2023 
+  * [GitHub Octoverse](https://github.blog/news-insights/octoverse/octoverse-2024/) - 2024  
+
+More cool projects on GitHub
+* [Incarceration by the Numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/)
+* [Wealth in Pixels](https://alysonla.github.io/1-pixel-wealth/) 
+* [GitHub Data in BigQuery](https://github.blog/news-insights/research/github-data-ready-for-you-to-explore-with-bigquery/)
+
+Data Viz Slidedecks: 
+* [Remove to Improve](https://speakerdeck.com/cherdarchuk/remove-to-improve-the-data-ink-ratio)
+* [Tips for Viz Best Practices](https://speakerdeck.com/alysonla/9-tips-for-effective-data-visualizations)
+
+3. ☕️ Break 
+4. 🙌🏻 Share & Tell - [Tableau with AI](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/165) assignment
+5. 🔜 Wrap up & Look Ahead
+
+## Saturday, March 1st - In-Person Agenda: 
+
+Deets: 
+* Time: 10am - 2pm 
+* Location: [Adobe HQ](https://maps.app.goo.gl/zHzGT71a6omdf8rU8) in Lehi 
+* Agenda: 
+    - 10:00 AM - 10:30 AM: Welcome and Ice Breaker
+    - 10:30 AM - 12:00 PM: Adobe Analytics Workshop with [Jennifer Werkmeister](https://www.linkedin.com/in/jennifer-werkmeister/): Sr. Product Manager - Adobe Analytics 
+    - 12:00 PM - 1:00 PM: Lunch
+    - 1:00 PM - 2:00 PM: Guest Speaker - [Alison Lutjemeier](https://www.linkedin.com/in/aliloo/): Director, Customer Feedback @ Adobe & Tech-Moms Board Member 
+
+-----
+
 
 ## Additional Resources: 
 
