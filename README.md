@@ -57,17 +57,6 @@ To do this, you will:
 
 This approach will help you build familiarity with GitHub, an essential tool in the developer and data analytics community. Additionally, using GitHub will allow you to showcase your work and track your progress. 
 
-## **Modules & Weekly Breakdown**
-
-### **Module 1: Data Analytics & AI Foundations**
-- 📚 **Topics Covered:**
-  - What is Data Analytics?
-  - Overview of the Data Analytics Lifecycle
-  - Roles in Data Analytics
-- 🔗 [Lesson Plan](./module_1/lesson_plan_1.md)
-
-### **Module 2: Excel/Google Sheets**
-
 ---
 
 ## **How to Contribute**
