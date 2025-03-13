@@ -23,6 +23,9 @@ _Estimated total time to complete: 1 hour_
 - [x] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
 - [x] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
 
+- [ ] ![Uploading Screenshot 2025-03-12 at 7.03.45 PM.png…]()
+
+
 ----
 
 <img width="750" alt="Screenshot 2024-09-26 at 2 16 38 PM" src="https://github.com/user-attachments/assets/f566947c-619e-4481-9f98-1d161dcd1aa5">
