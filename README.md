@@ -30,8 +30,7 @@ Welcome to the **Tech-Moms Data Analytics Course**! This course is designed to e
 
 1. [Course Syllabus](#course-syllabus)
 2. [Using GitHub for our Class](#using-github-for-our-class)
-3. [Modules & Weekly Breakdown](#modules--weekly-breakdown)
-4. [How to Contribute](#how-to-contribute)
+3. [How to Contribute](#how-to-contribute)
 
 ---
 
