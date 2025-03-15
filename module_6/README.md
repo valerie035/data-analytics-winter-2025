@@ -29,7 +29,7 @@ _Estimated total time to complete: 1 hour_
 
 _Estimated total time to complete: 4 hours_
 
-- [ ] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
-- [ ] Follow along in Google Looker Data Studio to create a Looker Dashboard
-- [ ] You can use the data provided in the video OR choose a data set that interest you from [kaggle](https://www.kaggle.com/datasets) to analyze/visualize.  
-- [ ] Drop your completed dashboard in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/180) tread.   
+- [x] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
+- [x] Follow along in Google Looker Data Studio to create a Looker Dashboard
+- [x] You can use the data provided in the video OR choose a data set that interest you from [kaggle](https://www.kaggle.com/datasets) to analyze/visualize.  
+- [x] Drop your completed dashboard in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/180) tread.   
