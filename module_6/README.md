@@ -23,7 +23,9 @@ _Estimated total time to complete: 1 hour_
 - [x] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
 - [x] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
 <img width="769" alt="Screenshot 2025-03-12 at 7 06 03 PM" src="https://github.com/user-attachments/assets/f6371a81-4055-4635-a1b1-1b27ad977b9e" />
+
 [Dashboard on Looker](https://lookerstudio.google.com/reporting/f9e835d8-d999-455e-8786-7d04bc1877fb)
+
 
 
 
@@ -38,8 +40,12 @@ _Estimated total time to complete: 4 hours_
 - [x] You can use the data provided in the video OR choose a data set that interest you from [kaggle](https://www.kaggle.com/datasets) to analyze/visualize.  
 - [x] Drop your completed dashboard in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/180) thread.   
 
-[Dashboard on Looker](<img width="602" alt="Screenshot 2025-03-15 at 7 01 58 PM" src="https://github.com/user-attachments/assets/ea0abf7c-fd54-4dc3-bfd7-9c6a7e654ce6" />)
-[preview link:] (https://lookerstudio.google.com/reporting/cd8852ae-c659-4cce-abc8-2b8d10b58e1b)
+[Dashboard on Looker](https://github.com/user-attachments/assets/ea0abf7c-fd54-4dc3-bfd7-9c6a7e654ce6)
+
+![Screenshot](https://github.com/user-attachments/assets/ea0abf7c-fd54-4dc3-bfd7-9c6a7e654ce6)
+
+[Preview link](https://lookerstudio.google.com/reporting/cd8852ae-c659-4cce-abc8-2b8d10b58e1b)
+
 
 
 ## Wednesday, March 12th, 2025 - In Class Agenda: 
