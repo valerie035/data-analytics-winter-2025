@@ -39,7 +39,7 @@ _Estimated total time to complete: 4 hours_
 - [x] Drop your completed dashboard in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/180) thread.   
 
 [Dashboard on Looker](<img width="602" alt="Screenshot 2025-03-15 at 7 01 58 PM" src="https://github.com/user-attachments/assets/ea0abf7c-fd54-4dc3-bfd7-9c6a7e654ce6" />)
-preview link: https://lookerstudio.google.com/reporting/cd8852ae-c659-4cce-abc8-2b8d10b58e1b
+[preview link:] (https://lookerstudio.google.com/reporting/cd8852ae-c659-4cce-abc8-2b8d10b58e1b)
 
 
 ## Wednesday, March 12th, 2025 - In Class Agenda: 
