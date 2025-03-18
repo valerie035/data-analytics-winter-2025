@@ -20,8 +20,8 @@ _Watch the videos below, edit the markdown file with an x in the checkbox when c
 
 _Estimated total time to complete: 1 hour_
 
-- [x] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
-- [x] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
+- [ ] Watch [this](https://youtu.be/AaiPFcBDgtk?si=e9VhNCEiZauixPNh&t=1) video and mark when complete
+- [ ] Follow along in [Google Looker Data Studio](https://lookerstudio.google.com/) to create your first Looker Dashboard
 
 ----
 
@@ -29,11 +29,11 @@ _Estimated total time to complete: 1 hour_
 
 _Estimated total time to complete: 4 hours_
 
-- [x] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
-- [x] Follow along in Google Looker Data Studio to create a Looker Dashboard
-- [x] You can use the data provided in the video OR choose a data set that interest you from [kaggle](https://www.kaggle.com/datasets) to analyze/visualize.  
-- [x] Drop your completed dashboard in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/180) tread.   
-  
+- [ ] Watch [this](https://www.youtube.com/watch?v=dsAVSsdYC10&t=1s) video and mark when complete
+- [ ] Follow along in Google Looker Data Studio to create a Looker Dashboard
+- [ ] You can use the data provided in the video OR choose a data set that interest you from [kaggle](https://www.kaggle.com/datasets) to analyze/visualize.  
+- [ ] Drop your completed dashboard in [this discussion](https://github.com/Tech-Moms/data-analytics-winter-2025/discussions/180) thread.   
+
 ## Wednesday, March 12th, 2025 - In Class Agenda: 
 
 1. 💃 Welcome and Networking 
@@ -56,3 +56,4 @@ _Estimated total time to complete: 4 hours_
 3. 🔜 Wrap up & Look Ahead 
 4. ☕️ Break
 5. 💃 Guest Speaker - [Jessica Currun](https://www.linkedin.com/in/jessica-curran/) - VP Data Science & Analytics @ Health Catalyst 
+
