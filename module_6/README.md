@@ -53,10 +53,21 @@ _Estimated total time to complete: 4 hours_
 1. 💃 Welcome and Networking 
 2. 🎓 Capstone Overview
    * Guest Speaker - Worthy Lee 
-3. 🤖 AI Demo & Hack time  
+3. ☕️ Break
+4. 🤖 AI Demo & Hack time  
     * [Loveable.dev](Loveable.dev)
     * [Story Magic](https://lovable.dev/projects/e581faca-7bca-42a7-8e0a-25bdb8c7ca39)  
-3. ☕️ Break
-4. ❓ [Quiz]() - Looker Quiz
-5. 👩🏻‍🏫 Demo - A Look at some Looker Dashboards 👀
-6. 🔜 Wrap up & Look Ahead 
+5. 🔜 Wrap up & Look Ahead 
+
+## Saturday, March 15th, 2025 - In Class Agenda: 
+
+1.  👩🏻‍🏫 Demo - A Look at some Looker Dashboards 👀
+ * [Amazon Wrapped Overview](https://docs.google.com/document/d/1YH8_gUMizZJQ029U88DO0eE50ipQKvFuwn2z5wuuNjY/edit?usp=sharing)
+ * Alyson's Family [Amazon Spending 2012 - 2022](https://lookerstudio.google.com/u/0/reporting/d23ddc26-abe0-4ef6-ac13-fe3dd1333763/page/DZi1D/edit) 🙈
+ * [Amazon Spending 2023](https://lookerstudio.google.com/reporting/9e03492a-4877-4d06-a805-ac2073015a28) 
+ * [Amazon Wrapped 2024 (1/2 year)](https://lookerstudio.google.com/u/0/reporting/e5625437-607d-409e-a7ee-ff87fe49d8a1/page/p_r0i8972eid) 
+2. 🙌🏻 Share and Tell
+3. 🔜 Wrap up & Look Ahead 
+4. ☕️ Break
+5. 💃 Guest Speaker - [Jessica Currun](https://www.linkedin.com/in/jessica-curran/) - VP Data Science & Analytics @ Health Catalyst 
+
