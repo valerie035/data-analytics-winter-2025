@@ -15,7 +15,7 @@ This week is "Choose Your Adventure" week where you go deeper on a topic of your
 ## Wednesday, March 19th, 2025 - In Class Agenda: 
 
 1. 💃 Welcome and Networking 
-2. 🏆 Bingo Cards 
+2. 🏆 [Bingo Cards](https://www.canva.com/design/DAGU4YZWjhA/a95sS4Z2f2YJENhFDC3zAg/edit?utm_content=DAGU4YZWjhA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 3. 👍 Choose Your Adventure Week discussion
 4. ☕️ Break
 5. 🤖 Database Demo 
