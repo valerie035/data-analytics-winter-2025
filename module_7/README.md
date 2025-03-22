@@ -18,7 +18,7 @@ In this module, students will learn how to use Domo to connect data sources, cre
 
 - [ ] Visit [domo.com/start/student](https://www.domo.com/start/student) to create a Domo student account using your weber.edu email address
 
-## Video Lessons 
+## Video Lessons - Complete by class Saturday, March 29th
 
 _Total estimated time to complete: ~10 hours_
 
