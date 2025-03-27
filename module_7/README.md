@@ -99,7 +99,7 @@ In this section on dashboarding, you'll learn how to make visuals stand out, inc
 (In addition to the favorites: ChatGPT & Claude) 
 
 3. ☕️ Break
-4. 🩵 Domo Lecture   
+4. 🩵 [Thinking like an Analyst](https://docs.google.com/presentation/d/1Jz7Zwlhja3oeDUnkfviZ_w9-eAmPWP1og5zLf8DRmUc/edit#slide=id.g28374011be7_0_143) Lecture    
 5. 🔜 Wrap up & Look Ahead 
 
 ## Assignment #7 
