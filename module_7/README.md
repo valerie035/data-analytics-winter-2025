@@ -90,7 +90,12 @@ In this section on dashboarding, you'll learn how to make visuals stand out, inc
    * How do you Slack? 
    * Capstone Q&A 
 2. ⏮️ Domo Video Recap 
-3. 🤖 AI Demo - bolt.new 
+3. 🤖 AI Demo - "The big 4" 
+    * Loveable.dev
+    * bolt.new 
+    * replit 
+    * v0 
+(In addition to the favorites: ChatGPT & Claude) 
 3. ☕️ Break
 4. 🩵 Domo Lecture   
 5. 🔜 Wrap up & Look Ahead 
