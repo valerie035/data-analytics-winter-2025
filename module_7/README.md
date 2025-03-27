@@ -89,7 +89,7 @@ In this section on dashboarding, you'll learn how to make visuals stand out, inc
 1. 💃 Welcome, Networking, and Annoucements  
    * How do you Slack? 
    * Capstone Q&A 
-2. 🎓 Domo Video Recap 
+2. ⏮️ Domo Video Recap 
 3. 🤖 AI Demo - bolt.new 
 3. ☕️ Break
 4. 🩵 Domo Lecture   
