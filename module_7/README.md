@@ -95,7 +95,9 @@ In this section on dashboarding, you'll learn how to make visuals stand out, inc
     * bolt.new 
     * replit 
     * v0 
+
 (In addition to the favorites: ChatGPT & Claude) 
+
 3. ☕️ Break
 4. 🩵 Domo Lecture   
 5. 🔜 Wrap up & Look Ahead 
