@@ -87,7 +87,7 @@ Note: I cleaned the data here (thanks for the troubleshooting ChatGPT) because I
 ### Step Four: Validate Your Data 
 
 Before polishing and presenting your data, you will want to validate that the results are correct so your stakeholders can trust it.
-- [ ] Compare your results against the [survey kiwi](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/survey_kiwi.md) output. 
+- [x] Compare your results against the [survey kiwi](https://github.com/Tech-Moms/data-analytics-winter-2025/blob/main/module_2/assignments/survey_kiwi.md) output. 
 
 ### Step Five: Create Charts & Build a Dashboard 
 
