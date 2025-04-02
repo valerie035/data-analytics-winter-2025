@@ -63,6 +63,27 @@ Evaluate the open ended replies for themes that stand out. You could do a key wo
 
 We also want to know what % of applicants that were "Assigned Cohort" in the [Tech-Moms Application Data](https://docs.google.com/spreadsheets/d/1BhskpHGoHSl2fuXY3qjnqSpgI2imWB2Ng7OYP-pWslI/edit?usp=sharing) filled out a survey. Use the Contact ID column in each table to "join" the tables together and find out if the student completed the survey or not. Write down the tasks below you would need to do to find this out. 
 
+> 1 - make sure I have both sheets. 
+Application data: Contact ID, Applicant Status: Assigned Cohort
+Survey Data: Contact ID (yes or no?)
+→ Make sure the data is clean in applicable columns
+
+> 2 – Combine both sheets into one workbook. 
+(I made a new copy of my survey data specifically for this so I don’t “break” something from my prior copy. I used Chat GPT to refine my approach with some questions I had, and I learned that in excel you can use xlookup in sheets in different workbooks, but it might not work if the sheets/workbooks aren’t all open. In GoogleSheets, there is an alternate method to Xlookup that allows multiple workbook lookup called “importrange,” but given the assignment I’m merging the files into one workbook. I chose to filter for “assigned cohort” first and only copy those into the merged file. 
+
+> 3 - Identify the contactID column in both sheets. 
+
+> 4 - in the Application data sheet, add a new column that answers the assigned question. Survey Completed? 
+
+> 5 - use xlookup to match the contact IDs between the sheets and answer the question in the newly created column
+=IF(XLOOKUP(TRIM(CLEAN(A2)), ARRAYFORMULA(TRIM(CLEAN('Survey Data for Analysis'!A:A))), 'Survey Data for Analysis'!B:B, "") = "", "No", "Yes")
+Note: I cleaned the data here (thanks for the troubleshooting ChatGPT) because I didn’t have it clean initially, but then went back and cleaned it initially. 
+
+> 6 - copy and paste the column as values so you can calculate a percentage 
+
+> 7 - write a formula to figure out the percentage OR do a pivot table. I’m going to do a pivot table so I can practice that skill more (and the idea that it would update with changing data)
+
+
 ### Step Four: Validate Your Data 
 
 Before polishing and presenting your data, you will want to validate that the results are correct so your stakeholders can trust it.
