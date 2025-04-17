@@ -91,19 +91,22 @@ Before polishing and presenting your data, you will want to validate that the re
 
 ### Step Five: Create Charts & Build a Dashboard 
 
-- [ ] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
+- [x] For each question answer, create a visualization that best conveys the data. As much of the responses are shown in % of total form, try out different types of charts - pie chart, vertical bar chart, and horizontal bar chart. Is there a certain visualization you like best?
 
 ### Step Six: Make it Aesthetic 
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
-- [ ] Upload the Tech-Moms logo to the dashboard.
-- [ ] Update the Dashboard theme to use Tech-Moms’ brand colors.
+- [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [x] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
+- [x] Upload the Tech-Moms logo to the dashboard.
+- [x] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
 ### Step Seven: Ask for Feedback 
 
-- [ ] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
-- [ ] Incorporate the feedback
-- [ ] Do a little happy dance - you're crushing it! 💃
+- [x] Ask a study buddy or data mentor for feedback on your dashboard / visualizations 
+- [x] Incorporate the feedback
+- [x] Do a little happy dance - you're crushing it! 💃
 
 **Note:** In a future assignment we will practice our data storytelling skills by putting our visualizations and insights into a slide presentation for Share & Tell + Tech-Moms leadership. ✨ 
+
+
+![Dashboard Screenshot Excel Sheets Survey Data Module 2](https://github.com/user-attachments/assets/75df31ee-34ce-474f-bd87-d4d417972f6b)
